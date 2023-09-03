@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,age,email,country,postal_code,favorite_color,purchase_history,sales_amount,last_purchase_date,loyalty_level,customer_segment,customer_status,average_order_value,total_orders,customer_lifetime_value,customer_acquisition_date,customer_churn_date,customer_source,customer_rating
+1,Jerrine,Gobel,46,jgobel0@nationalgeographic.com,South Korea,,green,23.26,3869.82,5/5/2021,platinum,low-value,inactive,504.93,23,57930.69,1/28/2020,2/2/2011,referral,4
+2,Christi,Burland,69,cburland1@artisteer.com,China,,blue,17.22,725.64,5/18/2015,platinum,mid-value,active,35.26,150,27144.23,12/20/2020,12/11/2016,referral,5
+3,Joellen,Fall,18,jfall2@dion.ne.jp,Colombia,56478,red,4.01,1818.74,5/5/2016,bronze,high-value,active,152.34,368,26085.44,5/12/2017,7/22/2019,social media,3
+4,Kirstyn,Strother,47,kstrother3@economist.com,China,,red,48.55,7465.96,5/27/2016,silver,high-value,inactive,728.39,600,74431.01,2/18/2015,2/23/2011,email marketing,5
+5,Nikita,Klementz,21,nklementz4@icio.us,Sweden,111 95,red,50.45,3884.88,6/8/2012,bronze,low-value,active,902.04,198,38924.41,8/23/2015,3/2/2011,social media,3
+6,Edwin,Neesam,34,eneesam5@businessweek.com,Japan,369-0137,blue,59.6,5496.08,3/31/2021,silver,low-value,active,615.01,321,95643.9,9/26/2016,11/17/2018,email marketing,3
+7,Morley,Paine,42,mpaine6@microsoft.com,Canada,E5L,green,4.09,9578.68,2/7/2011,bronze,high-value,active,871.7,840,33844.93,8/20/2021,7/27/2012,,1
+8,Tabbi,Deighan,62,tdeighan7@wikia.com,Myanmar,,green,81.29,5391.36,3/24/2011,platinum,mid-value,inactive,745.1,121,34916.07,6/22/2020,11/9/2018,referral,4
+9,Kincaid,Biner,67,kbiner8@nsw.gov.au,Canada,K7R,blue,21.45,70.09,2/14/2020,gold,high-value,active,376.82,595,5285.02,5/25/2011,5/24/2013,referral,3
+10,Jewelle,Zukierman,71,jzukierman9@ed.gov,Indonesia,,blue,61.01,2941.78,2/14/2021,,mid-value,inactive,380.62,189,25054.79,6/24/2017,11/19/2011,,4
+11,Inger,Gabits,58,igabitsa@nsw.gov.au,Japan,421-0522,green,80.16,7733.12,3/13/2013,platinum,low-value,active,236.22,336,91792.97,7/24/2016,10/22/2011,social media,3
+12,Willy,Baugh,67,wbaughb@umn.edu,Philippines,3309,blue,77.62,9321.7,10/27/2018,silver,mid-value,active,,838,2382.98,6/26/2017,9/7/2015,social media,3
+13,Leone,Rushford,20,lrushfordc@slideshare.net,Indonesia,,red,50.83,401.4,12/16/2018,silver,low-value,inactive,,340,85503.96,12/23/2014,1/17/2018,email marketing,5
+14,Rosie,Braganca,21,rbragancad@latimes.com,Tunisia,,green,70.14,9659.68,4/10/2014,gold,low-value,inactive,195.92,424,47419.07,1/23/2014,4/20/2010,social media,3
+15,Shanon,Lytlle,59,slytllee@newyorker.com,Portugal,4785-103,green,64.77,3921.61,2/3/2019,silver,low-value,inactive,,642,65200.86,6/16/2016,7/28/2011,referral,2
+16,Olav,McMoyer,28,omcmoyerf@wired.com,China,,red,15.97,8487.59,4/27/2020,platinum,mid-value,active,705.79,581,61637.99,1/6/2012,7/30/2020,referral,2
+17,Yetta,Scripps,40,yscrippsg@ftc.gov,Peru,,blue,32.21,8012.56,1/23/2011,bronze,low-value,active,199.85,317,84700.13,10/12/2013,12/3/2016,email marketing,1
+18,Tiffie,Spedroni,36,tspedronih@unc.edu,United States,98008,blue,57.28,7859.21,1/28/2015,platinum,mid-value,inactive,929.51,305,57536.17,7/14/2017,11/24/2017,email marketing,2
+19,Mari,Matthis,33,mmatthisi@hubpages.com,Bulgaria,7319,red,53.56,9592.85,3/22/2011,bronze,mid-value,inactive,618.9,222,53488.12,4/4/2019,5/11/2013,email marketing,2
+20,Kassey,Dryden,43,kdrydenj@google.co.jp,Portugal,2655-121,blue,19.06,144.54,8/25/2012,silver,low-value,active,209.63,255,52854.85,11/16/2013,12/28/2012,social media,3
+21,Ruthy,Hebborne,47,rhebbornek@go.com,China,,red,29.03,7683.94,5/11/2020,platinum,mid-value,inactive,572.35,489,25900.89,3/25/2021,7/4/2021,email marketing,1
+22,Alidia,Mc Elory,27,amceloryl@state.gov,Philippines,9313,green,58.28,6407.24,6/27/2012,platinum,mid-value,active,196.59,206,6585.92,9/9/2012,12/13/2017,referral,4
+23,Mia,Robey,19,mrobeym@a8.net,China,,blue,13.11,7841.37,2/4/2013,gold,high-value,active,108.97,727,36576.62,3/28/2014,6/23/2012,referral,1
+24,Mireille,Milby,49,mmilbyn@alibaba.com,El Salvador,,green,79.84,6691.1,10/15/2022,gold,mid-value,inactive,651.5,599,92064.08,10/26/2016,5/31/2022,,2
+25,Port,Brecknock,77,pbrecknocko@pinterest.com,Afghanistan,,blue,45.28,6188.32,3/21/2011,bronze,low-value,active,127.22,846,54795.43,10/27/2016,12/5/2022,email marketing,2
+26,Thaxter,Bedrosian,43,tbedrosianp@elpais.com,France,93616 CEDEX,green,25.95,9379.03,7/11/2017,bronze,high-value,active,632.47,835,38980.73,2/22/2012,11/2/2020,referral,1
+27,Madison,Shatliffe,56,mshatliffeq@geocities.jp,Hungary,7621,green,38.54,6101.48,6/18/2019,bronze,high-value,inactive,988.73,85,4960.57,6/9/2020,2/3/2011,referral,4
+28,Isidore,Maestro,66,imaestror@typepad.com,Brazil,13920-000,red,61.82,8439.84,4/6/2017,platinum,mid-value,inactive,82.64,989,18847.94,4/30/2012,6/25/2014,referral,1
+29,Mylo,McKinlay,29,mmckinlays@wunderground.com,Ukraine,,blue,60.11,4842.94,5/27/2010,gold,low-value,active,671.04,47,65558.37,8/18/2020,11/28/2020,social media,3
+30,Harli,Raddenbury,61,hraddenburyt@rakuten.co.jp,Poland,97-510,red,11.11,9007.74,2/4/2019,platinum,high-value,active,970.07,737,96134.07,7/6/2014,3/16/2016,email marketing,4
+31,Deloris,Hollyar,72,dhollyaru@nifty.com,Indonesia,,red,38.58,2734.73,3/18/2017,platinum,low-value,active,,858,46463.46,1/4/2020,4/21/2013,,3
+32,Lorain,Wolland,85,lwollandv@washington.edu,China,,green,69.66,9294.75,6/25/2012,platinum,mid-value,active,620.56,674,45320.65,7/24/2022,8/3/2010,referral,1
+33,Aubrey,Retchless,85,aretchlessw@google.com.au,Indonesia,,blue,89.86,4642.15,1/18/2016,gold,high-value,inactive,810.93,39,73955.75,9/18/2020,5/26/2019,social media,5
+34,Adey,Stonnell,79,astonnellx@unicef.org,Russia,303773,blue,44.96,610.94,3/24/2014,platinum,mid-value,inactive,222.97,542,36267.95,12/1/2019,4/18/2015,social media,5
+35,Durand,Fayerman,29,dfayermany@canalblog.com,Ecuador,,blue,28.73,161.08,7/20/2011,platinum,mid-value,inactive,547.43,313,84489.39,3/19/2013,6/18/2010,referral,2
+36,Jemimah,Fremantle,45,jfremantlez@cbsnews.com,Brazil,18560-000,red,81.82,6523.39,11/3/2011,silver,mid-value,active,581.73,234,21061.27,3/9/2019,11/13/2013,,1
+37,Daveen,Gonin,65,dgonin10@webmd.com,Portugal,4455-794,green,49.97,891.66,8/12/2016,silver,low-value,inactive,400.5,4,56463.83,10/3/2010,4/24/2015,referral,4
+38,Willard,Fratczak,68,wfratczak11@plala.or.jp,Sweden,112 45,blue,35.84,6125.41,11/11/2010,silver,mid-value,inactive,461.9,974,77547.82,2/15/2014,11/18/2017,,3
+39,Sayre,Sainz,43,ssainz12@devhub.com,Thailand,34330,green,55.24,9113.64,3/16/2011,bronze,low-value,active,911.73,916,6794.58,7/30/2015,6/4/2013,referral,3
+40,Reider,Marshman,50,rmarshman13@people.com.cn,Czech Republic,582 91,blue,13.53,4536.68,8/28/2018,platinum,mid-value,active,252.06,334,55790.44,1/2/2014,3/3/2014,referral,2
+41,Rosetta,Crabb,30,rcrabb14@nationalgeographic.com,China,,red,34.89,9399.66,12/5/2018,silver,high-value,inactive,188.15,564,53694.24,6/16/2022,3/5/2012,social media,1
+42,Nelly,Nussgen,83,nnussgen15@chronoengine.com,Philippines,4323,blue,30.45,4443.23,5/28/2012,platinum,high-value,active,38.82,789,1663.65,12/25/2018,1/24/2017,email marketing,5
+43,Minnnie,Twitchings,40,mtwitchings16@loc.gov,China,,red,56.8,8590.35,7/4/2015,bronze,mid-value,active,,277,97224.16,9/29/2010,12/9/2015,social media,2
+44,Shelton,Veelers,20,sveelers17@washingtonpost.com,China,,blue,82.96,8418.41,3/13/2022,silver,high-value,inactive,746,134,20235.97,12/31/2015,1/2/2019,email marketing,3
+45,Rochella,Glidder,74,rglidder18@noaa.gov,Peru,,red,65.96,367.38,1/24/2012,silver,mid-value,inactive,297.9,944,11406.28,12/21/2013,7/27/2022,referral,2
+46,Glenden,Jennaroy,27,gjennaroy19@ifeng.com,United States,96805,blue,41.19,9016.71,2/14/2011,gold,high-value,active,0.01,185,33575.8,8/6/2014,11/23/2022,email marketing,1
+47,Willabella,Haugh,44,whaugh1a@mtv.com,Indonesia,,blue,28.69,5753.48,12/17/2018,gold,high-value,active,856.39,905,94647.51,12/4/2018,6/7/2017,email marketing,2
+48,Emelina,Rolinson,28,erolinson1b@wunderground.com,Indonesia,,blue,68.68,4875.23,7/21/2018,silver,mid-value,active,729.88,545,70062.28,3/26/2019,8/13/2015,email marketing,4
+49,Ezri,Cokayne,45,ecokayne1c@businessinsider.com,Portugal,4730-300,red,32.89,8076.61,1/8/2014,gold,low-value,inactive,53.4,779,53115.85,8/30/2020,2/5/2018,,3
+50,Kincaid,Hopfer,43,khopfer1d@aol.com,Ireland,F23,red,78.45,7836.92,5/26/2021,,mid-value,inactive,,455,75578.99,2/17/2016,10/25/2014,,5
+51,Frankie,Cammiemile,20,fcammiemile1e@mac.com,United States,33436,red,85.3,731.78,10/2/2015,gold,low-value,inactive,160.21,897,48369.35,5/14/2021,7/5/2011,referral,1
+52,Teri,Laven,23,tlaven1f@wp.com,Dominican Republic,11109,blue,27.31,6644.38,10/11/2016,bronze,mid-value,active,829.62,537,88307.88,3/4/2020,10/26/2018,,1
+53,Hubie,Markie,24,hmarkie1g@g.co,Republic of the Congo,,red,93.69,6919.18,10/30/2022,,mid-value,inactive,235.5,751,85151.29,7/22/2015,7/12/2011,,5
+54,Hyman,Yeates,41,hyeates1h@drupal.org,Portugal,7960-155,blue,55.14,1321.44,9/26/2018,,mid-value,inactive,779.3,58,58311.47,10/3/2011,10/7/2014,referral,2
+55,Jeremias,Jannings,49,jjannings1i@whitehouse.gov,Chile,,blue,19.83,6182.46,11/8/2014,bronze,mid-value,active,338.94,944,63938.88,7/16/2020,3/10/2010,email marketing,3
+56,Ange,Grzeskowski,22,agrzeskowski1j@dell.com,France,24758 CEDEX,green,5.04,2623.19,4/23/2018,bronze,high-value,inactive,278.41,992,70024.06,3/6/2019,12/21/2011,referral,5
+57,Daron,Merrifield,73,dmerrifield1k@wordpress.org,Indonesia,,blue,30.74,322.61,10/26/2021,silver,high-value,active,571.83,420,86804.44,1/12/2013,4/25/2011,social media,2
+58,Margalit,Clissett,41,mclissett1l@meetup.com,Portugal,9900-016,red,93.36,4946.8,8/29/2018,platinum,high-value,inactive,631.86,539,95246.61,8/24/2018,7/27/2012,,4
+59,Alejoa,Peace,79,apeace1m@mail.ru,China,,blue,12.67,5696.36,1/10/2022,silver,mid-value,active,637.61,967,29152.51,7/31/2021,5/22/2014,referral,2
+60,Cris,Golson,29,cgolson1n@macromedia.com,Indonesia,,red,22.28,5364.44,5/20/2014,,mid-value,active,703.61,400,97014.88,11/13/2018,1/1/2017,email marketing,1
+61,Lisette,Sheriff,66,lsheriff1o@abc.net.au,United States,66105,blue,42.88,4259.68,12/7/2011,platinum,low-value,inactive,511.96,921,11754.25,7/9/2019,4/9/2014,,1
+62,Baxie,Southard,23,bsouthard1p@delicious.com,China,,green,66.02,4361.1,2/1/2017,bronze,low-value,inactive,298.37,527,45508.4,4/6/2012,6/26/2020,referral,5
+63,Catharine,Liggens,59,cliggens1q@mysql.com,Japan,988-0273,red,61.33,4497.81,7/9/2014,,low-value,active,290.37,103,39103.78,3/14/2018,3/22/2016,,5
+64,Kendal,Fiddler,20,kfiddler1r@army.mil,China,,blue,15.12,3023.63,7/30/2017,bronze,high-value,active,51.58,271,88515.7,2/6/2016,2/10/2022,,1
+65,Derrick,Simner,57,dsimner1s@vimeo.com,Madagascar,,blue,38.1,347.49,4/29/2021,bronze,high-value,active,196.25,402,55400.49,9/11/2012,9/17/2017,referral,1
+66,Crystal,Lightman,28,clightman1t@cyberchimps.com,Czech Republic,586 01,red,71.88,2094.99,5/12/2018,gold,low-value,inactive,293.21,646,78357.01,9/2/2021,8/27/2016,referral,3
+67,Sharai,Bannard,73,sbannard1u@deviantart.com,Maldives,,green,8.62,6877.55,2/14/2013,platinum,mid-value,inactive,40.09,480,30303,12/17/2019,10/5/2014,referral,4
+68,Mack,Blase,20,mblase1v@sciencedirect.com,Indonesia,,red,23.23,5005.82,3/4/2010,platinum,mid-value,active,757.94,520,19926.33,7/3/2012,11/20/2020,social media,3
+69,Heinrik,Flag,22,hflag1w@examiner.com,Peru,,blue,51.62,5253.69,3/22/2015,silver,mid-value,inactive,96.49,75,64848.56,6/2/2015,2/22/2018,email marketing,1
+70,Margery,Maddocks,50,mmaddocks1x@blogspot.com,Morocco,,red,71.47,2235.84,1/22/2020,silver,high-value,inactive,128.36,331,6981.77,12/21/2017,10/9/2019,,2
+71,Ranee,Piolli,85,rpiolli1y@google.fr,Chile,,blue,38.1,7491.46,4/7/2019,platinum,low-value,inactive,69.23,970,76464.2,4/29/2012,12/28/2020,social media,4
+72,Veriee,Freeth,44,vfreeth1z@bizjournals.com,Portugal,4560-750,red,93.38,2209.05,12/16/2013,gold,high-value,inactive,623.18,743,36538.42,4/25/2022,7/3/2017,social media,4
+73,Steven,Tym,25,stym20@weebly.com,Russia,461059,red,35.23,5084.5,5/7/2016,bronze,mid-value,active,421.2,138,6216.95,8/5/2013,6/19/2010,social media,4
+74,Cassius,Gayton,51,cgayton21@sohu.com,Thailand,60230,green,30.31,4051.21,6/14/2022,bronze,mid-value,inactive,798.48,490,698.39,10/22/2022,7/14/2017,referral,3
+75,Rab,Roblett,72,rroblett22@macromedia.com,Australia,1424,green,38.53,8402.21,8/20/2017,silver,high-value,active,727.67,163,8314.36,9/6/2011,7/12/2019,social media,4
+76,Nada,Giacomozzo,28,ngiacomozzo23@goo.gl,Indonesia,,red,87.2,8066.15,4/11/2013,silver,low-value,active,775.47,3,7800.04,12/13/2014,8/31/2010,referral,3
+77,Katrina,Uridge,58,kuridge24@flavors.me,South Africa,2777,red,20.13,886.31,8/1/2013,platinum,mid-value,active,518.65,749,76787.08,4/11/2019,3/24/2010,,3
+78,Lucio,McKiernan,18,lmckiernan25@cisco.com,United States,40205,,99.36,6498.75,4/17/2013,platinum,low-value,inactive,148.51,116,77420.56,6/2/2013,9/11/2021,email marketing,4
+79,Boigie,Pistol,54,bpistol26@netvibes.com,Indonesia,,green,13.71,189.37,1/6/2020,platinum,mid-value,active,386.84,288,67949.87,1/22/2020,6/5/2016,email marketing,3
+80,Camel,Luesley,35,cluesley27@fc2.com,Finland,44280,blue,15.97,5506.43,5/5/2022,bronze,low-value,inactive,,684,46112.05,10/20/2012,5/14/2017,referral,3
+81,Tammy,Bebb,74,tbebb28@go.com,Sierra Leone,,green,89.75,9221.55,9/1/2016,platinum,low-value,active,960.15,321,48962.84,1/31/2013,1/25/2022,social media,2
+82,Shannon,Hartfield,35,shartfield29@webeden.co.uk,Philippines,6010,green,72.2,7960.58,1/2/2013,platinum,high-value,inactive,566.65,170,84365.09,2/6/2013,12/27/2016,referral,1
+83,Estella,Rippingale,33,erippingale2a@tripod.com,Portugal,5120-040,blue,13.13,2988.66,4/21/2020,platinum,high-value,inactive,,499,81425.85,6/25/2010,4/29/2016,email marketing,5
+84,Avis,Denidge,42,adenidge2b@senate.gov,Ukraine,,green,42.68,3833.58,11/11/2014,platinum,mid-value,inactive,942.18,442,15694.76,1/13/2021,4/16/2022,social media,1
+85,Hadlee,Gandey,41,hgandey2c@mysql.com,Russia,366041,blue,81.14,1913.95,12/21/2018,gold,mid-value,active,128.17,749,8198.76,10/7/2014,6/22/2022,email marketing,5
+86,Coral,Biffen,71,cbiffen2d@webnode.com,China,,green,10.87,3720.03,6/3/2021,silver,low-value,inactive,330.28,782,97741.06,3/2/2018,4/27/2019,referral,1
+87,Mina,Heskin,53,mheskin2e@pcworld.com,Poland,07-215,green,41.66,2208.96,1/21/2011,gold,low-value,active,821.42,679,4476.96,1/10/2022,9/22/2019,,3
+88,Babara,Jobbins,85,bjobbins2f@dagondesign.com,Japan,321-1436,red,64.65,4084.25,11/23/2021,platinum,high-value,active,940.44,187,45079.47,1/19/2010,5/26/2011,email marketing,4
+89,Casandra,Leynton,67,cleynton2g@oaic.gov.au,Ecuador,,green,49.09,9659.5,7/21/2010,silver,mid-value,active,519.39,514,1582.97,2/17/2016,11/26/2010,referral,5
+90,Randy,Schwandermann,68,rschwandermann2h@nps.gov,Belarus,,green,32.95,6659.43,10/12/2020,bronze,mid-value,active,426.8,625,94933.08,6/3/2020,5/14/2021,social media,5
+91,Julita,Millican,52,jmillican2i@wsj.com,Palestinian Territory,,green,15.91,9321.75,1/19/2013,bronze,mid-value,active,572.72,654,34740.71,5/10/2018,3/28/2019,social media,4
+92,Catha,De Vaux,49,cdevaux2j@google.co.uk,China,,red,58.01,4624.69,12/25/2017,silver,high-value,inactive,23.81,637,12400.61,6/27/2010,7/14/2011,referral,5
+93,Ezmeralda,Labbey,26,elabbey2k@indiatimes.com,Afghanistan,,red,68.79,4778.07,3/3/2020,,low-value,inactive,430.26,64,45780.93,9/28/2016,6/26/2012,email marketing,2
+94,Waly,Kimbling,39,wkimbling2l@vistaprint.com,Portugal,3515-729,red,69.95,6949.01,7/15/2014,silver,mid-value,inactive,777.4,702,8164.9,3/31/2014,9/9/2011,social media,1
+95,Janos,Grishenkov,84,jgrishenkov2m@hhs.gov,Ukraine,,blue,89.8,3082.13,9/11/2018,bronze,low-value,active,984.53,420,24407.92,2/10/2013,12/22/2014,email marketing,2
+96,Katherine,Shankster,21,kshankster2n@wiley.com,Portugal,9950-225,green,78.99,4648.81,7/19/2011,,high-value,active,15.98,85,70500.17,4/10/2017,1/12/2020,,4
+97,Lani,Whitebread,72,lwhitebread2o@edublogs.org,China,,red,10.29,2126.46,10/21/2011,silver,low-value,inactive,919.5,829,45296.51,6/29/2020,9/27/2015,referral,4
+98,Rachelle,Thiem,36,rthiem2p@house.gov,Argentina,8416,red,51.36,9728.87,7/28/2021,platinum,mid-value,inactive,166.63,801,32687.67,5/12/2015,6/17/2021,referral,2
+99,Palm,Hooban,28,phooban2q@comcast.net,Brazil,65790-000,green,71.53,7172.21,11/17/2016,bronze,low-value,inactive,752.46,94,26156.87,11/15/2015,1/25/2011,email marketing,2
+100,Van,Dimsdale,68,vdimsdale2r@statcounter.com,Argentina,5246,blue,46.13,9067.56,9/18/2012,platinum,mid-value,inactive,732.35,188,79445.84,12/22/2020,1/11/2016,email marketing,2
+101,Roseann,Morilla,50,rmorilla2s@examiner.com,Thailand,65190,blue,78.04,6179.11,6/7/2019,platinum,low-value,inactive,219.25,35,84518.59,2/19/2012,3/22/2018,email marketing,5
+102,Glyn,D'Aguanno,69,gdaguanno2t@globo.com,Poland,98-270,green,36.54,5489.81,7/22/2014,silver,high-value,active,964.4,167,98270.31,6/11/2018,7/9/2019,,2
+103,Margaret,Inchboard,66,minchboard2u@mysql.com,Russia,143015,blue,54.02,3831.68,9/22/2022,silver,low-value,active,805.21,199,56464.42,10/12/2018,12/5/2011,email marketing,1
+104,Kiley,Jira,52,kjira2v@trellian.com,Greece,,,63.49,7237.1,10/7/2019,bronze,mid-value,active,774.81,406,72513.99,10/30/2021,3/4/2022,social media,3
+105,Thomasa,Bartoszek,44,tbartoszek2w@forbes.com,China,,red,35.8,9559.75,4/12/2020,platinum,mid-value,inactive,269.01,143,83601.17,1/15/2013,11/18/2013,social media,3
+106,Randolf,Rauprich,48,rrauprich2x@alexa.com,China,,green,23.97,657.18,2/1/2018,bronze,mid-value,active,449.25,327,33963.38,2/19/2021,3/28/2022,social media,1
+107,Thaxter,Orteaux,47,torteaux2y@imdb.com,Ireland,R21,red,18.34,9739.82,12/2/2016,gold,high-value,inactive,798.14,491,18988.39,6/16/2012,4/19/2014,email marketing,4
+108,Constance,Francino,78,cfrancino2z@msn.com,Croatia,47302,green,22.14,7881.43,2/2/2013,silver,low-value,inactive,93.38,139,82363.44,4/25/2010,8/25/2019,email marketing,4
+109,Carr,Beseke,24,cbeseke30@uiuc.edu,Philippines,6529,green,8.79,923.65,1/23/2016,platinum,high-value,active,744.24,915,40054,1/9/2012,11/9/2014,social media,3
+110,Sibyl,Trenouth,38,strenouth31@360.cn,Russia,396647,green,79.74,9988.51,8/21/2013,bronze,low-value,inactive,450.89,76,1303.13,12/20/2019,1/31/2020,email marketing,2
+111,Harald,Seeler,51,hseeler32@friendfeed.com,Poland,32-084,green,54.32,7614.49,7/25/2021,gold,low-value,active,444.65,601,32436.97,4/10/2017,10/23/2010,social media,1
+112,Edee,Compson,24,ecompson33@huffingtonpost.com,Colombia,151427,green,61.87,2771.04,11/27/2022,bronze,high-value,inactive,773.62,997,21460.71,5/24/2021,12/21/2020,social media,2
+113,Katina,Eaglestone,42,keaglestone34@scientificamerican.com,Netherlands,4619,blue,10.46,4127.65,4/19/2013,silver,high-value,inactive,188.67,958,95669.09,3/11/2011,6/5/2013,social media,2
+114,Allyn,Varndell,78,avarndell35@newsvine.com,Uzbekistan,,red,3.84,8178.28,7/23/2017,gold,high-value,active,385.88,955,55249.64,9/20/2013,4/12/2010,,4
+115,Dunc,Otto,46,dotto36@qq.com,China,,red,24.37,4652.23,11/12/2012,gold,mid-value,inactive,187.56,784,35195.9,8/19/2012,9/10/2022,email marketing,1
+116,Dallon,Golden of Ireland,66,dgoldenofireland37@ask.com,Ukraine,,blue,92.36,558.9,10/24/2021,gold,low-value,active,638.36,124,74846.27,7/21/2015,4/28/2013,social media,2
+117,Flinn,Astin,37,fastin38@dedecms.com,Czech Republic,735 41,,50.25,8447.61,11/23/2022,bronze,low-value,inactive,992.27,212,14080.04,4/29/2018,12/1/2018,,5
+118,Colby,Redmile,32,credmile39@theatlantic.com,Indonesia,,blue,14.62,5142.3,12/1/2013,gold,mid-value,active,504.06,85,6403.71,4/25/2013,9/18/2013,referral,3
+119,Antonie,Fillery,77,afillery3a@salon.com,Norway,9414,green,92.36,4819.15,2/14/2018,silver,high-value,inactive,122.81,697,5116.58,11/26/2016,3/7/2014,referral,5
+120,Wendy,Benne,61,wbenne3b@angelfire.com,Indonesia,,green,20.82,9492.89,3/9/2015,silver,low-value,active,203.17,390,99517.61,6/26/2017,6/18/2014,,4
+121,Cahra,MacDwyer,55,cmacdwyer3c@technorati.com,Jamaica,,red,66.04,2810.62,1/6/2021,bronze,low-value,active,223.53,659,55921.22,4/2/2022,12/7/2016,referral,3
+122,Richardo,Peckitt,67,rpeckitt3d@elpais.com,Brazil,69490-000,red,8.17,8655.83,1/9/2016,gold,low-value,active,199.64,810,19006.93,12/18/2019,7/13/2014,social media,4
+123,Seamus,Wiggall,40,swiggall3e@diigo.com,Germany,22453,red,31.8,6303.21,5/16/2020,silver,mid-value,active,41.47,229,14122.37,7/5/2016,5/21/2011,referral,3
+124,Gusti,Buckthought,28,gbuckthought3f@discuz.net,China,,blue,28.07,6254.93,10/25/2017,gold,mid-value,inactive,561.42,764,70427.9,2/5/2022,2/24/2021,social media,5
+125,Veriee,Tripett,76,vtripett3g@gov.uk,Russia,629350,red,72.4,1204.71,3/1/2012,silver,high-value,inactive,866.51,953,7811.61,7/27/2020,9/24/2013,email marketing,2
+126,Hubie,Ballinger,85,hballinger3h@elegantthemes.com,Indonesia,,blue,89.96,5701.35,11/27/2018,gold,low-value,active,259.1,952,37352.77,1/17/2011,9/19/2013,email marketing,4
+127,Max,Landreth,37,mlandreth3i@360.cn,Greece,,blue,81.63,8505.99,1/21/2022,bronze,low-value,inactive,516.52,455,11816.62,2/21/2021,8/27/2020,,4
+128,Tabbie,Greeves,83,tgreeves3j@jugem.jp,Ukraine,,green,31.03,3312.69,6/23/2018,silver,low-value,active,721.64,544,68034.17,2/13/2014,5/30/2019,social media,1
+129,Walsh,Jeffrey,57,wjeffrey3k@yandex.ru,Indonesia,,red,92.16,9989.04,11/21/2021,gold,high-value,inactive,982.29,867,20355.75,11/7/2015,4/3/2019,,2
+130,Sophia,Bemlott,71,sbemlott3l@archive.org,Portugal,4605-491,green,97.27,5704.53,4/21/2022,silver,mid-value,inactive,565.24,642,75307.82,2/11/2017,8/8/2017,email marketing,5
+131,Luce,Roads,75,lroads3m@census.gov,China,,blue,99.45,4970.51,12/10/2015,silver,high-value,active,873.67,444,55907.55,12/3/2018,6/6/2017,social media,3
+132,Lynette,Joska,21,ljoska3n@reuters.com,China,,green,88.09,3877.44,3/12/2020,platinum,high-value,inactive,304.37,12,72460.28,6/18/2019,2/19/2022,referral,5
+133,Gretel,Leney,62,gleney3o@wp.com,Indonesia,,green,74.8,2039.23,5/19/2017,platinum,low-value,active,817.01,87,21411.38,4/25/2014,7/8/2017,referral,4
+134,Natalee,Lindop,20,nlindop3p@fema.gov,Czech Republic,382 08,red,67.21,1206.74,7/28/2021,,high-value,active,843.88,619,33618.32,9/24/2022,4/1/2012,referral,1
+135,Tedman,Thorouggood,31,tthorouggood3q@miibeian.gov.cn,Chad,,green,12.78,4345.25,1/27/2018,bronze,mid-value,inactive,254.79,791,15951.76,10/6/2014,4/20/2010,social media,2
+136,Puff,Densie,47,pdensie3r@ca.gov,Russia,142279,red,78.98,9948.83,9/28/2022,silver,high-value,inactive,,47,97473.08,11/8/2022,5/9/2022,email marketing,4
+137,Ginelle,Bolderson,29,gbolderson3s@jalbum.net,Azerbaijan,,green,77.75,9174.87,3/4/2015,gold,high-value,inactive,,149,40995.51,6/23/2018,8/3/2021,email marketing,4
+138,Jeremiah,Botten,63,jbotten3t@tinyurl.com,Philippines,2009,red,28.27,2501.96,5/16/2022,bronze,mid-value,active,53.3,546,43650.43,9/4/2016,5/28/2021,,1
+139,Ernesto,Jeppensen,71,ejeppensen3u@economist.com,Argentina,6309,green,34.43,6756.58,8/1/2019,silver,mid-value,active,484.1,602,52310.27,10/10/2018,3/24/2012,,3
+140,Emelen,Canter,63,ecanter3v@yandex.ru,Indonesia,,green,11.9,2434.55,5/31/2017,platinum,mid-value,active,138.63,479,46236.1,10/14/2011,8/15/2015,,2
+141,Val,Marchenko,28,vmarchenko3w@microsoft.com,Thailand,13190,blue,73.64,2424.45,12/9/2010,platinum,mid-value,active,433.5,559,75516.15,11/28/2014,4/8/2019,referral,1
+142,Kaja,Gammill,20,kgammill3x@wunderground.com,China,,green,53.14,7247.75,11/17/2013,platinum,mid-value,active,693.85,701,15205.54,9/21/2021,10/29/2017,social media,5
+143,Randa,Roycroft,64,rroycroft3y@cmu.edu,Thailand,75110,green,97.43,8059.08,1/5/2019,bronze,high-value,active,731.2,175,16192.29,11/7/2020,8/5/2014,social media,3
+144,Sherwin,Izkovici,43,sizkovici3z@reuters.com,Ivory Coast,,green,2.19,5626.11,2/7/2011,platinum,mid-value,active,369.99,455,36575.23,8/15/2017,10/17/2011,referral,4
+145,Leigha,Erskin,49,lerskin40@disqus.com,Portugal,2525-805,blue,3.51,9862.75,4/26/2022,bronze,high-value,inactive,572.89,89,11044.67,6/4/2014,3/4/2012,social media,2
+146,Jude,Hargreaves,77,jhargreaves41@reverbnation.com,Ukraine,,green,25.59,2499.86,9/26/2014,,low-value,inactive,397.11,204,64351.14,1/8/2022,4/1/2014,email marketing,3
+147,Eldin,Sailor,79,esailor42@tinyurl.com,Colombia,853059,red,19.37,3317.83,7/28/2018,bronze,high-value,inactive,73.63,595,47261.41,10/23/2015,9/3/2011,email marketing,4
+148,Hank,Brisson,59,hbrisson43@yandex.ru,China,,blue,31.88,4381.15,12/3/2011,,low-value,inactive,645.5,955,46293.17,11/26/2012,8/10/2016,,2
+149,Karoline,MacPhail,55,kmacphail44@nba.com,Brazil,12280-000,green,78.78,3077.15,1/4/2017,,mid-value,active,45.32,205,26295.16,12/26/2022,12/18/2021,email marketing,5
+150,Matteo,Fowley,23,mfowley45@amazon.de,Vietnam,,red,23.14,3196.54,6/12/2018,gold,high-value,active,916.08,995,42640.99,11/8/2017,9/2/2011,referral,4
+151,Josefa,Andrasch,29,jandrasch46@cpanel.net,South Africa,7210,red,58.72,760.02,7/19/2016,silver,high-value,active,394.99,772,22716.65,8/6/2014,6/1/2019,referral,1
+152,Aubrey,Ysson,79,aysson47@barnesandnoble.com,Indonesia,,red,88.31,5432.49,3/17/2013,gold,low-value,active,633.21,913,75116.74,5/14/2020,12/4/2011,referral,2
+153,Kordula,Forbear,33,kforbear48@statcounter.com,Nepal,,blue,61.04,1532.8,8/19/2021,platinum,mid-value,inactive,144.33,133,87722.96,6/7/2017,3/6/2016,,3
+154,Jessalin,Partleton,74,jpartleton49@elegantthemes.com,Portugal,7005-838,green,76.45,7623.78,12/25/2018,gold,mid-value,inactive,879.46,739,51073.2,3/11/2016,9/18/2017,referral,3
+155,Eloise,Waulker,25,ewaulker4a@vinaora.com,China,,blue,82.42,4975.31,10/12/2020,silver,low-value,inactive,579.13,491,78144.25,1/11/2017,8/10/2013,email marketing,1
+156,Renee,Meron,44,rmeron4b@dagondesign.com,Russia,167907,green,89.05,1593.95,2/18/2016,platinum,mid-value,active,231.49,481,1899.17,8/9/2011,5/7/2022,email marketing,3
+157,Anjela,Pettingill,51,apettingill4c@mashable.com,Russia,403879,green,97.99,3391.89,8/17/2013,gold,high-value,active,682.44,850,37153.76,4/3/2022,12/6/2019,email marketing,5
+158,Stormie,Broggini,46,sbroggini4d@ca.gov,Sweden,175 49,blue,17.05,5152.96,10/14/2021,platinum,low-value,active,786.25,830,74542.99,2/14/2017,8/15/2021,social media,4
+159,Rafferty,Cassimer,55,rcassimer4e@bigcartel.com,Ghana,,red,54.07,569.09,1/11/2021,bronze,high-value,inactive,646.82,885,63908.54,11/9/2010,12/7/2019,social media,3
+160,Raychel,Pedroni,83,rpedroni4f@cornell.edu,Croatia,51218,blue,8.09,407.76,12/22/2020,gold,mid-value,active,884.52,379,69635.04,6/27/2010,2/23/2019,referral,1
+161,Isacco,Pues,48,ipues4g@npr.org,Lithuania,21001,green,84.03,319.34,6/20/2019,bronze,mid-value,inactive,,147,19728.14,5/8/2011,8/15/2014,social media,4
+162,Dominga,Caudle,65,dcaudle4h@nbcnews.com,Brazil,89107-000,blue,72.75,4639.04,8/24/2016,platinum,low-value,inactive,249.8,514,41926.88,9/11/2013,12/21/2013,referral,3
+163,Romeo,Fairlem,39,rfairlem4i@noaa.gov,Indonesia,,red,43.54,2234.53,11/3/2018,silver,low-value,active,550.71,838,64551.05,3/4/2020,7/1/2022,social media,1
+164,Gaylor,Pickle,40,gpickle4j@hatena.ne.jp,China,,green,86.88,407.54,10/15/2016,platinum,mid-value,inactive,944.5,49,5141.72,9/12/2011,3/13/2018,social media,5
+165,Carmina,Gittins,64,cgittins4k@abc.net.au,Russia,141901,green,67.31,4687.65,3/6/2021,bronze,high-value,active,617.72,802,2972.84,6/2/2012,10/20/2021,email marketing,4
+166,Jany,Oldam,45,joldam4l@nymag.com,Central African Republic,,green,91.66,5488.88,8/7/2015,,low-value,inactive,584.76,441,40682.69,4/10/2014,4/3/2022,,2
+167,Lorry,Duckham,19,lduckham4m@washington.edu,Thailand,95140,green,22.4,94.98,5/27/2015,gold,low-value,inactive,827,884,82448.66,7/27/2020,6/16/2016,social media,2
+168,Row,Brogini,50,rbrogini4n@nbcnews.com,Czech Republic,413 01,green,13.5,6741.26,10/1/2021,silver,high-value,active,0.68,538,86086.73,3/25/2022,2/15/2017,referral,3
+169,Louella,Rosengarten,67,lrosengarten4o@woothemes.com,Ivory Coast,,red,46.25,9417.97,3/9/2013,bronze,high-value,inactive,562.51,283,67973.46,12/4/2021,8/26/2011,referral,1
+170,Darsey,Grunnill,66,dgrunnill4p@wp.com,Indonesia,,blue,64.68,3893.7,7/12/2011,gold,low-value,inactive,129.26,385,1361.83,1/10/2012,10/24/2015,,4
+171,Danie,Sigars,37,dsigars4q@netlog.com,Russia,423579,blue,45.55,510.36,9/4/2016,gold,low-value,active,733.77,39,18669.99,12/3/2013,8/22/2014,,2
+172,Ahmad,Dutch,19,adutch4r@arizona.edu,Kenya,,green,36.93,4895.72,3/14/2010,platinum,mid-value,active,165.93,407,23709.48,1/7/2017,6/29/2019,email marketing,1
+173,Quincey,Morilla,52,qmorilla4s@huffingtonpost.com,Japan,999-3222,blue,81.51,5253.7,6/22/2012,silver,mid-value,active,145.6,854,53964.75,12/26/2011,7/1/2019,email marketing,2
+174,Fannie,Fanstone,81,ffanstone4t@yellowbook.com,Japan,491-0014,blue,34.01,8413.14,11/19/2012,silver,high-value,active,287.74,152,83598.59,10/31/2017,5/7/2018,email marketing,1
+175,Shelly,Whild,58,swhild4u@google.co.uk,China,,red,37.83,8578.41,7/25/2015,silver,low-value,active,,219,72031.47,8/8/2012,2/1/2013,referral,4
+176,Aili,Kiehne,80,akiehne4v@oaic.gov.au,Japan,474-0074,red,90.62,8369.21,5/19/2016,,low-value,inactive,44.01,313,53714.53,7/8/2022,10/6/2010,,3
+177,Martica,Vogele,78,mvogele4w@springer.com,Marshall Islands,96960,red,72.6,4172.49,10/19/2017,bronze,mid-value,active,160.64,75,84659.32,7/6/2020,10/9/2016,referral,5
+178,Anson,Tatlow,24,atatlow4x@virginia.edu,Russia,143422,,28.95,4036.18,10/1/2020,bronze,mid-value,inactive,888.1,384,65336.32,12/30/2012,10/22/2010,referral,5
+179,Carena,Caruth,52,ccaruth4y@nbcnews.com,Brazil,13240-000,blue,77.89,1440.71,7/22/2018,gold,low-value,inactive,375.67,937,51158.25,9/2/2020,3/28/2015,referral,4
+180,Teressa,Doni,54,tdoni4z@goodreads.com,Nigeria,,blue,0.17,4824.12,6/3/2018,bronze,mid-value,active,693.92,19,40590.41,2/9/2012,10/7/2016,social media,4
+181,Miles,Atcherley,65,matcherley50@bigcartel.com,Ukraine,,blue,49.26,3388.38,4/3/2017,gold,low-value,active,385.21,187,62571.22,1/10/2018,11/29/2022,social media,2
+182,Rosalinde,Thornham,46,rthornham51@mozilla.org,China,,blue,98.52,9653.39,9/1/2016,,mid-value,inactive,451.42,67,37676.56,9/22/2012,11/15/2010,referral,3
+183,Martynne,Maurice,66,mmaurice52@soup.io,Mexico,79960,blue,68.62,5013.39,10/22/2019,platinum,high-value,inactive,815.52,213,60225.33,4/5/2014,2/26/2018,referral,5
+184,Son,Quartermain,22,squartermain53@squidoo.com,Argentina,4550,red,66.92,9716.07,6/11/2012,gold,high-value,inactive,151.15,37,92261.02,4/26/2017,8/5/2020,email marketing,2
+185,Alene,Jovic,38,ajovic54@mozilla.org,Belarus,,green,21.83,9652.86,4/24/2014,gold,low-value,inactive,654.39,17,16002.09,3/12/2019,6/12/2016,referral,3
+186,Dacie,Easom,29,deasom55@joomla.org,Hungary,1122,blue,42.97,2883.2,7/7/2021,,low-value,active,954.46,828,95211.55,5/27/2021,3/25/2022,social media,5
+187,Shayne,Beedell,78,sbeedell56@berkeley.edu,Venezuela,,green,29.32,3473.28,7/11/2012,platinum,low-value,inactive,521.17,45,28714.88,8/18/2013,9/16/2012,referral,4
+188,Martino,Gumb,51,mgumb57@patch.com,Chile,,green,56.51,5155.74,5/16/2016,platinum,low-value,active,13.15,335,74922.6,10/17/2022,6/3/2014,referral,3
+189,Rogers,Fosten,53,rfosten58@ca.gov,Indonesia,,red,43.98,6935.33,8/20/2017,silver,high-value,inactive,31.01,634,34459.69,11/28/2012,8/17/2013,email marketing,5
+190,Franny,Veelers,44,fveelers59@dropbox.com,Finland,92401,red,88.31,7075.73,11/7/2013,gold,high-value,active,96.07,782,46937.04,12/8/2014,4/29/2016,social media,4
+191,Rorie,Masurel,45,rmasurel5a@ovh.net,China,,red,22.54,4285.26,10/9/2011,silver,low-value,inactive,946.93,834,97449.83,5/26/2020,4/9/2012,,3
+192,Asia,Struys,18,astruys5b@newyorker.com,Czech Republic,696 47,red,41.8,5350.77,8/7/2021,gold,mid-value,active,522.06,15,75842.95,9/3/2011,4/16/2020,,1
+193,Tremayne,Monday,27,tmonday5c@dropbox.com,Japan,742-2807,green,34.55,976.44,5/2/2012,platinum,low-value,active,143.42,880,76205.16,4/1/2013,4/3/2013,referral,4
+194,Maggie,Driutti,75,mdriutti5d@surveymonkey.com,Uganda,,red,99.63,1276.22,11/22/2019,silver,low-value,inactive,631.47,375,85981.73,9/4/2021,6/26/2016,social media,5
+195,Nelson,Ruddiforth,20,nruddiforth5e@youtube.com,Slovenia,1290,blue,20.02,3775.21,5/16/2018,bronze,high-value,active,250.33,173,98742.5,7/20/2015,7/18/2012,referral,1
+196,Waite,Chastelain,81,wchastelain5f@ucla.edu,Slovenia,3224,blue,16.98,3159.66,7/3/2019,gold,mid-value,active,258.97,651,23820.3,6/24/2015,6/21/2021,social media,1
+197,Dolores,Paprotny,30,dpaprotny5g@phoca.cz,Indonesia,,red,64.46,7472.08,9/30/2017,platinum,mid-value,inactive,363.69,101,96520.48,1/30/2020,1/10/2012,social media,5
+198,Dorine,Drewitt,50,ddrewitt5h@myspace.com,Azerbaijan,,green,90.56,2072.65,6/14/2015,,high-value,inactive,2.4,945,79477.06,8/1/2018,8/23/2010,,5
+199,Amalie,Postan,50,apostan5i@usnews.com,Sri Lanka,22100,green,39.51,9830.9,8/8/2018,gold,mid-value,inactive,404.7,291,21035.18,10/1/2017,12/28/2019,email marketing,4
+200,Kirby,Kordt,24,kkordt5j@addtoany.com,China,,green,30.64,9932.87,11/12/2013,bronze,high-value,inactive,582.66,870,89061.52,4/30/2016,4/2/2022,email marketing,1
+201,Nickolaus,Braznell,41,nbraznell5k@sakura.ne.jp,Canada,A8A,blue,86.68,1029.96,12/29/2010,platinum,mid-value,active,105.29,761,87263.76,9/1/2021,4/29/2011,referral,2
+202,Currie,Mateos,32,cmateos5l@shutterfly.com,Portugal,4600-661,,61.41,825.11,11/5/2010,silver,low-value,active,328.53,194,74078.66,8/27/2021,4/21/2017,,5
+203,Milicent,Reoch,49,mreoch5m@nature.com,Ukraine,,red,53.69,3861.31,10/28/2010,platinum,high-value,inactive,659,8,80941.12,12/22/2021,7/11/2012,email marketing,2
+204,Nanine,Tatum,78,ntatum5n@blog.com,China,,blue,12.1,9075.67,6/5/2018,,high-value,active,885.2,135,97033.18,3/20/2016,7/23/2014,referral,1
+205,Pietra,Hasted,19,phasted5o@wikipedia.org,Micronesia,,blue,63.01,917.16,7/2/2020,platinum,high-value,inactive,851.06,507,5527.56,3/24/2020,3/30/2014,social media,2
+206,Bo,Ofer,83,bofer5p@rambler.ru,Czech Republic,687 23,green,87.99,8283.38,10/21/2021,bronze,high-value,inactive,,571,13369.34,10/25/2012,7/25/2022,referral,5
+207,Verney,Austing,64,vausting5q@artisteer.com,China,,red,14.53,7079,7/16/2019,silver,high-value,inactive,459.45,182,3434.19,8/27/2019,1/7/2014,email marketing,2
+208,Kennan,Borgnol,78,kborgnol5r@purevolume.com,Russia,368541,blue,25.12,5843.09,3/4/2022,platinum,high-value,active,204.53,218,60907.4,3/4/2018,12/10/2020,email marketing,2
+209,Manuel,Channer,56,mchanner5s@huffingtonpost.com,China,,red,94.83,2286.89,6/3/2018,bronze,mid-value,active,534.57,509,49747.03,12/28/2018,3/19/2020,email marketing,4
+210,Zondra,Piscopo,73,zpiscopo5t@about.com,Portugal,4820-781,blue,59.28,5086.4,2/7/2021,platinum,mid-value,active,,807,66626.05,8/17/2017,3/16/2020,social media,1
+211,Therine,Thrower,46,tthrower5u@oakley.com,Colombia,520039,red,83.09,4997.71,9/12/2020,platinum,low-value,active,789.06,128,21815.6,2/21/2017,1/4/2018,email marketing,3
+212,Ros,Dodge,81,rdodge5v@linkedin.com,China,,green,26.61,6182.59,1/24/2021,platinum,high-value,active,668.65,447,47273.35,1/16/2017,8/4/2010,referral,2
+213,Zara,Rominov,22,zrominov5w@mayoclinic.com,China,,blue,94.68,9709.1,6/19/2017,silver,mid-value,active,513.52,969,33146.92,1/20/2021,3/17/2017,,4
+214,Tomaso,Gowers,81,tgowers5x@smh.com.au,China,,red,3.78,6254.5,5/5/2021,bronze,high-value,inactive,659.15,3,66101.39,6/1/2010,6/12/2012,email marketing,2
+215,Brietta,Noakes,76,bnoakes5y@geocities.com,China,,red,65.52,3309.6,10/23/2019,bronze,mid-value,active,571.52,417,382.27,8/11/2019,7/23/2016,,5
+216,Liam,Slaght,85,lslaght5z@whitehouse.gov,Poland,88-405,red,14.59,8847.27,6/13/2013,bronze,mid-value,inactive,557.17,538,6764.24,12/3/2014,2/9/2022,referral,3
+217,Paula,Iacovaccio,53,piacovaccio60@so-net.ne.jp,China,,green,29.54,3789.45,11/28/2015,platinum,low-value,inactive,706.35,554,88338.41,5/12/2017,11/5/2016,social media,4
+218,Gaye,Jako,62,gjako61@hostgator.com,Indonesia,,green,59.79,1617.57,4/26/2022,platinum,mid-value,inactive,708.05,997,40286.87,5/4/2014,11/17/2022,social media,3
+219,Norine,Cutford,36,ncutford62@virginia.edu,Morocco,,blue,51.05,2754.87,6/1/2012,gold,mid-value,active,492.87,871,83953.05,9/8/2020,3/7/2014,,1
+220,Wilton,Ebbetts,29,webbetts63@dailymail.co.uk,Peru,,red,42.81,3004.44,12/6/2019,bronze,low-value,active,445.07,621,87371.22,6/2/2016,7/13/2017,email marketing,5
+221,Delmor,Rawlence,80,drawlence64@guardian.co.uk,Canada,T7E,green,75.15,5911,5/30/2011,bronze,low-value,active,733.72,891,17952.26,12/3/2010,2/4/2021,referral,1
+222,Homer,Garfoot,74,hgarfoot65@amazon.com,Bosnia and Herzegovina,,green,67.88,4300.16,4/30/2014,silver,mid-value,inactive,466.05,478,48548.64,11/19/2016,11/6/2019,referral,4
+223,Richmond,Bridgstock,85,rbridgstock66@dedecms.com,France,93517 CEDEX,green,95.99,9815.15,3/9/2011,gold,high-value,inactive,945.84,62,47107.76,9/22/2012,9/6/2014,referral,2
+224,Dani,Gilders,48,dgilders67@hhs.gov,China,,green,39.67,5753.91,4/5/2022,bronze,low-value,active,351.57,884,63854.71,12/18/2020,12/27/2017,referral,1
+225,Edeline,Hassard,45,ehassard68@1und1.de,China,,blue,50.49,988.35,3/20/2022,silver,mid-value,inactive,418.71,685,66751.99,3/25/2018,9/16/2017,email marketing,1
+226,Maurita,Vanyard,47,mvanyard69@msu.edu,Greece,,red,55.16,6039.65,5/28/2019,gold,low-value,active,788.29,205,39526.03,4/1/2012,7/25/2019,referral,3
+227,Percy,Mathias,73,pmathias6a@archive.org,China,,green,5.83,3957.91,12/3/2016,silver,high-value,active,317.87,340,81186.36,4/24/2015,5/7/2013,referral,5
+228,Halsy,Kaasman,28,hkaasman6b@nps.gov,Poland,32-052,blue,97.93,5790.35,1/18/2017,silver,mid-value,inactive,128.43,737,2410.23,11/19/2013,9/19/2011,social media,4
+229,Ashlan,Dilger,21,adilger6c@live.com,Egypt,,green,36.74,6544.21,12/26/2017,platinum,low-value,active,666.01,226,84723.76,8/23/2011,12/19/2020,,5
+230,Elfrida,Bowkett,45,ebowkett6d@4shared.com,China,,green,68.29,6813.97,2/18/2013,gold,mid-value,inactive,200.39,164,55596,9/19/2015,2/24/2015,social media,5
+231,Pamelina,Lacky,84,placky6e@zdnet.com,Finland,83501,red,43.21,4485.15,10/12/2014,bronze,mid-value,inactive,289.09,566,879.32,12/23/2021,10/9/2022,social media,2
+232,Bettine,Veazey,82,bveazey6f@netscape.com,China,,green,42.87,1889.47,1/21/2020,silver,low-value,inactive,101.18,190,32101.82,3/30/2021,6/30/2020,referral,1
+233,Kimbra,Cushe,21,kcushe6g@hc360.com,Peru,,blue,83.4,4069.6,6/2/2012,bronze,low-value,active,780.11,738,57658.75,11/10/2010,11/23/2019,email marketing,1
+234,Sharron,Souley,51,ssouley6h@youku.com,Morocco,,green,46.03,298.67,4/10/2019,bronze,high-value,inactive,381.27,349,14760.48,12/30/2018,8/20/2018,referral,2
+235,Rayner,Smallman,27,rsmallman6i@sun.com,Nigeria,,blue,97.6,5438.59,9/19/2018,silver,low-value,active,653.08,737,75185.74,1/3/2013,11/25/2012,social media,3
+236,Ryun,Ducarne,56,rducarne6j@123-reg.co.uk,Russia,396350,blue,12.31,7744.18,4/8/2017,bronze,low-value,inactive,504.52,297,38781.64,12/19/2022,8/19/2010,email marketing,3
+237,Evin,Jelf,35,ejelf6k@globo.com,Colombia,762027,blue,47.76,100.35,5/17/2016,platinum,low-value,inactive,,231,29349.63,6/24/2021,7/7/2011,email marketing,2
+238,Otto,Dohr,80,odohr6l@addtoany.com,Philippines,9404,,38.44,6919.02,9/17/2013,,mid-value,inactive,528.58,250,56528.06,1/25/2021,9/21/2010,email marketing,4
+239,Flossi,Sinfield,38,fsinfield6m@nifty.com,Russia,601642,blue,49.41,3450.83,8/27/2020,gold,low-value,inactive,208.69,660,64166.29,8/20/2010,12/17/2010,social media,1
+240,Amelina,Greenacre,56,agreenacre6n@csmonitor.com,Japan,899-2421,red,82.71,2576.41,11/13/2012,platinum,high-value,inactive,430.39,524,62081.31,3/16/2015,6/16/2021,,3
+241,Antons,MacCall,29,amaccall6o@google.es,Portugal,4950-332,green,9.78,897.43,2/3/2013,gold,high-value,active,280.71,369,53853.8,9/25/2010,10/22/2019,,4
+242,Ivy,Meiner,18,imeiner6p@linkedin.com,Greece,,red,77.95,7243.34,3/4/2018,bronze,low-value,active,,844,72965.94,6/20/2018,9/4/2018,email marketing,3
+243,Othilia,Freckingham,34,ofreckingham6q@aol.com,Indonesia,,green,64.42,2613.3,6/27/2013,bronze,low-value,inactive,462.91,77,59755.38,6/14/2018,7/16/2022,social media,1
+244,Bartram,Crees,73,bcrees6r@senate.gov,Czech Republic,618 00,red,57.52,2759.3,6/24/2015,bronze,high-value,inactive,621.99,436,74179.81,4/29/2010,10/3/2021,social media,2
+245,Livy,Tuffell,78,ltuffell6s@amazon.co.uk,Mali,,blue,67.78,1386.98,3/8/2013,gold,high-value,active,,263,70761.11,10/19/2021,3/28/2012,email marketing,3
+246,Findlay,Bloom,43,fbloom6t@shareasale.com,China,,green,19.96,7570.22,8/28/2010,bronze,low-value,active,673.57,458,89711.86,2/25/2021,11/19/2014,social media,5
+247,Dalston,Yarrington,40,dyarrington6u@si.edu,Namibia,,green,38.57,5255.9,11/27/2013,gold,mid-value,active,,23,56493.01,4/6/2013,9/17/2011,,1
+248,Barret,Cicci,48,bcicci6v@bing.com,Serbia,,green,40.92,6381.85,12/8/2011,bronze,high-value,active,81.34,427,98926.34,9/29/2018,3/9/2019,referral,2
+249,Melinde,Ruddy,65,mruddy6w@ucla.edu,Russia,309379,blue,59.21,8149.92,4/6/2020,,mid-value,inactive,334.61,381,86434.51,6/22/2020,3/19/2011,social media,1
+250,Michel,Hellier,33,mhellier6x@addtoany.com,Myanmar,,red,10.29,6807.46,4/13/2017,platinum,low-value,active,677.65,545,84487.09,6/12/2021,3/17/2015,,3
+251,Nana,Braksper,61,nbraksper6y@addthis.com,Sweden,434 23,red,59.81,3616.15,11/3/2021,bronze,high-value,inactive,598.45,390,53456.1,5/9/2020,9/17/2012,email marketing,1
+252,Dillie,Pipes,54,dpipes6z@ask.com,Sweden,434 43,red,65.58,2820.15,10/18/2015,platinum,high-value,inactive,66.89,303,77323.23,8/7/2020,7/11/2019,referral,2
+253,Malanie,Ivakhnov,81,mivakhnov70@desdev.cn,Poland,44-238,red,47.65,4099.49,4/20/2016,silver,low-value,active,22.21,687,63948.77,8/25/2013,3/26/2021,,2
+254,Hi,Fullilove,20,hfullilove71@sun.com,Portugal,2775-398,blue,79.97,2371.76,7/13/2011,bronze,mid-value,active,125.65,93,71580.69,10/13/2017,6/3/2020,referral,3
+255,Barbra,Novakovic,24,bnovakovic72@google.es,France,95011 CEDEX,blue,0.19,8033.37,4/28/2018,gold,mid-value,inactive,,158,7251.58,3/1/2015,2/18/2011,social media,1
+256,Deloris,Dash,23,ddash73@unicef.org,Finland,36810,green,38.01,5131.59,5/12/2020,platinum,mid-value,active,636.74,438,60114.01,1/26/2022,7/9/2012,email marketing,4
+257,Amalita,Buglass,33,abuglass74@pcworld.com,Portugal,8650-005,red,18.71,4797.03,7/28/2011,,low-value,active,153.93,875,12475.85,1/5/2020,7/18/2018,,5
+258,Kain,Kennsley,58,kkennsley75@usnews.com,Sweden,601 76,blue,56.81,1468.16,12/19/2014,bronze,low-value,active,619.78,59,33281.68,7/13/2016,8/17/2011,email marketing,3
+259,Genia,Kennford,66,gkennford76@guardian.co.uk,China,,blue,8.21,7130.83,12/2/2021,platinum,low-value,active,990.86,321,54122.95,2/17/2012,10/25/2010,referral,4
+260,Tory,Braunston,38,tbraunston77@seesaa.net,China,,blue,86.54,2328.16,4/26/2014,silver,low-value,inactive,913.73,471,31517.72,10/3/2017,1/21/2020,referral,5
+261,Gerta,Juschke,77,gjuschke78@ustream.tv,United States,79999,blue,92.88,4124.14,2/10/2011,gold,low-value,active,17.49,503,55802.93,10/8/2019,7/21/2010,social media,4
+262,Lyell,Natalie,37,lnatalie79@illinois.edu,Portugal,2615-009,blue,69.73,6987.06,6/19/2016,platinum,low-value,inactive,229.01,736,40571.36,6/13/2010,7/18/2021,referral,3
+263,Kanya,Worrell,70,kworrell7a@amazon.co.jp,Central African Republic,,red,29.44,16.66,6/15/2020,silver,high-value,inactive,656.57,454,8107.47,10/31/2018,11/8/2020,social media,5
+264,Eugenio,Smardon,68,esmardon7b@etsy.com,Sweden,302 40,blue,41.41,8575.88,2/24/2021,platinum,low-value,active,588.68,847,96420.57,8/16/2015,12/26/2017,email marketing,3
+265,Ilaire,Vicary,34,ivicary7c@tripod.com,China,,red,45.36,7543.89,12/29/2022,gold,high-value,active,970.79,148,37714.51,4/29/2011,12/21/2013,social media,3
+266,Adrea,Swinney,75,aswinney7d@people.com.cn,China,,red,8.96,9335.52,6/17/2014,platinum,high-value,inactive,52.47,158,95437.74,11/22/2020,9/17/2020,social media,4
+267,Peri,Yantsurev,72,pyantsurev7e@theatlantic.com,Greece,,red,78.5,5988.44,8/24/2020,silver,high-value,active,806.85,510,23356.34,9/24/2020,5/29/2014,social media,2
+268,Maddi,Doy,34,mdoy7f@nytimes.com,Bangladesh,7407,blue,87.31,3366.78,2/1/2010,platinum,mid-value,active,656.21,374,41512.61,6/5/2015,9/1/2013,referral,2
+269,Sonny,Astley,84,sastley7g@sitemeter.com,Trinidad and Tobago,,,41.87,9005.58,10/7/2014,silver,low-value,inactive,687.57,191,30135.92,7/14/2017,10/12/2019,social media,3
+270,Sheffield,Heeney,63,sheeney7h@squidoo.com,Poland,09-500,red,64.59,3980.07,6/2/2016,bronze,high-value,inactive,142.68,633,48753.65,12/26/2016,7/15/2011,social media,5
+271,Bobbye,Glascott,32,bglascott7i@technorati.com,Portugal,2100-309,blue,78.42,5849.64,2/12/2010,,high-value,inactive,426.14,127,58827.51,2/12/2020,9/19/2013,social media,5
+272,Bobbi,Elloit,27,belloit7j@cisco.com,Russia,399710,green,74.01,9621.87,6/30/2012,bronze,low-value,inactive,504.02,914,77183.92,10/28/2018,3/6/2019,referral,2
+273,Clemmy,Holleran,51,cholleran7k@cpanel.net,Russia,457654,blue,27.1,247.01,8/11/2012,bronze,high-value,inactive,2.25,841,20140.71,3/11/2015,12/26/2016,social media,1
+274,Hillel,Dingsdale,71,hdingsdale7l@ted.com,Indonesia,,blue,79.43,1315.16,1/27/2019,,mid-value,active,580.12,810,73722.04,1/24/2022,7/23/2012,,1
+275,Essie,Darragh,69,edarragh7m@google.nl,Paraguay,,green,69.43,5756.17,4/16/2022,gold,mid-value,inactive,,72,7014.16,12/19/2019,11/11/2022,referral,3
+276,Nickola,Orred,32,norred7n@squarespace.com,China,,blue,6.11,266.79,10/2/2013,silver,high-value,inactive,881.79,987,98915.12,8/28/2021,4/2/2017,referral,2
+277,Darnall,Schout,50,dschout7o@tamu.edu,Reunion,97453 CEDEX,green,78.96,673.87,11/2/2019,bronze,mid-value,inactive,856.66,206,6863.71,3/24/2021,3/22/2018,email marketing,1
+278,Yelena,Stonehewer,53,ystonehewer7p@networkadvertising.org,Greece,,blue,27.25,6819.19,9/2/2021,,low-value,inactive,250.68,9,53368.04,2/21/2013,12/4/2017,email marketing,5
+279,Crissy,Crannach,59,ccrannach7q@nature.com,Philippines,6808,blue,15.44,3037.84,4/26/2013,platinum,low-value,inactive,734.49,383,58308.16,6/18/2014,1/16/2020,social media,5
+280,Iormina,Jeanon,40,ijeanon7r@weather.com,Mongolia,,green,38.6,7525.96,7/18/2020,silver,low-value,active,442.87,905,65942.29,11/26/2020,4/21/2012,referral,5
+281,Nathalie,Liepins,83,nliepins7s@homestead.com,Colombia,631028,,34.73,7763.55,5/17/2010,bronze,mid-value,inactive,,297,68189.83,6/29/2010,4/8/2010,social media,3
+282,Cody,Sinncock,38,csinncock7t@wsj.com,Portugal,4960-330,blue,62.99,7051.48,1/3/2013,,mid-value,active,260.22,748,34450.98,8/15/2012,9/2/2016,email marketing,3
+283,Cherrita,Tuppeny,30,ctuppeny7u@deviantart.com,Indonesia,,green,42.58,7155.65,1/6/2018,bronze,low-value,inactive,19.88,22,27278.07,3/8/2011,9/6/2012,referral,5
+284,Rosene,Infantino,48,rinfantino7v@com.com,Philippines,4228,green,70.15,3013.59,10/26/2016,silver,high-value,inactive,490.02,946,79519.86,4/5/2012,6/4/2021,referral,2
+285,Bobina,Mangeon,67,bmangeon7w@harvard.edu,Slovenia,1358,red,26.49,4530.21,7/8/2015,gold,low-value,inactive,,49,530.51,11/22/2021,3/29/2021,referral,4
+286,Teddy,Catlin,35,tcatlin7x@vistaprint.com,Azerbaijan,,red,37.29,1992.24,12/15/2018,bronze,mid-value,inactive,13.11,654,59600.83,1/18/2020,12/24/2010,referral,3
+287,Meta,Harriss,65,mharriss7y@mysql.com,Ukraine,,red,23.75,9365.64,1/22/2015,gold,mid-value,active,550.68,39,52153.47,11/30/2021,1/17/2022,email marketing,1
+288,Olimpia,Cheston,41,ocheston7z@infoseek.co.jp,Indonesia,,blue,99.02,9065.92,3/10/2022,silver,high-value,inactive,433.76,872,91077.26,5/4/2018,5/9/2015,social media,1
+289,Marje,Pegler,79,mpegler80@deviantart.com,China,,,84.71,3521.99,6/21/2019,platinum,mid-value,active,498.2,521,38351.48,4/22/2021,5/21/2014,,4
+290,Horatio,Clemas,34,hclemas81@bloomberg.com,Tanzania,,green,7.38,1332.27,10/29/2014,silver,high-value,active,788.45,980,19908.04,4/15/2019,5/19/2011,email marketing,4
+291,Davidde,Eaglesham,79,deaglesham82@cargocollective.com,Colombia,760518,green,21.12,8298.24,6/2/2011,gold,mid-value,inactive,705.56,455,5481.16,5/6/2022,5/18/2010,referral,3
+292,Joseito,Gaiger,67,jgaiger83@columbia.edu,Poland,34-735,red,23.89,3968.17,7/17/2021,gold,high-value,active,848.79,97,94980.03,5/28/2016,6/2/2016,email marketing,4
+293,Ragnar,Midden,19,rmidden84@blogtalkradio.com,Czech Republic,739 41,,19.54,7347.18,3/2/2015,silver,low-value,active,71.89,49,64883.08,1/1/2010,12/23/2021,social media,1
+294,Bent,Bramah,84,bbramah85@irs.gov,China,,blue,78.39,6293.83,7/28/2018,silver,mid-value,inactive,303.43,964,63931.13,12/3/2011,8/5/2015,referral,2
+295,Samara,Broughton,26,sbroughton86@de.vu,Pakistan,72200,green,69.59,5977.08,8/31/2016,gold,low-value,inactive,920.58,241,6274.41,10/20/2020,4/25/2011,email marketing,3
+296,Zolly,Denniss,57,zdenniss87@edublogs.org,Poland,42-575,green,28.16,668.23,10/1/2016,platinum,high-value,inactive,737.74,301,98976.67,1/8/2020,1/19/2018,social media,5
+297,Valenka,Deakan,37,vdeakan88@blogspot.com,Finland,82730,red,68.85,3045.11,2/22/2014,gold,low-value,active,514.65,450,61168.16,1/23/2016,12/21/2016,,5
+298,Hendrik,Pead,56,hpead89@blogtalkradio.com,China,,green,48.72,9979.44,11/1/2011,silver,low-value,active,693.27,203,79517.8,12/14/2018,11/3/2022,referral,5
+299,Gina,St. John,66,gstjohn8a@youtu.be,Brazil,45980-000,,17.95,3190.43,1/18/2016,silver,high-value,active,119.98,482,48772.49,10/31/2014,1/9/2021,social media,2
+300,Odell,Glenfield,85,oglenfield8b@yelp.com,Croatia,31551,red,90.3,482.94,6/20/2016,silver,mid-value,inactive,583.91,780,11928.74,7/27/2020,6/15/2018,email marketing,2
+301,Felice,Jackman,79,fjackman8c@woothemes.com,China,,blue,22.52,5788.22,5/16/2022,silver,low-value,inactive,293.95,221,83083.07,7/23/2020,9/16/2020,email marketing,5
+302,Ellissa,Wolfe,80,ewolfe8d@biblegateway.com,Ukraine,,red,75.19,5747.4,2/26/2020,bronze,low-value,active,902.47,321,21780.12,3/4/2016,12/28/2021,social media,2
+303,Antonio,Cote,46,acote8e@spotify.com,Vietnam,,blue,8.21,1608.85,3/21/2021,bronze,high-value,inactive,359.27,118,12755.2,6/1/2014,9/5/2019,referral,1
+304,Marchall,Harriday,78,mharriday8f@acquirethisname.com,China,,blue,91.55,6001.62,5/4/2018,platinum,low-value,active,247.95,177,12027.2,10/27/2013,5/18/2022,,1
+305,Charisse,Eagger,22,ceagger8g@ed.gov,Poland,44-196,green,88.35,3043.91,2/23/2018,gold,mid-value,active,263.86,38,50474.88,11/11/2010,2/20/2012,social media,3
+306,Latashia,Jennaroy,80,ljennaroy8h@hc360.com,Denmark,1676,blue,82,5906.8,3/13/2010,gold,high-value,inactive,443.63,542,16160.88,7/13/2015,9/8/2021,social media,2
+307,Zerk,McBeith,19,zmcbeith8i@pen.io,China,,blue,98.8,8371.13,9/11/2021,gold,mid-value,inactive,846.61,550,87689.91,6/25/2015,12/29/2017,email marketing,4
+308,Isadora,Koschek,79,ikoschek8j@bandcamp.com,Czech Republic,783 16,blue,33.83,7924.25,10/7/2015,gold,high-value,inactive,421.23,61,6322.18,4/18/2013,1/10/2020,social media,1
+309,Linn,Beevis,47,lbeevis8k@hubpages.com,China,,red,67.6,9501.87,8/5/2011,platinum,high-value,active,900.74,704,62356.33,4/22/2018,3/9/2015,social media,1
+310,Brant,Rawstorn,47,brawstorn8l@columbia.edu,Mauritius,,blue,1.69,5102.97,10/26/2010,platinum,mid-value,inactive,352.64,535,2141.01,9/6/2016,12/28/2016,referral,1
+311,Blythe,McGookin,53,bmcgookin8m@unc.edu,Venezuela,,blue,25.18,5955.8,3/23/2021,gold,mid-value,active,599.88,253,79141.48,7/1/2014,3/3/2017,social media,1
+312,Harley,Cleyburn,35,hcleyburn8n@newsvine.com,Ukraine,,green,4.21,8207.76,4/17/2020,platinum,high-value,active,,162,57133.9,4/28/2010,2/1/2013,social media,4
+313,Kiri,Catterall,36,kcatterall8o@google.com.hk,Sweden,301 80,green,29.37,811.13,3/22/2022,silver,mid-value,inactive,426.59,557,6619.11,6/25/2022,12/7/2018,referral,4
+314,Elvina,Furmonger,77,efurmonger8p@1und1.de,United States,30061,red,43.14,7047.36,2/13/2013,bronze,high-value,inactive,264.08,616,49551.99,1/4/2011,2/2/2022,,5
+315,Ban,Broek,69,bbroek8q@alibaba.com,Portugal,3300-043,blue,54.95,2493.67,11/3/2022,platinum,mid-value,active,90.56,161,59570.63,1/29/2020,10/5/2019,referral,3
+316,Hyacinthie,Hebron,69,hhebron8r@aol.com,Russia,356126,red,11.3,7221.59,7/29/2012,bronze,mid-value,inactive,202.4,21,72674.97,6/29/2012,4/12/2016,,4
+317,Eliza,Furney,69,efurney8s@vinaora.com,Argentina,3363,green,6.15,3149.66,1/22/2019,silver,mid-value,inactive,662.01,728,71395.12,4/20/2022,6/5/2021,social media,3
+318,Ardith,Waulker,45,awaulker8t@toplist.cz,Russia,456880,green,89.21,5411.67,6/21/2018,bronze,high-value,active,142.69,679,39795.51,4/29/2015,7/4/2012,social media,1
+319,Ellette,Stockney,35,estockney8u@psu.edu,Russia,352720,red,75.71,4104.29,3/27/2020,silver,low-value,inactive,365.39,765,33920.91,5/7/2017,7/20/2016,social media,5
+320,Dwain,Catanheira,49,dcatanheira8v@alibaba.com,China,,blue,68.26,3733.4,6/29/2013,gold,low-value,active,436.28,225,34374.49,6/30/2016,1/10/2020,social media,2
+321,Joey,Sapshed,79,jsapshed8w@meetup.com,Botswana,,red,52.45,6493.12,2/11/2015,platinum,mid-value,inactive,517.25,75,39702.08,10/20/2017,4/18/2017,social media,3
+322,Andriana,Lavielle,32,alavielle8x@nhs.uk,Canada,V4W,blue,42.12,6001.43,3/29/2019,silver,mid-value,active,708.4,493,77328.38,6/20/2015,4/23/2012,social media,3
+323,Barrett,Segge,78,bsegge8y@bloomberg.com,China,,blue,37.63,2645.54,10/9/2022,bronze,mid-value,inactive,949.04,278,67476.2,3/15/2021,3/18/2022,social media,3
+324,Dex,Scurlock,72,dscurlock8z@shop-pro.jp,Poland,07-320,blue,47.78,9198.37,7/6/2021,platinum,mid-value,inactive,235.11,647,88413.68,5/2/2020,7/16/2021,referral,3
+325,Theodore,Corter,72,tcorter90@artisteer.com,China,,green,5.46,7310.51,8/10/2013,gold,mid-value,inactive,81.98,266,98387.67,8/14/2022,10/21/2017,,4
+326,Sandie,Abercrombie,58,sabercrombie91@usa.gov,Japan,979-1757,red,73.4,7384.06,11/7/2010,silver,high-value,active,53.33,48,45317.2,7/12/2012,1/17/2011,referral,1
+327,Brittni,Waryk,41,bwaryk92@unesco.org,Tanzania,,green,54.07,1700.68,9/22/2016,gold,high-value,inactive,388.34,159,85372.87,7/27/2014,8/6/2014,social media,5
+328,Wylma,Heliar,34,wheliar93@angelfire.com,Vietnam,,green,15.43,836.9,9/13/2011,platinum,high-value,inactive,84.33,678,52534.91,10/28/2016,5/24/2015,social media,3
+329,Carlita,Braidley,83,cbraidley94@stumbleupon.com,Philippines,8421,green,71,130.82,9/15/2014,platinum,high-value,active,534.95,136,54804.09,8/30/2016,1/26/2016,social media,4
+330,Lily,Fidge,35,lfidge95@abc.net.au,Colombia,183027,blue,17.84,265.01,7/24/2013,bronze,low-value,inactive,335.42,711,43007.78,2/21/2015,7/19/2018,referral,3
+331,Eveleen,Stirtle,26,estirtle96@dell.com,Nigeria,,green,62,289.82,1/27/2010,gold,low-value,active,573.66,926,85028.8,9/21/2011,2/24/2015,social media,4
+332,Kenna,Gohier,67,kgohier97@google.it,Philippines,6311,red,86.83,8325.92,2/22/2011,bronze,high-value,active,594.83,905,35397.83,9/22/2012,9/24/2013,email marketing,1
+333,Aloysia,O'Scully,63,aoscully98@miitbeian.gov.cn,Guadeloupe,97019 CEDEX,green,35.14,2822.47,3/3/2013,silver,high-value,inactive,131.78,227,7896.74,6/4/2018,3/26/2013,referral,5
+334,Francisco,Woodhouse,30,fwoodhouse99@tmall.com,Portugal,3660-694,green,82.67,8198.02,5/16/2021,bronze,mid-value,inactive,50.57,617,26134.23,1/23/2018,6/9/2011,social media,1
+335,Nicolas,Bryceson,21,nbryceson9a@ycombinator.com,China,,red,32.33,6112.25,3/7/2011,platinum,mid-value,inactive,87.32,823,17162.4,6/9/2014,11/18/2011,referral,2
+336,Jordan,Muzzlewhite,56,jmuzzlewhite9b@wordpress.org,China,,green,65.51,9367.54,1/15/2010,gold,mid-value,active,318.37,413,1133.25,6/29/2019,8/30/2011,social media,5
+337,Roland,Rollo,26,rrollo9c@soup.io,China,,red,37.67,1877.42,2/6/2012,bronze,low-value,inactive,,215,76487.32,7/19/2014,7/28/2022,,2
+338,Meghann,Halworth,78,mhalworth9d@abc.net.au,Indonesia,,blue,66.92,660.07,5/29/2014,gold,high-value,inactive,335.8,889,81007.69,7/23/2018,2/5/2017,email marketing,3
+339,Kipp,Nayshe,54,knayshe9e@bluehost.com,Poland,66-418,green,10.26,8861.09,4/20/2017,platinum,mid-value,active,140.69,174,64578.98,12/27/2016,4/19/2016,,2
+340,Philis,Fatscher,44,pfatscher9f@uiuc.edu,China,,green,13.29,5471.14,11/23/2010,platinum,mid-value,inactive,992.82,233,69452.86,3/16/2010,9/29/2014,referral,4
+341,Ettore,Thews,27,ethews9g@bing.com,Democratic Republic of the Congo,,blue,40.2,5853.41,9/26/2018,platinum,mid-value,active,123.15,76,37109.99,5/12/2013,2/18/2014,referral,1
+342,Modestine,Monk,60,mmonk9h@fema.gov,Kosovo,,red,30.67,4519.78,4/20/2020,bronze,high-value,inactive,741.93,793,50731.42,9/29/2015,12/20/2010,,1
+343,Almeda,Hembry,41,ahembry9i@geocities.com,China,,red,77.8,6322.14,6/12/2016,gold,high-value,active,212.18,881,55853.48,7/14/2018,5/23/2011,,3
+344,Normy,Wicks,18,nwicks9j@unicef.org,China,,green,80.46,3358.86,1/17/2014,bronze,high-value,inactive,330.85,533,45928.06,12/18/2018,8/25/2020,referral,3
+345,Milissent,Gimson,84,mgimson9k@cnet.com,United States,80243,blue,15.71,839.12,6/27/2013,platinum,low-value,active,675.4,441,35415.66,10/17/2011,2/28/2014,social media,4
+346,Anita,Raybould,75,araybould9l@unesco.org,Madagascar,,blue,84.97,6498.2,10/24/2011,silver,mid-value,inactive,96.12,32,62461.91,3/8/2016,4/18/2020,social media,2
+347,Yanaton,Weerdenburg,57,yweerdenburg9m@blogspot.com,South Korea,,,75.55,3002.06,1/22/2018,bronze,mid-value,inactive,385.52,887,10803.78,10/2/2022,12/17/2022,referral,1
+348,Cletis,Beetlestone,27,cbeetlestone9n@ucoz.com,France,26350,green,38.96,8313.37,11/27/2011,gold,high-value,active,,410,86713.64,5/24/2018,9/1/2010,,1
+349,Suzann,Cadwaladr,78,scadwaladr9o@pcworld.com,Thailand,48150,green,24.95,6524.88,4/18/2020,gold,high-value,inactive,586.86,905,70920.79,8/23/2012,7/18/2017,,5
+350,Rodina,Gemmill,38,rgemmill9p@vistaprint.com,Afghanistan,,blue,55.41,822.03,3/16/2021,platinum,low-value,inactive,714.69,990,93891.49,7/26/2022,9/12/2016,email marketing,5
+351,Ulrica,Allebone,19,uallebone9q@answers.com,Afghanistan,,red,59.84,2922.84,12/12/2012,bronze,low-value,active,847.57,283,25885.68,9/16/2013,9/30/2019,email marketing,4
+352,Ludovika,O'Kane,39,lokane9r@storify.com,Portugal,9900-425,green,3.67,9348.28,4/4/2022,platinum,mid-value,active,741,201,24442.82,10/28/2010,5/9/2018,referral,4
+353,Tabby,Belchamp,43,tbelchamp9s@omniture.com,Philippines,7104,blue,78.06,7821.76,10/3/2022,bronze,high-value,active,973.76,905,68608.91,11/16/2015,2/19/2017,social media,2
+354,Gerri,Yelding,21,gyelding9t@360.cn,China,,red,70.17,1457.46,1/20/2014,gold,high-value,inactive,918.11,354,63223.73,12/10/2018,2/25/2016,,3
+355,Lynnet,Emons,49,lemons9u@psu.edu,Mexico,96370,blue,55.71,4221.23,5/10/2019,platinum,low-value,active,564.38,434,76898.34,1/8/2011,5/20/2019,email marketing,5
+356,Laure,Altoft,52,laltoft9v@sciencedirect.com,Indonesia,,green,46.35,2007.59,3/9/2017,bronze,mid-value,inactive,13.29,345,95658.94,11/12/2021,11/23/2021,social media,1
+357,Sephira,O'Lennachain,63,solennachain9w@vkontakte.ru,Mongolia,,green,10.15,9868.94,11/22/2018,gold,high-value,active,999.28,603,48749.4,1/18/2014,6/15/2012,,3
+358,Lillian,Foddy,76,lfoddy9x@uiuc.edu,Indonesia,,,72.83,4295.07,2/22/2010,gold,low-value,active,,341,86334.96,9/14/2018,9/14/2017,referral,3
+359,Coralyn,Harsant,84,charsant9y@wikispaces.com,China,,red,45.11,2960.48,7/14/2015,platinum,high-value,active,537.97,193,13491.23,8/7/2011,3/22/2021,email marketing,1
+360,Lief,Longea,85,llongea9z@shutterfly.com,France,05004 CEDEX,red,99.95,1367.12,5/17/2015,platinum,low-value,active,,790,9805.06,2/8/2020,3/20/2015,email marketing,3
+361,Tammi,Watchorn,61,twatchorna0@webnode.com,Greece,,,72.26,6045.4,8/31/2014,silver,mid-value,inactive,563.82,207,21693.56,3/23/2022,6/26/2017,referral,1
+362,Vale,Waterstone,60,vwaterstonea1@epa.gov,China,,blue,86.09,5151.75,3/22/2021,silver,low-value,inactive,328.9,998,94037.44,10/12/2020,8/12/2018,referral,2
+363,Jemie,Gillion,31,jgilliona2@prlog.org,Japan,672-8090,red,64,802.98,5/22/2019,gold,high-value,inactive,879.87,867,32454.5,3/7/2010,9/24/2018,social media,3
+364,Clarie,Egan,31,cegana3@mapquest.com,China,,green,82.83,7945.01,12/15/2015,platinum,low-value,inactive,763.22,272,34694.18,12/25/2016,3/18/2012,referral,2
+365,Deanne,Bourgeois,31,dbourgeoisa4@csmonitor.com,Egypt,,green,68.22,7993.63,12/1/2017,bronze,mid-value,inactive,903.25,793,20754.93,6/29/2011,3/6/2014,referral,3
+366,Drud,Clines,66,dclinesa5@zimbio.com,Paraguay,,green,29.87,2993.67,8/27/2019,platinum,low-value,inactive,809.05,251,33613.58,1/4/2018,1/27/2019,email marketing,3
+367,Albrecht,Washington,66,awashingtona6@ft.com,Gambia,,green,2,2732.63,4/3/2020,silver,mid-value,active,809.1,797,12921.18,7/2/2022,1/26/2020,social media,1
+368,Livvie,Lapides,55,llapidesa7@indiegogo.com,Poland,89-320,blue,15.55,6190.04,8/27/2022,gold,low-value,active,720.46,466,90691.31,6/21/2021,9/8/2012,referral,1
+369,Victoria,Verlinden,64,vverlindena8@printfriendly.com,Japan,899-2433,red,20.27,8546.16,5/17/2016,platinum,mid-value,active,549.44,727,53507.75,1/9/2012,8/28/2018,social media,1
+370,Donetta,Spray,40,dspraya9@networkadvertising.org,Syria,,red,59.54,2994.96,3/21/2020,platinum,low-value,active,,332,10703.82,5/31/2016,7/29/2020,email marketing,2
+371,Jeannie,O'Lynn,72,jolynnaa@ovh.net,South Korea,,blue,63.63,3447.96,9/21/2020,platinum,low-value,inactive,313.13,8,21801.71,8/2/2021,4/30/2018,,5
+372,Andie,Ciccotti,64,aciccottiab@google.ca,Canada,L5M,red,89.63,1165.47,2/9/2011,platinum,high-value,inactive,200.36,388,87916.79,6/29/2016,11/29/2011,social media,5
+373,Angie,Clancy,54,aclancyac@cisco.com,Brazil,83900-000,red,55.33,1505.61,7/2/2013,silver,high-value,active,97.82,34,12876.18,6/25/2019,5/27/2021,referral,5
+374,Marius,Rickerd,23,mrickerdad@washington.edu,Philippines,8006,green,84.44,4779.49,10/25/2013,platinum,mid-value,inactive,956.21,85,31655.71,11/3/2015,5/22/2021,email marketing,3
+375,Lyn,O' Connell,71,loconnellae@edublogs.org,New Zealand,1072,blue,86.65,7499.06,8/13/2014,platinum,low-value,inactive,407.62,187,44082.27,5/21/2011,9/23/2020,,4
+376,Jacky,Amiranda,52,jamirandaaf@instagram.com,France,45922 CEDEX 9,,13.42,8894.6,5/20/2016,silver,high-value,active,659.38,369,67878.93,4/4/2015,5/30/2016,social media,3
+377,Darb,Marquess,78,dmarquessag@sourceforge.net,China,,green,23.46,4952.59,7/26/2015,platinum,high-value,inactive,153.95,796,10591.53,4/4/2017,12/12/2020,,5
+378,Jo-ann,Bruhnsen,43,jbruhnsenah@twitpic.com,Peru,,blue,81.72,6518.79,12/23/2014,platinum,high-value,active,737.24,439,64637.33,3/7/2016,1/28/2020,social media,3
+379,Madison,Antunez,45,mantunezai@theguardian.com,Cuba,,green,52.13,7978.87,11/9/2016,,mid-value,active,573.72,683,2858.75,6/15/2013,3/22/2022,referral,4
+380,Vi,Gready,40,vgreadyaj@blog.com,Brunei,,red,64.35,8320.82,2/15/2019,gold,low-value,inactive,153.41,667,76418.74,8/17/2011,3/3/2011,social media,3
+381,Nicolai,Awmack,80,nawmackak@storify.com,Nepal,,red,43.74,5653.03,11/19/2020,gold,low-value,inactive,283.53,99,5386.7,11/16/2019,2/2/2012,email marketing,5
+382,Geno,Pickrill,37,gpickrillal@oaic.gov.au,Indonesia,,blue,3.48,7170.31,7/15/2011,gold,mid-value,active,329.35,315,72291.39,2/1/2011,3/4/2019,referral,3
+383,Peirce,Rowson,85,prowsonam@xinhuanet.com,China,,red,31.53,1969.74,11/5/2017,gold,high-value,inactive,317.42,370,89277.33,4/8/2015,11/6/2018,referral,3
+384,Jemima,Chazerand,54,jchazerandan@google.fr,Philippines,6711,blue,41.73,4830.3,2/25/2014,platinum,high-value,inactive,588.55,48,82048.04,6/2/2017,5/5/2011,referral,5
+385,Marylynne,M'Barron,83,mmbarronao@hibu.com,Australia,6817,green,18.26,7517.28,2/24/2015,gold,high-value,active,921.14,26,22535.27,12/18/2012,1/19/2012,referral,1
+386,Ruben,Grishanin,34,rgrishaninap@yolasite.com,Nigeria,,green,17.44,8829.58,9/2/2019,gold,mid-value,active,45.83,392,16758.2,10/24/2010,10/31/2016,referral,1
+387,Pansy,Macro,41,pmacroaq@sitemeter.com,China,,green,39.59,934.18,4/10/2015,bronze,mid-value,inactive,162.94,495,18813.48,12/2/2020,5/12/2012,email marketing,5
+388,Lindsy,Clerk,45,lclerkar@kickstarter.com,Sudan,,red,68.24,372.06,6/28/2020,gold,low-value,inactive,502.42,882,48754.47,4/17/2021,2/7/2016,email marketing,3
+389,Frances,Giral,19,fgiralas@gnu.org,China,,blue,94.55,7999.47,7/31/2020,silver,mid-value,active,780.27,272,83826.74,1/25/2016,6/28/2021,referral,1
+390,Griswold,Warricker,85,gwarrickerat@yale.edu,United States,49505,blue,59.92,7974.4,8/11/2011,bronze,low-value,inactive,58.39,485,66732.98,8/14/2017,9/24/2015,social media,4
+391,Herta,Duggary,44,hduggaryau@furl.net,France,21061 CEDEX,red,44.29,2611.54,3/14/2017,bronze,high-value,inactive,874.98,846,25516.18,10/21/2020,2/27/2019,,3
+392,Paloma,Drabble,32,pdrabbleav@nymag.com,Moldova,MD-5635,green,44.45,2465.62,2/15/2016,bronze,mid-value,active,378.77,498,22419.58,4/14/2013,8/4/2018,social media,5
+393,Waldo,Antley,69,wantleyaw@bandcamp.com,Poland,76-002,green,12.55,6477.66,10/2/2018,platinum,high-value,inactive,97.29,424,33232.24,4/25/2011,4/8/2010,,2
+394,Blisse,Lechelle,51,blechelleax@csmonitor.com,Mexico,92148,red,72.45,7621.77,9/17/2020,platinum,mid-value,inactive,143.42,156,40957.05,1/17/2017,7/31/2020,,1
+395,Lindon,Letertre,48,lletertreay@ifeng.com,Kyrgyzstan,,red,67.75,679.87,7/15/2010,,high-value,inactive,548.37,801,43395.18,10/30/2010,2/19/2018,referral,5
+396,Prentice,Sleight,18,psleightaz@amazon.co.jp,Russia,369394,red,97.47,7874.72,9/17/2017,bronze,high-value,inactive,,219,61383.44,5/14/2017,7/22/2019,social media,3
+397,Portie,Digges,31,pdiggesb0@dyndns.org,Russia,143144,green,62.64,9401.82,12/6/2013,silver,mid-value,active,757.73,354,21198.85,9/3/2022,10/28/2010,social media,4
+398,Fedora,Pierpoint,38,fpierpointb1@woothemes.com,Poland,42-253,green,81.62,2315.49,5/3/2015,platinum,mid-value,active,663.9,504,33850.92,9/1/2011,8/11/2014,email marketing,5
+399,Ber,Hurst,66,bhurstb2@cocolog-nifty.com,Italy,30132,green,38.14,1957.33,5/23/2014,gold,mid-value,active,916.88,80,85356.45,11/13/2016,12/15/2016,email marketing,5
+400,Lenard,Duplan,60,lduplanb3@alexa.com,Philippines,8720,green,83.51,8422.15,1/15/2010,silver,high-value,active,204.45,142,24118.04,1/30/2012,3/10/2015,referral,3
+401,Suzanne,Doubleday,41,sdoubledayb4@posterous.com,Indonesia,,green,7.29,5686.25,9/8/2021,,high-value,active,844.66,186,29624.34,2/19/2014,10/28/2021,social media,5
+402,Avictor,Frisby,85,afrisbyb5@netvibes.com,Luxembourg,L-5465,red,59.99,7199.88,1/25/2019,bronze,low-value,active,322.15,626,78960.96,1/2/2013,11/20/2021,social media,2
+403,Gifford,Gonzales,39,ggonzalesb6@123-reg.co.uk,Germany,81679,red,45.76,3337.64,5/19/2022,,high-value,active,27.14,156,99971.19,5/14/2010,9/14/2012,email marketing,2
+404,Kriste,Ashborne,69,kashborneb7@constantcontact.com,Sweden,331 85,green,19.92,576.19,1/4/2018,gold,low-value,active,566.99,309,54631.7,5/14/2018,9/7/2020,social media,4
+405,Elene,Biaggioli,23,ebiaggiolib8@cdc.gov,Croatia,43211,green,16.01,5879.88,5/29/2011,gold,mid-value,active,642.84,544,43488.04,1/3/2019,11/4/2021,,4
+406,Florence,Breissan,79,fbreissanb9@nbcnews.com,Russia,416020,blue,61.48,533.55,4/28/2016,platinum,low-value,inactive,978.53,326,96006.24,5/25/2011,8/4/2022,email marketing,5
+407,Dehlia,Diggins,33,ddigginsba@arizona.edu,China,,green,57.01,8084.74,6/19/2021,silver,mid-value,active,50.14,645,95739.71,11/25/2014,9/9/2015,social media,5
+408,Jorey,Twydell,72,jtwydellbb@over-blog.com,Colombia,181067,green,24.62,3178.85,7/6/2015,silver,mid-value,inactive,72.12,160,91703.07,2/26/2016,1/21/2021,email marketing,1
+409,Otis,Battaille,85,obattaillebc@slate.com,Portugal,4890-110,green,97.78,6764.73,12/10/2012,platinum,high-value,active,591.6,219,22591.05,2/4/2012,6/12/2015,email marketing,5
+410,Corly,Michurin,34,cmichurinbd@mashable.com,China,,blue,25.27,2578.02,6/29/2015,bronze,mid-value,inactive,811.1,595,2675.34,4/1/2016,1/20/2021,,4
+411,Cesya,Wenderott,31,cwenderottbe@g.co,Philippines,8421,red,80.95,3381.78,6/10/2012,platinum,mid-value,inactive,805.54,670,16452.88,2/2/2022,3/1/2014,email marketing,4
+412,Phillip,Merrigan,80,pmerriganbf@sphinn.com,Czech Republic,358 01,blue,66.25,7353.86,12/17/2015,bronze,high-value,inactive,990.97,778,3095,12/24/2010,5/24/2014,email marketing,3
+413,Bendicty,Verling,43,bverlingbg@aboutads.info,China,,blue,26.07,417.8,5/6/2010,platinum,high-value,active,947.87,801,14936.19,9/22/2017,3/27/2015,social media,2
+414,Zena,Peare,25,zpearebh@nationalgeographic.com,China,,blue,73.02,3914.99,4/17/2017,platinum,low-value,active,252.47,791,46561.97,3/23/2011,11/17/2013,referral,1
+415,Lou,Chippin,40,lchippinbi@networkadvertising.org,Russia,354395,blue,44.67,7407.72,12/5/2010,bronze,high-value,inactive,788.8,169,20381.99,12/26/2020,7/4/2010,referral,1
+416,Stefan,Harses,23,sharsesbj@canalblog.com,Brazil,35680-000,red,87.14,4058.05,4/5/2020,gold,mid-value,active,689.14,29,88185.26,12/21/2022,3/8/2020,referral,5
+417,Town,Simnell,82,tsimnellbk@php.net,Kazakhstan,,red,98.28,9345.67,4/6/2017,platinum,mid-value,inactive,963.9,31,45271.32,1/21/2012,4/25/2022,referral,4
+418,Cameron,Clever,53,ccleverbl@t.co,Uzbekistan,,red,39.48,7584.57,8/30/2011,bronze,low-value,active,914.56,518,42999.89,11/14/2016,8/17/2018,social media,1
+419,Darrick,Hinemoor,31,dhinemoorbm@earthlink.net,Haiti,,blue,36.86,2473.49,2/25/2019,bronze,high-value,active,77.01,297,32219.13,9/3/2017,7/14/2017,social media,4
+420,Annaliese,Torns,54,atornsbn@sphinn.com,France,21900 CEDEX 9,blue,88.06,5558.08,7/24/2016,bronze,low-value,active,16.33,372,36070.9,12/2/2022,1/29/2015,referral,2
+421,Ainslie,Timperley,69,atimperleybo@ted.com,Indonesia,,red,41.28,9571.14,7/24/2010,bronze,low-value,inactive,867.13,151,73600.63,12/8/2020,5/15/2022,referral,3
+422,Isaak,Libbis,22,ilibbisbp@clickbank.net,Haiti,,red,30.54,5208.07,3/2/2017,gold,low-value,inactive,,6,72457.94,8/24/2017,4/2/2017,email marketing,3
+423,Packston,Prewett,83,pprewettbq@tripod.com,South Africa,4147,red,97.33,8414.18,6/14/2014,bronze,low-value,inactive,,248,72613.79,3/24/2019,8/31/2020,referral,4
+424,Marmaduke,Girardin,20,mgirardinbr@netlog.com,Ukraine,,red,23.37,9993.27,4/5/2010,platinum,high-value,active,216.7,71,60268.55,11/30/2018,5/13/2020,email marketing,4
+425,Lyell,Mottinelli,51,lmottinellibs@ucoz.com,China,,green,10.75,7155.04,8/4/2013,platinum,mid-value,active,709.95,96,99203.78,4/14/2010,5/10/2013,email marketing,3
+426,Louie,Uppett,69,luppettbt@wp.com,Poland,83-110,red,73.74,3176.81,1/1/2015,bronze,mid-value,inactive,315.68,905,68019.63,6/13/2019,9/26/2013,social media,2
+427,Anders,Moult,51,amoultbu@aboutads.info,Russia,385141,red,42.31,6094.9,1/6/2014,bronze,mid-value,inactive,347.79,884,39826.82,5/12/2019,8/18/2012,email marketing,5
+428,Gavin,Romanin,51,gromaninbv@europa.eu,Sweden,598 24,blue,66.92,1518.24,7/30/2011,bronze,high-value,inactive,413.35,33,66049.2,6/8/2016,12/11/2015,referral,4
+429,Karlene,Elion,65,kelionbw@edublogs.org,China,,red,81.49,3044.17,3/24/2011,bronze,low-value,inactive,150.66,945,75049.06,11/15/2012,10/11/2010,referral,1
+430,Evania,Clace,79,eclacebx@house.gov,Honduras,,green,32.58,6246.99,8/25/2011,bronze,mid-value,active,44.29,56,84795.09,3/8/2010,8/25/2017,referral,1
+431,Arlin,Shirlaw,60,ashirlawby@scribd.com,Eritrea,,blue,40.68,269.56,8/2/2015,gold,low-value,inactive,353.54,403,98932.61,4/3/2020,8/7/2015,social media,3
+432,Josiah,Leupoldt,28,jleupoldtbz@si.edu,Argentina,2424,red,41.53,7270.62,3/14/2022,silver,mid-value,inactive,158.61,962,400.2,7/13/2010,12/21/2017,social media,5
+433,Fraser,Ingerith,33,fingerithc0@opensource.org,Russia,142717,blue,49.57,812.56,9/26/2019,platinum,mid-value,active,397.3,588,92104.86,11/24/2021,1/29/2014,,3
+434,Ileane,Tootell,79,itootellc1@edublogs.org,Nigeria,,red,50.16,7808.27,12/26/2020,bronze,high-value,inactive,649.59,139,24882.77,12/3/2013,1/25/2012,social media,3
+435,Fancy,Riatt,73,friattc2@census.gov,Madagascar,,green,80.43,3771.09,1/21/2017,platinum,low-value,active,119.82,503,57844.57,2/3/2020,12/26/2015,referral,5
+436,Margo,Quye,44,mquyec3@simplemachines.org,Brazil,97650-000,red,35.72,6146.43,12/12/2021,,low-value,inactive,828.46,19,9273,6/5/2017,10/20/2011,email marketing,5
+437,Mal,Gossling,56,mgosslingc4@blinklist.com,Ethiopia,,blue,73.37,3071.33,2/25/2020,gold,low-value,inactive,228.81,141,41086.49,11/8/2020,5/12/2017,,3
+438,Even,Simondson,29,esimondsonc5@linkedin.com,Sweden,401 99,green,56.53,3417.99,9/26/2022,platinum,mid-value,active,322.35,593,43849.38,10/3/2016,4/19/2018,email marketing,5
+439,Sax,Fassmann,62,sfassmannc6@icio.us,Finland,79480,green,15,2591.08,6/7/2010,gold,high-value,inactive,179.05,430,99022.67,3/11/2019,4/28/2016,referral,1
+440,Janeen,Fransinelli,83,jfransinellic7@omniture.com,Nigeria,,red,41.37,7315.37,11/3/2013,gold,high-value,inactive,787.99,304,40154.03,8/6/2022,9/9/2012,,5
+441,Marge,Casellas,51,mcasellasc8@opera.com,Hungary,1158,green,91.75,7176.89,9/25/2010,bronze,low-value,inactive,437.67,357,46218.12,3/10/2017,6/26/2018,referral,5
+442,Hanson,McMorran,71,hmcmorranc9@jigsy.com,China,,,17.24,5324.48,2/19/2011,platinum,low-value,active,348.23,63,82853.59,5/16/2016,11/23/2016,social media,5
+443,Tomasine,Philot,32,tphilotca@blogs.com,China,,blue,4.74,7513.78,8/15/2021,silver,low-value,active,612.89,369,59913.68,2/18/2019,4/19/2020,referral,2
+444,Ann,MacCallum,35,amaccallumcb@tamu.edu,Russia,184653,red,63.7,4008.06,6/29/2021,gold,low-value,active,619.45,739,16342.02,11/17/2020,8/5/2014,,2
+445,Dorita,Fant,57,dfantcc@apache.org,China,,blue,55.58,329.3,8/26/2017,,high-value,active,139.57,302,4641.5,7/12/2020,2/1/2021,,3
+446,Gunther,MacNamee,27,gmacnameecd@phoca.cz,Philippines,4211,green,75.45,313.8,2/15/2013,platinum,mid-value,inactive,543.76,65,67225.86,5/9/2016,9/10/2010,email marketing,2
+447,Abbott,Semon,27,asemonce@indiegogo.com,China,,blue,17.97,9902.36,8/2/2019,platinum,high-value,inactive,224.52,860,33239.1,3/11/2014,1/18/2012,social media,2
+448,Adorne,Ast,52,aastcf@vinaora.com,Lithuania,99047,green,89.17,3454.72,2/27/2014,silver,mid-value,active,108.48,392,95989.12,10/30/2015,10/22/2017,email marketing,1
+449,Sara-ann,Winram,63,swinramcg@cdbaby.com,Albania,,red,59.54,7291.36,12/14/2011,platinum,high-value,inactive,905.43,904,77421.58,12/8/2011,11/23/2010,,1
+450,Sayres,Jeffcock,61,sjeffcockch@twitter.com,Brazil,89915-000,blue,7.84,8810.49,12/19/2021,bronze,high-value,active,164.06,189,15535.32,10/16/2014,7/25/2010,email marketing,2
+451,Renata,Jeanon,31,rjeanonci@theglobeandmail.com,China,,blue,66.86,746.68,7/17/2013,bronze,high-value,active,668.87,905,63486.33,9/14/2010,12/19/2014,,4
+452,Arvin,Handaside,34,ahandasidecj@dagondesign.com,France,57404 CEDEX,red,12.04,1213.56,10/11/2013,bronze,high-value,inactive,951.11,904,14182.63,4/8/2013,6/19/2010,email marketing,4
+453,Ruby,Meni,82,rmenick@dyndns.org,Indonesia,,green,99.97,3568.9,6/5/2021,bronze,mid-value,active,211.9,402,35171.35,6/13/2016,2/11/2020,,5
+454,Ediva,Knight,28,eknightcl@naver.com,Sweden,784 55,green,6.52,7625.52,3/18/2022,bronze,low-value,inactive,947.85,685,95090.34,9/9/2015,7/1/2019,referral,3
+455,Gael,Zotto,51,gzottocm@gov.uk,China,,red,37.67,7446.08,9/26/2018,gold,high-value,inactive,341.81,315,97091.91,10/28/2015,7/23/2010,email marketing,4
+456,Ailyn,Torregiani,51,atorregianicn@taobao.com,China,,blue,28.1,8864.61,10/20/2021,gold,mid-value,inactive,861.76,211,14615.49,9/18/2021,2/17/2021,,1
+457,Zacharie,Obray,73,zobrayco@printfriendly.com,Slovenia,1291,blue,86.36,862.77,7/20/2020,bronze,low-value,active,969.53,476,83651.04,3/23/2020,9/20/2018,email marketing,3
+458,Kennith,Randalston,21,krandalstoncp@examiner.com,Indonesia,,green,69.59,9529.54,8/22/2010,,high-value,active,1.02,836,87744.53,1/17/2021,1/9/2016,email marketing,3
+459,Bevon,Reen,76,breencq@vimeo.com,China,,blue,72.86,1588.67,1/30/2010,bronze,mid-value,inactive,627.67,841,90504.21,2/5/2018,4/1/2018,referral,1
+460,Kelly,Larciere,60,klarcierecr@wiley.com,Lithuania,30001,red,29.89,6422.05,10/28/2021,platinum,mid-value,active,63.61,803,29309.86,1/2/2018,4/12/2013,email marketing,5
+461,Conny,Outibridge,21,coutibridgecs@newsvine.com,Sweden,891 41,red,33.02,974.59,3/3/2019,platinum,mid-value,inactive,128.83,568,35111.55,6/11/2022,1/5/2022,email marketing,5
+462,Merla,Letherbury,61,mletherburyct@canalblog.com,Vietnam,,,39.71,7658.89,10/16/2022,gold,high-value,active,867.75,256,76858.11,9/15/2020,11/26/2011,,3
+463,Bebe,Meneghi,64,bmeneghicu@hatena.ne.jp,Philippines,4114,green,14.04,5998.26,1/10/2016,bronze,low-value,inactive,767.81,706,15885.29,2/1/2014,6/29/2013,email marketing,5
+464,Annmaria,Sharpin,76,asharpincv@is.gd,Albania,,blue,57.45,1562.07,2/2/2010,bronze,high-value,active,,394,92697.84,8/13/2014,10/18/2022,social media,2
+465,Arline,Roan,48,aroancw@umn.edu,Russia,368670,blue,8.38,9063.03,11/9/2018,gold,high-value,active,94.48,615,36691.88,11/24/2021,9/2/2011,social media,1
+466,Holli,Martensen,83,hmartensencx@eventbrite.com,Indonesia,,,33.67,1669.08,2/3/2021,platinum,mid-value,inactive,,316,48571.72,7/31/2010,12/4/2013,referral,1
+467,Zebulen,Slator,36,zslatorcy@yellowpages.com,South Korea,,red,96.06,8553.06,2/12/2021,platinum,low-value,active,731.16,205,56276,2/18/2020,12/3/2018,,4
+468,Mufi,Cottill,21,mcottillcz@newyorker.com,Finland,99101,green,98.74,9935.86,4/9/2022,silver,low-value,inactive,210.13,693,16678.01,7/23/2012,8/6/2010,social media,3
+469,Anjanette,Folkes,28,afolkesd0@utexas.edu,Sweden,436 54,green,38.62,3554.57,11/5/2010,,mid-value,active,555.12,681,18703.9,4/27/2015,4/10/2015,social media,3
+470,Lebbie,Gidley,39,lgidleyd1@cyberchimps.com,China,,green,79.74,3339.46,9/7/2015,bronze,low-value,inactive,11.62,418,47197.42,6/16/2010,12/25/2010,email marketing,1
+471,Emera,Caldayrou,46,ecaldayroud2@wordpress.com,Canada,M1E,red,77.98,7312.17,6/4/2010,,low-value,inactive,598.25,917,38435.67,8/28/2013,4/10/2016,social media,1
+472,Jobi,Daviot,72,jdaviotd3@istockphoto.com,China,,red,23.51,2329.02,1/1/2015,,mid-value,active,586.69,115,51791.38,7/7/2010,5/15/2018,email marketing,3
+473,Arin,Richin,42,arichind4@cam.ac.uk,Russia,309621,green,68.27,5085.31,8/18/2013,gold,mid-value,inactive,327.07,891,83727.07,10/5/2017,12/24/2010,social media,2
+474,Allianora,Rounsefull,72,arounsefulld5@seattletimes.com,Indonesia,,red,69.83,4485.2,12/21/2020,gold,mid-value,active,927.09,714,80522.2,8/8/2010,5/31/2014,referral,5
+475,Lenard,Grief,81,lgriefd6@blogspot.com,Tanzania,,green,68.21,83.33,7/6/2018,bronze,low-value,active,858.61,890,86794.12,3/30/2016,5/13/2010,,5
+476,Ewart,Matej,58,ematejd7@smh.com.au,Mexico,27040,blue,18.78,893.91,11/18/2022,gold,mid-value,active,219.59,581,91530.62,11/10/2017,8/19/2013,social media,4
+477,Gil,Cuerdall,56,gcuerdalld8@unc.edu,Japan,989-1323,red,53.98,7888.27,12/27/2016,silver,mid-value,active,868.33,977,13265.08,6/21/2018,5/13/2012,referral,1
+478,Luke,Fuente,76,lfuented9@marketwatch.com,Guatemala,13005,green,17.97,6173.35,7/24/2016,platinum,high-value,inactive,950.47,102,83210.18,5/28/2018,1/21/2021,social media,4
+479,Bryce,Camolli,61,bcamollida@elpais.com,Russia,665236,blue,22.23,6794.12,5/5/2021,gold,high-value,active,130.22,883,82233.65,3/29/2014,8/18/2021,email marketing,4
+480,Yul,Austing,81,yaustingdb@washington.edu,China,,blue,42.38,4395.64,3/8/2021,,high-value,inactive,479.88,510,9880.71,9/13/2012,6/26/2019,email marketing,5
+481,Lishe,Slorance,81,lslorancedc@themeforest.net,Peru,,blue,13.56,4533.74,7/4/2016,,mid-value,active,271.75,973,57949.77,5/28/2012,6/1/2015,,1
+482,Cristin,Barff,58,cbarffdd@bbb.org,China,,green,63.45,8053.33,12/24/2012,gold,high-value,active,865.11,844,48754.38,12/17/2011,8/10/2010,email marketing,4
+483,Carilyn,O'Rowane,50,corowanede@gnu.org,Philippines,4311,red,57.53,6304.35,11/2/2022,platinum,low-value,inactive,,780,74008.6,3/10/2020,12/10/2015,social media,2
+484,Hobart,Just,66,hjustdf@yelp.com,Micronesia,,blue,59.54,3896.97,11/14/2010,platinum,mid-value,inactive,915.1,177,74754.7,12/24/2012,6/23/2018,email marketing,4
+485,Umberto,Torregiani,66,utorregianidg@census.gov,Brazil,35150-000,red,73.56,7413.52,2/26/2010,gold,low-value,active,982.93,139,94288.71,5/31/2022,6/23/2022,referral,5
+486,Maddie,Sudy,62,msudydh@miitbeian.gov.cn,China,,blue,34.82,2530.92,3/14/2022,platinum,high-value,active,,736,90987.41,2/13/2021,3/2/2014,referral,1
+487,Bealle,Etteridge,18,betteridgedi@cargocollective.com,China,,red,9.88,9456.9,12/8/2010,bronze,low-value,inactive,501.25,740,43061.4,7/30/2012,1/22/2019,social media,3
+488,Leola,Ferrelli,62,lferrellidj@illinois.edu,Japan,955-0156,red,14.24,6896.17,7/9/2012,platinum,low-value,inactive,88.6,845,73570.42,12/29/2018,5/29/2010,referral,1
+489,Timothy,Chatfield,20,tchatfielddk@columbia.edu,China,,blue,80.16,6239.4,9/9/2011,platinum,mid-value,inactive,441.88,671,96294.73,9/8/2012,6/5/2016,referral,5
+490,Broddie,McDermid,63,bmcdermiddl@g.co,Russia,617724,blue,90.86,7646.03,7/22/2016,silver,mid-value,inactive,32.05,98,13303.55,5/17/2020,11/21/2010,,5
+491,Lilias,Wyllcock,21,lwyllcockdm@reuters.com,China,,green,45.33,4798.57,2/4/2010,platinum,low-value,inactive,770.68,60,57681.46,3/4/2020,11/2/2015,referral,5
+492,Gale,Shermar,79,gshermardn@gnu.org,Mexico,40687,red,90.92,6655.18,8/11/2011,gold,mid-value,active,749.56,247,48505.74,8/14/2012,5/17/2014,email marketing,4
+493,Gawen,Sexstone,33,gsexstonedo@lycos.com,Nigeria,,red,59.47,1211.93,4/12/2017,bronze,mid-value,active,761.13,98,39794.62,8/5/2020,5/25/2015,social media,3
+494,Vassili,Bock,59,vbockdp@mashable.com,Brazil,14800-000,green,26.13,4467.33,8/30/2017,bronze,mid-value,inactive,239.26,668,52727.32,5/30/2021,2/20/2014,email marketing,1
+495,Felicia,Arcase,29,farcasedq@joomla.org,Vietnam,,red,20.91,8948.41,12/24/2010,gold,high-value,inactive,669.04,569,52081.2,3/7/2013,8/19/2014,,4
+496,Annice,De'Vere - Hunt,72,adeverehuntdr@odnoklassniki.ru,Indonesia,,green,36.45,5961.38,9/9/2022,platinum,mid-value,active,359.51,692,75463.01,10/25/2011,8/7/2014,referral,3
+497,Ulrikaumeko,Rhymes,62,urhymesds@livejournal.com,Indonesia,,blue,43.83,634.36,9/14/2011,bronze,high-value,active,299.27,570,26980.19,9/13/2020,7/6/2019,email marketing,3
+498,Filide,Paffitt,65,fpaffittdt@usgs.gov,Libya,,red,6.24,6311.65,1/13/2017,,low-value,active,,715,93608.04,10/4/2022,5/19/2022,social media,2
+499,Rhianon,Wisdish,50,rwisdishdu@xrea.com,Uruguay,,blue,70.17,4720.31,10/6/2013,silver,mid-value,active,520.05,687,2059.32,3/31/2017,2/4/2010,referral,2
+500,Donnamarie,Berget,68,dbergetdv@behance.net,China,,green,19.87,2700.71,9/5/2015,bronze,mid-value,active,732.57,867,48861.6,9/6/2017,4/7/2021,email marketing,3
+501,Costanza,Keays,70,ckeaysdw@discovery.com,France,74004 CEDEX,red,99.86,4600.78,4/2/2013,bronze,low-value,inactive,167.69,651,97802.98,4/11/2018,10/3/2014,referral,5
+502,Lottie,Tzarkov,21,ltzarkovdx@google.es,Bolivia,,red,30.95,7467.86,6/19/2019,bronze,high-value,inactive,940.76,872,89864.78,6/28/2016,6/27/2017,social media,4
+503,Des,Gellert,22,dgellertdy@nifty.com,China,,red,18.6,1473.79,3/26/2011,platinum,mid-value,inactive,675.15,313,85792.28,3/4/2015,1/4/2018,social media,3
+504,Rory,Stoppe,54,rstoppedz@epa.gov,Czech Republic,362 63,green,52.14,5936.52,9/17/2012,gold,low-value,inactive,241.39,987,26870.15,3/15/2019,9/23/2021,,2
+505,Thibaud,Bertolaccini,19,tbertolaccinie0@list-manage.com,Norway,506,blue,11.65,8318.87,10/4/2020,gold,low-value,active,806.91,534,66659.62,11/14/2020,5/29/2015,referral,5
+506,Dalia,Pingstone,26,dpingstonee1@columbia.edu,Indonesia,,green,2.59,3335.26,9/4/2022,bronze,mid-value,inactive,226.2,84,51663.11,5/5/2021,6/8/2021,social media,4
+507,Callie,Arnowicz,66,carnowicze2@xing.com,Czech Republic,664 63,blue,84.33,7899.74,3/3/2010,bronze,low-value,active,960.84,415,15919.98,2/23/2017,4/19/2016,social media,3
+508,Jaquelin,Shepheard,41,jshephearde3@wikispaces.com,Brazil,14790-000,red,8.53,2312.24,2/21/2010,platinum,high-value,inactive,302.51,411,36493.82,5/27/2019,8/19/2017,email marketing,2
+509,Ricki,Bengefield,60,rbengefielde4@mediafire.com,Brazil,98600-000,red,5.64,8564.89,1/22/2012,platinum,low-value,inactive,494.71,265,68120.9,7/17/2012,9/30/2018,,1
+510,Petr,Rigardeau,84,prigardeaue5@vistaprint.com,China,,green,27.65,7178.58,9/10/2015,platinum,low-value,inactive,287.88,967,99288.6,1/23/2016,7/28/2014,referral,1
+511,Warner,Petkov,51,wpetkove6@walmart.com,Cuba,,blue,19.72,4465.62,11/21/2022,platinum,mid-value,active,69.34,433,52792,4/2/2010,12/16/2014,referral,2
+512,Lauryn,Pragnall,41,lpragnalle7@livejournal.com,Portugal,3230-228,red,73.69,1483.12,8/25/2012,silver,mid-value,inactive,457.75,170,39192.04,12/30/2010,9/5/2011,email marketing,2
+513,Anny,Rickis,49,arickise8@elegantthemes.com,China,,green,5.12,1170.59,12/13/2019,silver,low-value,active,,684,73849.38,3/30/2017,1/13/2012,email marketing,2
+514,Aimil,Gorioli,30,agoriolie9@techcrunch.com,China,,green,16.73,2147.66,5/6/2018,silver,mid-value,inactive,478.73,257,65463.16,5/3/2010,5/20/2010,social media,2
+515,Martyn,France,75,mfranceea@hexun.com,Russia,618370,green,98.95,3306.44,3/4/2014,silver,mid-value,active,923.89,581,40045.92,7/30/2019,6/11/2019,social media,3
+516,Sophie,Schumacher,46,sschumachereb@delicious.com,France,92822 CEDEX,red,14.53,2506.71,11/12/2022,silver,high-value,active,950.31,815,8191.7,3/20/2021,10/25/2011,email marketing,4
+517,Marrilee,Birkett,42,mbirkettec@ucsd.edu,Ukraine,,red,31.45,416.9,9/5/2015,silver,low-value,inactive,370.73,206,57118.12,12/12/2017,12/10/2013,,1
+518,Matilde,Bostock,78,mbostocked@usgs.gov,Morocco,,blue,61.19,8050.27,9/12/2010,platinum,mid-value,active,803.82,632,31816.6,4/30/2013,11/16/2010,email marketing,2
+519,Rebeka,Gilley,55,rgilleyee@arstechnica.com,Indonesia,,green,4.42,5032.96,2/27/2011,silver,high-value,inactive,301.09,309,57029.11,2/17/2020,4/29/2014,referral,2
+520,Ines,Geeson,77,igeesonef@linkedin.com,Peru,,blue,82.99,5739.16,5/2/2012,silver,high-value,inactive,,871,37784.28,6/5/2016,5/15/2012,,5
+521,Bailie,Chidwick,18,bchidwickeg@histats.com,Cuba,,green,0.71,1125.09,3/7/2013,gold,low-value,active,654.92,98,75927.39,4/20/2016,11/4/2017,email marketing,1
+522,Merrill,Thomson,32,mthomsoneh@nhs.uk,Panama,,green,17.77,4174.64,7/30/2015,,high-value,active,680.22,25,187.14,12/5/2021,5/4/2015,email marketing,4
+523,Donalt,Camois,74,dcamoisei@woothemes.com,South Africa,5163,green,84.17,2588.64,3/28/2013,silver,mid-value,inactive,349.75,289,51267.49,7/27/2016,11/30/2022,social media,4
+524,Gypsy,Adrian,84,gadrianej@arstechnica.com,Indonesia,,green,54.98,5700.57,11/2/2012,,high-value,active,247.38,956,5159.51,6/16/2022,8/18/2013,,5
+525,Terrill,Oakley,68,toakleyek@facebook.com,Argentina,4162,blue,26.52,6741.73,12/27/2010,silver,high-value,inactive,205.43,283,31094.87,5/12/2018,12/27/2021,referral,2
+526,Read,Antonomoli,19,rantonomoliel@google.co.jp,Indonesia,,blue,69.9,1258.47,4/15/2017,gold,mid-value,inactive,546.98,380,87985.59,3/16/2014,5/4/2014,social media,1
+527,Ingaborg,Eunson,82,ieunsonem@boston.com,Russia,433300,blue,81.24,5527.67,8/7/2016,gold,mid-value,active,600.33,780,96860.71,3/20/2014,1/2/2016,referral,2
+528,Fairleigh,Foxten,38,ffoxtenen@ustream.tv,China,,red,18.32,4878.98,8/9/2012,bronze,mid-value,inactive,70.55,968,25630.5,9/13/2013,6/3/2022,email marketing,4
+529,Austin,Durdle,83,adurdleeo@mail.ru,Portugal,2440-341,blue,57.37,7316.86,4/19/2021,platinum,low-value,inactive,159.34,581,36667.7,7/17/2022,9/5/2015,email marketing,5
+530,Chantalle,Randalston,36,crandalstonep@pagesperso-orange.fr,United States,98405,green,99.42,1355.39,9/20/2017,silver,high-value,inactive,442.19,839,42648.65,4/21/2010,4/28/2021,,2
+531,Matty,Le febre,43,mlefebreeq@rakuten.co.jp,China,,red,29,8456.5,7/22/2019,gold,high-value,inactive,61.68,895,21922.39,11/9/2011,7/17/2015,email marketing,5
+532,Pen,Dunbleton,75,pdunbletoner@constantcontact.com,Bangladesh,6773,red,37.96,1900.85,4/26/2016,silver,low-value,inactive,432.05,687,25720.17,12/20/2014,1/12/2020,social media,1
+533,Wilhelmina,Skittles,70,wskittleses@bloomberg.com,Indonesia,,green,94.57,493.35,6/2/2019,gold,high-value,inactive,938.18,336,99650.82,4/3/2018,11/9/2022,social media,4
+534,Skipper,Herries,36,sherrieset@privacy.gov.au,Bulgaria,2971,green,68.04,4213.85,10/18/2021,platinum,low-value,active,29.65,93,11845.09,11/27/2016,8/2/2022,referral,2
+535,Carrol,MacGahey,69,cmacgaheyeu@fotki.com,Thailand,44160,blue,50.25,3563.04,1/15/2019,platinum,mid-value,inactive,632.8,958,42350.48,4/2/2021,12/1/2011,social media,2
+536,Roscoe,Hobben,57,rhobbenev@earthlink.net,Russia,607040,red,17.42,9982.17,8/2/2022,gold,low-value,inactive,,586,80004.4,4/17/2010,6/19/2015,email marketing,4
+537,Milli,Desforges,57,mdesforgesew@etsy.com,China,,blue,82.21,5166.59,5/21/2013,gold,mid-value,inactive,4.47,772,70067.62,10/29/2018,2/1/2021,social media,1
+538,Gardie,Poile,74,gpoileex@noaa.gov,Thailand,44130,red,94.23,1889.73,9/19/2018,gold,mid-value,inactive,467.41,942,61480.87,12/6/2014,10/4/2014,email marketing,1
+539,Munmro,Cato,39,mcatoey@wordpress.com,China,,red,96.52,224.95,8/25/2020,silver,low-value,active,200.75,413,70985.85,8/11/2013,2/18/2020,email marketing,2
+540,Maybelle,Andersen,22,mandersenez@sohu.com,Czech Republic,678 01,red,72.8,2246.17,4/14/2021,bronze,low-value,inactive,249.94,733,86940.42,7/27/2011,12/7/2014,social media,5
+541,Silva,Astill,38,sastillf0@amazon.co.uk,Tunisia,,,38.35,5384.44,6/2/2020,silver,high-value,inactive,38.68,485,4608.16,7/5/2016,4/20/2021,referral,1
+542,Vikki,Barron,71,vbarronf1@fda.gov,Brazil,59380-000,blue,51.14,64.07,10/4/2013,silver,mid-value,inactive,200.34,103,54120.92,1/1/2011,3/5/2012,referral,2
+543,Eada,Veschambre,41,eveschambref2@ucsd.edu,Ecuador,,blue,55.8,1368.94,9/12/2015,bronze,mid-value,inactive,139.35,861,61534.39,12/7/2015,8/23/2019,,2
+544,Annette,Keyworth,31,akeyworthf3@odnoklassniki.ru,Indonesia,,blue,83.8,1661.52,12/27/2015,gold,high-value,inactive,203.95,866,58684.03,2/12/2018,8/13/2022,referral,3
+545,Babbie,Snead,78,bsneadf4@yolasite.com,China,,blue,4.92,5591.87,2/4/2017,platinum,high-value,active,234.98,75,16706.03,10/4/2017,9/5/2011,referral,5
+546,Sorcha,Gillio,41,sgilliof5@topsy.com,United States,98682,green,83.34,7420.73,10/29/2014,platinum,high-value,inactive,975.85,676,4240.61,12/17/2021,8/22/2014,social media,2
+547,Delphinia,Awcoate,64,dawcoatef6@hugedomains.com,Indonesia,,blue,35.85,719.6,6/28/2019,platinum,high-value,active,747.99,680,92681.61,3/1/2016,4/19/2013,email marketing,5
+548,Caprice,Retallick,26,cretallickf7@twitpic.com,China,,green,2.98,9238.61,11/27/2018,,high-value,active,505.49,17,66621.13,9/2/2018,12/26/2019,email marketing,1
+549,Marion,Kyffin,64,mkyffinf8@twitpic.com,Russia,663510,red,99.21,6756.85,5/13/2017,silver,high-value,inactive,956.9,956,12293.48,3/4/2010,6/26/2014,social media,2
+550,Lisle,Crocker,83,lcrockerf9@ftc.gov,Central African Republic,,green,9.1,9804.41,1/14/2019,bronze,high-value,inactive,599.81,270,64848.01,6/1/2012,11/26/2021,email marketing,5
+551,Zsazsa,McColl,40,zmccollfa@howstuffworks.com,France,17044 CEDEX 1,,94.37,3784.36,2/2/2014,bronze,low-value,active,,423,44655.87,4/3/2022,12/3/2017,referral,2
+552,Winnah,Kydde,34,wkyddefb@sciencedirect.com,Netherlands,4334,green,82.91,2590.61,5/18/2015,platinum,low-value,active,976.14,130,35104.78,4/6/2021,12/26/2015,,5
+553,Francklin,Cooper,38,fcooperfc@sbwire.com,China,,green,75.6,2519.71,12/31/2014,platinum,high-value,inactive,711.96,229,4051.84,12/10/2014,2/10/2016,social media,4
+554,Dominic,Ambrose,46,dambrosefd@google.com.br,Indonesia,,,84.8,7044.38,8/29/2010,silver,mid-value,active,665.67,668,67900.78,8/21/2016,4/18/2010,social media,5
+555,Lorilee,Di Roberto,71,ldirobertofe@dot.gov,Oman,,blue,48.78,1633.65,3/25/2018,platinum,low-value,active,677.02,662,57989.52,4/21/2020,7/21/2010,email marketing,3
+556,Enid,Wasbrough,61,ewasbroughff@qq.com,Philippines,6542,blue,51.07,4544.21,6/17/2010,,high-value,active,4.03,538,54979.78,11/30/2015,5/8/2022,email marketing,5
+557,Beatrisa,Odo,22,bodofg@google.cn,United States,68134,green,54.08,1477.65,2/21/2014,bronze,high-value,active,283.76,377,15155.93,10/16/2013,8/25/2021,social media,3
+558,Juliana,Normanton,23,jnormantonfh@dell.com,Bulgaria,9337,red,53.74,9521.41,2/11/2015,bronze,high-value,active,468.2,783,30701.7,3/23/2017,7/1/2017,email marketing,1
+559,Ario,Vennings,31,avenningsfi@discovery.com,Czech Republic,503 03,red,20.88,2996.35,7/30/2019,bronze,high-value,inactive,340.7,267,88358.35,7/9/2012,2/9/2018,email marketing,5
+560,Adara,Martinelli,23,amartinellifj@github.com,France,37016 CEDEX 1,green,77.53,4145.05,7/13/2017,bronze,low-value,active,145.7,878,18872.89,5/29/2019,9/20/2014,social media,1
+561,Colan,Morgon,82,cmorgonfk@geocities.jp,Moldova,MD-2081,blue,60.64,2863.02,4/7/2015,gold,low-value,active,467.67,91,29764.52,5/14/2013,9/27/2012,email marketing,3
+562,Giavani,De Pero,33,gdeperofl@cisco.com,France,44324 CEDEX 3,blue,89.71,4908.53,3/28/2015,silver,mid-value,inactive,874.69,175,56144.69,8/26/2020,3/26/2020,social media,5
+563,Corilla,Grange,25,cgrangefm@51.la,Indonesia,,red,89.52,2354.22,2/21/2020,gold,high-value,active,286.21,636,40710.44,8/10/2016,8/3/2022,referral,1
+564,Fanchon,Sheber,19,fsheberfn@mail.ru,China,,red,5.91,7777.3,1/12/2020,platinum,low-value,inactive,859.79,15,80368.93,2/19/2019,10/11/2014,email marketing,2
+565,Kelcie,Sherwood,74,ksherwoodfo@cnbc.com,France,93571 CEDEX,blue,53.59,3830.25,8/5/2011,gold,low-value,active,833.95,245,6377.4,7/16/2021,1/31/2018,,5
+566,Billye,Gogerty,79,bgogertyfp@google.com,China,,green,85.88,939.11,3/21/2014,silver,high-value,active,408,392,10223.64,5/2/2016,9/15/2010,referral,4
+567,Ophelie,Florentine,82,oflorentinefq@amazonaws.com,China,,green,31.59,2719.98,7/10/2016,silver,high-value,active,560.63,409,32335.73,2/23/2020,3/30/2018,,3
+568,Millicent,Pereira,59,mpereirafr@bigcartel.com,France,28114 CEDEX,blue,68.42,5517.82,2/19/2014,platinum,low-value,active,,694,91304.4,12/9/2015,12/12/2010,,2
+569,Daisey,Ineson,53,dinesonfs@diigo.com,China,,blue,29.02,4353.66,6/28/2020,gold,high-value,inactive,,283,98303.99,1/5/2021,12/22/2014,referral,3
+570,Mitch,Kinsey,26,mkinseyft@squarespace.com,Canada,M4N,green,17.02,8822.44,3/20/2013,gold,high-value,inactive,,575,42622.91,8/13/2020,3/30/2019,email marketing,2
+571,Bobbie,Landreth,36,blandrethfu@sourceforge.net,Brazil,18480-000,red,4.9,4697.64,12/8/2021,,mid-value,inactive,,177,81019.66,9/25/2019,7/4/2019,social media,5
+572,Dermot,Sparsholt,64,dsparsholtfv@pcworld.com,Cuba,,blue,2.81,6156.43,12/2/2014,platinum,high-value,inactive,971.71,111,88586.22,12/23/2020,2/24/2010,email marketing,3
+573,Ronna,Hembrow,39,rhembrowfw@walmart.com,Poland,23-412,blue,27.01,2127.18,4/25/2017,gold,mid-value,inactive,260.64,816,56118.28,8/6/2016,7/7/2010,referral,2
+574,Amye,Hacard,47,ahacardfx@nymag.com,China,,blue,3.82,5213.15,2/4/2013,bronze,low-value,active,201.57,186,71834.18,1/7/2014,3/18/2017,,3
+575,Tiebout,Hannabus,37,thannabusfy@imgur.com,Indonesia,,blue,4.67,163.38,3/3/2018,silver,high-value,inactive,675.34,864,46697.14,7/26/2011,9/9/2017,email marketing,5
+576,Hirsch,McKeon,22,hmckeonfz@so-net.ne.jp,Indonesia,,blue,99.11,7255.85,7/6/2021,gold,low-value,inactive,614.42,69,47169.41,12/1/2019,10/3/2018,social media,2
+577,Kerianne,Trowill,82,ktrowillg0@yelp.com,China,,blue,45.71,457.29,8/23/2018,gold,high-value,inactive,692.86,215,36947.82,5/28/2010,2/25/2013,social media,3
+578,Willie,Foker,25,wfokerg1@printfriendly.com,Portugal,4730-264,red,24.72,4279.62,7/21/2022,platinum,high-value,inactive,838.93,807,83194.87,11/15/2016,2/6/2018,social media,3
+579,Milli,Bartos,37,mbartosg2@imgur.com,France,31004 CEDEX 6,green,41.6,9906.05,9/2/2016,bronze,mid-value,inactive,847.18,45,59632.54,5/23/2012,7/30/2019,email marketing,1
+580,Langston,Gartrell,53,lgartrellg3@linkedin.com,Dominican Republic,11515,red,84.93,1929.45,8/30/2010,silver,high-value,inactive,82.08,686,4907.8,3/14/2017,2/18/2022,social media,1
+581,Madeline,Cockshtt,25,mcockshttg4@scientificamerican.com,China,,,69.68,693.68,8/27/2012,silver,high-value,active,173.94,657,730.69,2/22/2012,11/11/2016,referral,5
+582,Gamaliel,MacFadin,30,gmacfading5@gov.uk,Dominican Republic,11509,red,45.41,8127.42,7/10/2010,silver,low-value,inactive,752.71,719,71209.49,2/16/2022,5/20/2010,referral,3
+583,Madelle,Lurriman,38,mlurrimang6@is.gd,China,,green,7.93,7315.5,1/20/2019,silver,mid-value,active,193.19,84,92164.75,4/20/2020,9/24/2018,referral,2
+584,Kareem,Deely,63,kdeelyg7@shop-pro.jp,Portugal,4490-204,green,82.29,5248.72,5/13/2018,bronze,high-value,active,987.21,747,58933.31,6/29/2011,7/21/2014,social media,2
+585,Reggie,Gooderick,42,rgooderickg8@php.net,Japan,899-1922,blue,43.23,2909.45,5/7/2022,gold,high-value,inactive,790.13,490,83650.49,8/18/2016,10/18/2019,,5
+586,Jo-ann,Grolle,19,jgrolleg9@discovery.com,Indonesia,,green,81.27,3392.67,9/14/2010,bronze,mid-value,inactive,265.37,589,85039.37,6/9/2014,3/22/2017,social media,2
+587,Rebecca,Ferenczi,53,rferencziga@eepurl.com,Brazil,76420-000,blue,24.48,2614.59,9/25/2018,bronze,high-value,active,690.61,587,35671.74,3/7/2016,3/13/2021,referral,3
+588,Claribel,Ricardot,71,cricardotgb@berkeley.edu,Spain,25193,green,23.8,2734.46,4/19/2021,silver,low-value,inactive,925.18,919,66520.83,3/2/2010,4/20/2014,social media,4
+589,Bibby,Luckes,52,bluckesgc@ca.gov,Japan,794-2550,blue,58.12,141.43,5/3/2018,platinum,low-value,inactive,206.69,696,7397.95,6/29/2011,4/12/2021,email marketing,4
+590,Winna,Dimeloe,65,wdimeloegd@apache.org,Poland,47-280,green,11.5,9207.38,1/13/2010,bronze,low-value,inactive,146.89,215,32003.2,8/6/2021,7/3/2017,email marketing,2
+591,Vaughan,Swaile,79,vswailege@xinhuanet.com,China,,green,81.9,1030.28,5/17/2022,bronze,mid-value,active,309.76,819,84784.17,3/10/2013,2/8/2014,social media,3
+592,Herschel,Calfe,25,hcalfegf@topsy.com,Japan,990-0711,green,58.4,9143.41,2/22/2016,,low-value,inactive,774.45,466,74316.25,10/23/2014,7/30/2013,social media,5
+593,Odelinda,Drinkwater,28,odrinkwatergg@about.com,Indonesia,,green,60.86,7849.24,2/23/2020,silver,high-value,inactive,193.97,695,74961.2,1/15/2015,12/20/2014,email marketing,5
+594,Simeon,Gammill,75,sgammillgh@indiegogo.com,Indonesia,,green,21.34,2930.33,7/11/2012,bronze,low-value,active,977.33,392,60699.24,4/5/2017,3/3/2015,social media,1
+595,Bee,Borton,75,bbortongi@unicef.org,China,,green,97.3,7546.1,7/17/2011,platinum,mid-value,active,729.29,218,53278.68,12/9/2019,8/3/2011,referral,2
+596,Candice,Jerdon,68,cjerdongj@theatlantic.com,Serbia,,red,19.8,74.51,1/24/2020,platinum,high-value,active,594.05,213,1564.99,6/5/2011,3/24/2016,referral,5
+597,Virgilio,Coarser,37,vcoarsergk@boston.com,Philippines,8201,red,67.59,2945.26,12/26/2013,gold,low-value,active,791.02,182,83565.74,1/6/2018,7/25/2015,email marketing,5
+598,Morganne,Craigg,66,mcraigggl@go.com,Indonesia,,green,65.68,2426.77,11/4/2016,platinum,low-value,active,339.02,749,11992.87,4/24/2014,12/19/2012,email marketing,4
+599,Shaylyn,Lamberth,58,slamberthgm@t.co,Colombia,417018,blue,20,2282.72,3/1/2010,bronze,high-value,active,73.9,357,98124.95,7/22/2017,11/25/2013,email marketing,4
+600,Tadeo,Hitcham,47,thitchamgn@cam.ac.uk,Japan,859-0416,green,4.16,6553.55,1/4/2020,silver,mid-value,active,668.19,537,69254.37,6/7/2012,8/6/2013,social media,3
+601,Janith,Emmet,51,jemmetgo@shareasale.com,China,,green,88.75,7664.42,3/29/2016,silver,low-value,inactive,804.37,625,87858.79,1/31/2016,9/13/2019,,1
+602,Skye,Scartifield,59,sscartifieldgp@drupal.org,Dominican Republic,10510,green,62.61,2400.92,8/4/2017,bronze,high-value,inactive,577.33,313,28424.93,6/17/2018,1/21/2011,email marketing,4
+603,Rabbi,Jillings,79,rjillingsgq@ted.com,Mexico,43645,green,35.37,5879.16,4/27/2018,gold,low-value,active,714.12,57,92116.41,2/6/2011,1/16/2017,referral,2
+604,Charmine,Vsanelli,83,cvsanelligr@stumbleupon.com,Colombia,444008,green,58.51,2566.24,4/6/2017,silver,high-value,active,,337,40080.04,12/25/2014,12/2/2019,email marketing,1
+605,Grete,Mackison,48,gmackisongs@joomla.org,China,,red,12.82,8114.73,1/24/2010,,low-value,inactive,830.66,864,17878.52,11/19/2017,2/1/2022,,5
+606,Agatha,Mongenot,18,amongenotgt@unblog.fr,Japan,519-0142,green,71.32,4236.89,4/22/2020,bronze,high-value,active,652.04,212,92838.07,7/29/2010,10/14/2018,referral,4
+607,Walsh,Maasz,52,wmaaszgu@mit.edu,Peru,,blue,46.45,1354.91,8/13/2014,platinum,low-value,inactive,170.96,792,56340.85,10/29/2022,10/26/2014,referral,2
+608,Tania,McCarlich,76,tmccarlichgv@eepurl.com,Peru,,blue,27.67,7559.89,8/7/2022,platinum,high-value,inactive,605.77,603,80503.62,9/19/2020,9/18/2019,,1
+609,Carolus,Gounel,75,cgounelgw@ifeng.com,China,,red,57.25,8758.87,8/13/2015,platinum,low-value,inactive,952.46,217,61290.12,5/23/2016,5/24/2019,social media,1
+610,Rock,Gaunt,49,rgauntgx@hibu.com,Sweden,162 15,red,67.33,5353.23,5/29/2021,gold,mid-value,active,25.21,256,43065.54,8/26/2021,1/24/2011,social media,5
+611,Anallese,Dutson,36,adutsongy@businessweek.com,Mongolia,,green,74.43,3314.97,11/5/2013,bronze,high-value,active,399.09,665,23127.88,11/4/2010,11/19/2013,,4
+612,Roarke,Mignot,44,rmignotgz@behance.net,Philippines,2512,blue,93.37,5800.41,1/14/2013,gold,low-value,inactive,790.9,46,52952.97,8/5/2020,2/4/2016,referral,1
+613,Megen,Relton,63,mreltonh0@xrea.com,Portugal,3045-451,green,95.82,2759.14,3/26/2020,,high-value,active,488.71,477,87262.51,8/29/2012,3/26/2010,,3
+614,Jelene,Baggarley,63,jbaggarleyh1@simplemachines.org,China,,,43.05,8479,3/15/2020,silver,low-value,inactive,,696,76626.46,2/12/2018,11/7/2022,referral,4
+615,Elvira,Nuttey,34,enutteyh2@purevolume.com,France,35513 CEDEX,green,92.74,6347.36,6/20/2017,silver,low-value,active,444.53,55,53972.16,9/24/2011,5/21/2022,social media,3
+616,Afton,Marlen,84,amarlenh3@squarespace.com,Russia,140579,green,37.11,7707.94,7/3/2022,platinum,low-value,active,98.97,811,73171.82,12/27/2021,12/30/2015,email marketing,5
+617,Timothy,Bonus,57,tbonush4@imageshack.us,Mali,,,44.58,5969.38,10/8/2017,silver,low-value,inactive,115.85,302,41634.42,12/17/2010,4/7/2010,email marketing,2
+618,Ailis,Sturdgess,43,asturdgessh5@bbc.co.uk,Brazil,89400-000,green,91.1,4744.15,8/4/2020,platinum,mid-value,inactive,999.18,168,30779.77,3/6/2012,8/28/2019,email marketing,4
+619,Alix,Kift,32,akifth6@wired.com,China,,red,88.88,8303.22,6/27/2018,platinum,high-value,active,246.26,554,37866.96,12/26/2013,8/15/2015,referral,5
+620,Jim,Radband,58,jradbandh7@chicagotribune.com,France,07304 CEDEX,red,85.26,8210.81,2/26/2020,,mid-value,active,816,267,28163.03,12/28/2015,6/4/2014,email marketing,2
+621,Cherie,McCromley,67,cmccromleyh8@accuweather.com,Netherlands,3764,blue,11.1,9920.42,8/6/2010,bronze,high-value,inactive,902.32,99,18821.72,9/14/2019,4/11/2022,email marketing,5
+622,Edi,McLenahan,33,emclenahanh9@usatoday.com,China,,blue,91.47,3890.96,7/25/2020,bronze,low-value,active,572,719,96613.2,10/29/2021,3/5/2017,referral,4
+623,Shermy,Gross,45,sgrossha@surveymonkey.com,Poland,33-334,blue,72.21,290.5,2/24/2011,gold,high-value,inactive,209.02,84,79154.89,7/19/2020,3/2/2017,referral,4
+624,Alleen,Athowe,64,aathowehb@salon.com,China,,red,98.93,813.21,12/19/2017,gold,high-value,inactive,130.85,532,99111.67,1/4/2020,8/1/2014,referral,4
+625,Christiana,Franke,40,cfrankehc@sun.com,Greece,,blue,67.99,8468.71,3/1/2020,bronze,high-value,active,900.92,994,9493.33,11/7/2021,10/23/2013,email marketing,2
+626,Nessa,Iorns,33,niornshd@ca.gov,Russia,665770,red,55.83,2296.24,5/19/2019,silver,mid-value,inactive,771.46,477,26576.87,6/17/2011,4/29/2012,referral,4
+627,Celestina,Scotchbourouge,53,cscotchbourougehe@freewebs.com,China,,green,31.41,5399.81,11/21/2016,bronze,low-value,inactive,546.56,306,58920.23,1/28/2011,8/5/2010,referral,1
+628,Haroun,Edsell,40,hedsellhf@huffingtonpost.com,Palestinian Territory,,green,55.44,9464.43,4/1/2016,silver,high-value,active,509.13,263,42332.77,11/27/2021,1/21/2019,social media,2
+629,Brittne,Mackro,39,bmackrohg@ted.com,Russia,307736,,1.04,2199.61,11/24/2019,bronze,high-value,active,492.68,593,95088.52,12/10/2020,9/6/2016,,4
+630,Flint,Oty,47,fotyhh@1688.com,Palestinian Territory,,green,13.16,3814.65,1/4/2016,silver,high-value,active,956.27,834,93667.15,12/26/2012,9/4/2022,email marketing,3
+631,Casey,Filipiak,78,cfilipiakhi@bandcamp.com,Indonesia,,green,37.09,5832.24,2/20/2017,bronze,low-value,active,861.93,842,56204.14,3/14/2020,9/20/2017,referral,5
+632,Olwen,Capeloff,81,ocapeloffhj@hc360.com,Thailand,17130,red,15.84,3836.43,10/29/2011,gold,high-value,active,611.84,964,97870.8,12/1/2017,2/6/2014,social media,3
+633,Alfred,Malmar,82,amalmarhk@creativecommons.org,Japan,400-0121,red,31.07,5607.41,11/10/2018,platinum,high-value,inactive,924.52,466,33248.76,6/22/2010,9/29/2013,,1
+634,Robinetta,Philipot,36,rphilipothl@sphinn.com,Macedonia,1316,blue,9.01,4664.55,10/10/2022,gold,mid-value,active,893.4,735,78379.6,12/13/2018,10/13/2010,,5
+635,Ninette,Fateley,48,nfateleyhm@slashdot.org,Poland,63-020,blue,51.59,2114.02,11/20/2016,platinum,mid-value,inactive,635.83,905,49691.38,10/14/2012,2/10/2022,referral,4
+636,Rois,Lilloe,22,rlilloehn@nydailynews.com,Czech Republic,391 33,blue,75.69,7787.07,11/14/2011,gold,mid-value,inactive,311.58,916,69040.24,12/1/2020,11/5/2012,,4
+637,Tedd,Beacham,42,tbeachamho@slideshare.net,Indonesia,,blue,5.34,487.72,1/19/2020,,low-value,inactive,495.13,563,72698.57,10/31/2015,3/5/2022,social media,1
+638,Kincaid,Wharram,36,kwharramhp@myspace.com,Kosovo,,red,13.76,3941.3,7/25/2022,silver,mid-value,inactive,,446,78190.76,12/16/2011,12/10/2012,email marketing,1
+639,Darrin,Rawles,45,drawleshq@nymag.com,Croatia,21000,red,57.64,5483.24,1/10/2019,bronze,low-value,active,530.73,778,24785.53,9/4/2014,11/16/2010,email marketing,4
+640,Kellby,Rappaport,85,krappaporthr@google.co.jp,China,,red,30.76,8109.82,7/28/2011,,high-value,inactive,341.82,462,85363.46,8/1/2020,8/22/2020,email marketing,3
+641,Daffy,Strettle,78,dstrettlehs@examiner.com,Russia,452141,blue,6.98,1269.04,1/13/2013,bronze,high-value,active,830.35,857,63741.45,11/8/2020,5/29/2011,social media,4
+642,Vittoria,Bloy,68,vbloyht@creativecommons.org,China,,red,23.11,2681.66,1/31/2021,,mid-value,active,522.7,316,97375.57,9/1/2016,11/11/2013,social media,1
+643,Inger,Dowdam,27,idowdamhu@feedburner.com,Portugal,4635-637,blue,0.33,3032.58,7/8/2014,gold,mid-value,active,841.61,107,73874.68,1/25/2017,7/21/2020,,2
+644,Dorisa,Hammant,35,dhammanthv@economist.com,Ukraine,,red,86.66,7800.58,9/19/2020,silver,low-value,inactive,118.75,628,496.57,11/2/2021,5/22/2021,email marketing,5
+645,Kasey,Crannage,69,kcrannagehw@blogspot.com,Mongolia,,blue,47.01,3108.84,6/25/2021,platinum,mid-value,active,161.35,192,72601.06,12/1/2017,2/27/2019,,1
+646,Enrika,Seers,74,eseershx@ted.com,Indonesia,,blue,47.63,3204.2,8/14/2014,bronze,low-value,active,39.98,767,44249.89,1/6/2022,10/13/2015,email marketing,5
+647,Hernando,Orrett,74,horretthy@microsoft.com,China,,blue,24.24,1673.17,3/15/2013,silver,high-value,inactive,92.84,392,51198.95,11/20/2014,10/29/2021,referral,3
+648,Velma,Gladman,42,vgladmanhz@cornell.edu,Sweden,555 94,green,1.02,7507.54,4/30/2014,gold,mid-value,active,126.56,841,14122.97,5/19/2012,5/1/2014,social media,2
+649,Rubia,Granham,46,rgranhami0@samsung.com,China,,green,26.37,4999.02,3/18/2016,bronze,low-value,active,957.65,934,27998.36,11/29/2018,9/23/2018,social media,3
+650,Suzy,Reiling,24,sreilingi1@oakley.com,Sierra Leone,,green,86.61,3386.8,12/18/2019,silver,low-value,inactive,247.86,331,90138.41,6/26/2010,11/25/2016,email marketing,4
+651,Daryle,Henighan,37,dhenighani2@t.co,Portugal,7875-254,blue,33.97,1175.33,8/1/2021,gold,low-value,active,,910,38930.17,11/22/2020,8/25/2021,referral,3
+652,Cristabel,Houdmont,21,choudmonti3@thetimes.co.uk,China,,red,64.5,6203,8/10/2012,bronze,high-value,inactive,337.64,632,72273.15,6/1/2016,9/23/2022,referral,1
+653,Adelle,Josifovic,58,ajosifovici4@mayoclinic.com,New Caledonia,98880,green,73.88,470.93,6/2/2020,gold,low-value,active,390.55,657,21804.19,10/19/2018,9/14/2021,email marketing,1
+654,Maddy,Gillhespy,18,mgillhespyi5@flickr.com,China,,blue,91.92,3523.93,2/6/2013,,mid-value,active,744.92,455,76686.87,4/21/2018,5/30/2019,referral,2
+655,Brittney,Ilyin,52,bilyini6@house.gov,Philippines,1144,red,33,2638.38,8/5/2020,bronze,mid-value,active,175.25,417,45372.49,9/13/2016,3/13/2020,email marketing,4
+656,Alethea,Guillford,59,aguillfordi7@mac.com,Czech Republic,664 55,green,28.02,7703.04,4/1/2011,,mid-value,inactive,598.34,971,52166.86,8/21/2016,2/11/2011,social media,2
+657,Frasier,Dovinson,40,fdovinsoni8@blogger.com,China,,red,52.38,4166.4,11/8/2013,,high-value,inactive,627.98,918,26723,2/8/2021,3/3/2010,email marketing,1
+658,Bernardo,Dwire,81,bdwirei9@last.fm,Portugal,4615-492,red,84.03,5347.19,8/31/2018,silver,high-value,active,510.6,428,15635.68,12/25/2019,12/20/2013,email marketing,5
+659,Marijn,Brisseau,37,mbrisseauia@google.fr,Russia,142451,blue,21.8,3306.14,9/5/2012,bronze,high-value,active,685.27,820,30279.14,2/10/2012,9/9/2013,social media,3
+660,Cecilio,Baggalley,52,cbaggalleyib@booking.com,Indonesia,,green,66.43,7697.25,7/11/2011,gold,mid-value,active,458.03,943,60602.17,8/8/2011,11/4/2010,referral,1
+661,Blayne,Soigne,44,bsoigneic@cnn.com,China,,red,89.32,9816.62,2/27/2022,silver,mid-value,active,,985,47874.25,6/1/2014,1/1/2019,email marketing,1
+662,Bruno,Le Brun,41,blebrunid@blogs.com,Russia,422505,green,21.47,2664.28,11/27/2015,platinum,low-value,active,,258,89876.78,10/25/2013,10/11/2011,social media,1
+663,Alonso,Jankiewicz,76,ajankiewiczie@bigcartel.com,China,,green,61.41,9880.71,5/4/2017,gold,low-value,inactive,,47,52222.69,2/24/2016,5/26/2022,social media,4
+664,Rosalyn,Ronnay,68,rronnayif@cnn.com,Bosnia and Herzegovina,,,62.63,3589.47,12/17/2014,bronze,high-value,inactive,955.98,755,88746.23,12/8/2021,7/14/2021,email marketing,1
+665,Daniella,Coldridge,66,dcoldridgeig@quantcast.com,Thailand,71260,red,8.52,6923.13,1/5/2011,platinum,mid-value,inactive,600.32,764,75966.43,5/10/2015,6/3/2015,social media,4
+666,Kanya,Salzberger,41,ksalzbergerih@admin.ch,China,,green,89.68,4455.24,11/14/2014,platinum,high-value,active,9.88,878,49539.09,3/8/2021,2/16/2013,email marketing,3
+667,Zebedee,Baudacci,83,zbaudacciii@myspace.com,China,,blue,15.96,866.85,7/26/2018,platinum,mid-value,inactive,980.25,547,81356.28,1/9/2021,1/10/2017,,4
+668,Annemarie,Koschek,70,akoschekij@illinois.edu,Argentina,6230,red,22.65,7761.97,12/13/2020,gold,high-value,active,896.37,133,92670.46,4/17/2013,2/3/2011,email marketing,1
+669,Evania,Vedenichev,53,evedenichevik@omniture.com,Afghanistan,,blue,57.56,7990.66,12/3/2010,platinum,low-value,active,946.63,72,29242.58,3/3/2021,8/2/2017,referral,3
+670,Boycey,Losbie,19,blosbieil@home.pl,Indonesia,,blue,24.94,5350.43,1/4/2016,bronze,mid-value,inactive,102.9,919,93852.77,4/30/2011,5/15/2014,social media,2
+671,Geordie,Tine,70,gtineim@sakura.ne.jp,China,,green,1.11,642.74,12/12/2022,gold,low-value,inactive,879.88,444,27577.9,8/25/2016,6/19/2018,email marketing,4
+672,Elbertina,Edmonston,48,eedmonstonin@icq.com,United States,7112,green,72.21,1695.17,8/15/2015,platinum,low-value,active,921.8,574,42639.33,9/16/2016,4/1/2017,email marketing,2
+673,Berton,Varndell,27,bvarndellio@aboutads.info,China,,green,9.99,9853.82,8/30/2011,gold,low-value,inactive,571.08,434,59025.96,8/4/2017,7/15/2012,email marketing,3
+674,Shelba,Levermore,68,slevermoreip@eepurl.com,Serbia,,red,31.37,6676.02,5/29/2015,platinum,mid-value,active,102.64,314,84080.52,10/1/2015,5/27/2017,,5
+675,Nicolle,Ratnage,77,nratnageiq@so-net.ne.jp,China,,red,17.05,7500.05,1/7/2012,gold,high-value,active,551.06,226,28408.72,6/28/2020,3/27/2020,email marketing,4
+676,Rozamond,Ilyinykh,66,rilyinykhir@google.ru,Greece,,green,3.02,6123.14,2/18/2015,bronze,low-value,active,647.99,242,43481.29,1/2/2014,10/3/2010,,4
+677,Hollyanne,Vasilik,49,hvasilikis@ucla.edu,South Africa,5708,green,25.73,1349.96,4/10/2017,gold,high-value,active,558.81,950,64311.96,7/12/2010,1/24/2022,social media,5
+678,Nelly,Chiplen,77,nchiplenit@columbia.edu,Colombia,55457,,10.78,467.17,9/13/2015,gold,high-value,inactive,942.04,386,12374.6,5/20/2018,12/27/2011,social media,4
+679,Cheri,Mandy,85,cmandyiu@vimeo.com,Guatemala,12006,red,34.82,1579.31,10/21/2013,platinum,low-value,active,59.59,892,937.36,10/2/2018,4/28/2019,referral,4
+680,Elvyn,Catley,80,ecatleyiv@typepad.com,Indonesia,,blue,50.63,9372.49,6/18/2019,bronze,mid-value,inactive,897.53,306,90796.01,7/3/2018,5/5/2016,social media,5
+681,Fonsie,Linfoot,85,flinfootiw@quantcast.com,Indonesia,,red,69.7,777.02,4/13/2012,silver,low-value,inactive,491.54,401,6018.88,8/6/2022,2/21/2012,email marketing,4
+682,Teodorico,Janway,18,tjanwayix@amazon.com,Vietnam,,blue,88.8,9236.02,12/21/2015,gold,mid-value,active,916.37,836,60745.04,2/7/2012,6/9/2018,social media,3
+683,Sherman,Croyden,48,scroydeniy@google.nl,Armenia,,green,37.1,864.97,8/13/2016,platinum,low-value,inactive,216.5,203,39219.55,11/30/2020,12/20/2012,social media,2
+684,Ancell,Chatelet,68,achateletiz@vkontakte.ru,Japan,781-3223,blue,59.46,9764.17,4/2/2013,platinum,low-value,inactive,32.62,792,77926.09,1/18/2022,1/26/2016,email marketing,1
+685,Jeramie,Beades,60,jbeadesj0@nymag.com,France,25071 CEDEX 9,green,85.78,199.63,4/27/2020,silver,low-value,inactive,24.06,484,54390.96,3/26/2010,9/2/2015,,4
+686,Marilyn,Dunmore,81,mdunmorej1@uol.com.br,Venezuela,,red,7.46,3910.64,3/6/2014,bronze,low-value,active,320.78,314,42258.24,3/3/2018,3/4/2022,referral,5
+687,Natalie,Rutledge,57,nrutledgej2@purevolume.com,Afghanistan,,red,43.54,1835.24,8/27/2022,silver,mid-value,active,591.7,389,30442.49,9/25/2018,10/21/2022,referral,1
+688,Licha,Cantopher,28,lcantopherj3@jimdo.com,Indonesia,,blue,21.08,3762.49,5/25/2017,platinum,low-value,active,209.82,58,78877.57,10/17/2019,9/22/2019,social media,1
+689,Agnes,Haggish,42,ahaggishj4@flavors.me,Ireland,X91,blue,85.66,9392.6,9/9/2021,silver,mid-value,active,432.48,848,92446.41,3/29/2011,11/3/2010,email marketing,5
+690,Nikos,Beades,73,nbeadesj5@ning.com,France,92901 CEDEX,green,95.42,2929.98,12/23/2011,gold,low-value,active,998.58,542,94659.05,7/24/2022,3/8/2011,,3
+691,Gisela,Worviell,73,gworviellj6@fc2.com,Malaysia,75518,red,5.88,1599.05,11/16/2020,silver,low-value,inactive,,305,9935.26,2/23/2012,4/28/2018,social media,1
+692,Dom,Pryor,55,dpryorj7@narod.ru,France,76011 CEDEX,red,48.44,2737.5,7/27/2021,bronze,high-value,inactive,146.37,506,6723.52,4/30/2019,9/29/2020,,5
+693,Lavina,Redwood,84,lredwoodj8@newsvine.com,Greece,,red,64.02,4337.55,9/25/2019,bronze,mid-value,inactive,287.42,534,88916.23,9/9/2013,1/24/2017,,2
+694,Malva,Labusquiere,54,mlabusquierej9@cargocollective.com,China,,blue,36.76,8569.52,7/23/2012,bronze,low-value,active,,987,79935.72,2/20/2011,9/20/2011,referral,4
+695,Eadmund,Bartolommeo,64,ebartolommeoja@whitehouse.gov,Ivory Coast,,red,44.51,462.06,9/18/2015,silver,high-value,active,706.82,791,54191.51,11/23/2015,6/15/2015,referral,3
+696,Amandi,Whittam,44,awhittamjb@gravatar.com,Armenia,,red,30.08,7209.06,9/13/2014,silver,mid-value,inactive,927.97,61,60587.82,6/15/2015,3/21/2013,referral,1
+697,Cosetta,Luigi,76,cluigijc@state.tx.us,China,,green,22.95,5553.43,10/21/2014,bronze,mid-value,inactive,585.01,814,86684.01,4/11/2011,12/15/2016,social media,3
+698,Ninnetta,Wisdom,19,nwisdomjd@miitbeian.gov.cn,Greece,,blue,0.5,1626.44,6/30/2021,gold,mid-value,active,879.58,270,99842.52,1/11/2011,12/2/2012,referral,5
+699,Adora,Wigmore,50,awigmoreje@ebay.co.uk,Bosnia and Herzegovina,,red,41,7279.41,4/25/2018,silver,mid-value,inactive,631.79,731,94059.64,7/11/2017,1/4/2019,referral,5
+700,Carny,Dyte,77,cdytejf@ovh.net,Morocco,,,64.06,5611.12,7/2/2014,silver,high-value,inactive,,555,47120.55,10/12/2016,6/4/2017,email marketing,1
+701,Gaile,Kingzeth,44,gkingzethjg@t-online.de,China,,,88.92,8395.16,11/26/2012,platinum,low-value,inactive,8.77,436,46970.16,11/27/2017,8/4/2017,social media,2
+702,Susann,Esser,34,sesserjh@51.la,China,,green,47.41,3679.51,4/28/2013,,high-value,inactive,273.14,575,28293.03,11/21/2020,6/3/2017,referral,2
+703,Malchy,Careless,46,mcarelessji@usgs.gov,France,25014 CEDEX,blue,74.66,7637.65,12/1/2012,silver,mid-value,active,603.34,648,81714.97,7/8/2014,7/12/2014,,2
+704,Winna,Koubu,75,wkoubujj@ehow.com,Brazil,96200-000,red,1.69,4220.1,6/7/2013,silver,high-value,inactive,50.55,795,21995.61,4/8/2021,4/23/2020,referral,2
+705,Austin,Chiommienti,58,achiommientijk@economist.com,France,84033 CEDEX 3,red,45.68,1305.85,12/13/2012,silver,low-value,inactive,571.67,357,95406.57,3/7/2020,10/7/2022,social media,5
+706,Mycah,Seger,27,msegerjl@unblog.fr,Russia,607612,red,57.92,3991.94,2/6/2022,silver,high-value,active,,856,57081.93,2/11/2014,12/2/2020,social media,3
+707,Cristian,Marrian,22,cmarrianjm@canalblog.com,Indonesia,,green,30.55,777.19,3/20/2014,platinum,low-value,inactive,616.89,422,77705.08,5/9/2021,11/5/2016,,2
+708,Cornie,Oxshott,51,coxshottjn@freewebs.com,China,,green,9.92,6165.79,5/3/2018,bronze,mid-value,active,500.64,637,68224.44,3/2/2014,6/18/2013,referral,4
+709,Falkner,Bramble,41,fbramblejo@blogs.com,Russia,412292,blue,85.77,8754.65,6/5/2011,gold,mid-value,inactive,40.74,570,78890.14,9/6/2010,11/29/2011,referral,4
+710,Lily,Talkington,43,ltalkingtonjp@mac.com,Albania,,red,17.65,2672.03,1/3/2011,,high-value,active,616.76,452,70122.86,4/3/2013,11/8/2014,social media,2
+711,Ferrel,Shakespear,36,fshakespearjq@vimeo.com,China,,green,29.23,5767.76,10/31/2010,platinum,mid-value,inactive,781.6,990,21990.21,1/26/2021,2/12/2015,email marketing,1
+712,Leland,Antoniewski,61,lantoniewskijr@tiny.cc,Philippines,1211,,36.3,306.82,2/15/2018,platinum,mid-value,inactive,273.73,125,31056.35,7/4/2016,9/21/2021,social media,5
+713,Marya,Shale,32,mshalejs@engadget.com,Kuwait,,green,88.04,5329.32,6/22/2013,platinum,low-value,inactive,593.31,319,10816.32,1/18/2012,9/23/2017,,4
+714,Tomas,Beat,34,tbeatjt@tmall.com,United States,93584,red,83.22,1752.84,6/17/2011,silver,high-value,active,913.36,329,19971.69,1/13/2013,12/28/2021,social media,5
+715,Rory,Shallcross,70,rshallcrossju@ihg.com,Philippines,9614,green,0.79,2462.32,4/1/2010,bronze,low-value,inactive,,921,26675.85,3/28/2017,7/6/2021,email marketing,2
+716,Grannie,Demsey,77,gdemseyjv@marriott.com,China,,green,61.46,8084.2,9/13/2015,bronze,high-value,active,981.05,51,79869.07,3/25/2016,11/1/2010,referral,1
+717,Ladonna,Pickover,60,lpickoverjw@salon.com,China,,blue,95.25,4074.75,11/25/2018,silver,low-value,active,697.04,73,55363.42,3/2/2019,9/28/2016,,1
+718,Ashli,Sharer,85,asharerjx@nydailynews.com,China,,blue,89.57,4025.02,11/16/2013,silver,mid-value,active,945.5,552,84872.89,12/13/2018,11/14/2020,social media,5
+719,Kirk,Bosse,40,kbossejy@tiny.cc,Indonesia,,red,23.89,5702.96,7/13/2018,bronze,mid-value,active,825.23,740,38666.43,3/19/2018,1/7/2014,social media,3
+720,Chiquia,Antcliff,32,cantcliffjz@shutterfly.com,Philippines,2900,blue,12.32,9448.8,11/3/2021,platinum,low-value,inactive,,217,60646.87,6/17/2013,12/15/2013,social media,5
+721,Brooke,Hatcliffe,69,bhatcliffek0@artisteer.com,Thailand,17120,green,85.27,6300.96,6/30/2013,gold,low-value,active,317.16,465,51792.68,7/2/2020,2/2/2010,social media,4
+722,Jerri,Kobke,59,jkobkek1@tumblr.com,Finland,9430,green,79.1,492.68,5/29/2018,platinum,mid-value,inactive,417.82,754,74090.87,8/9/2022,10/6/2020,social media,2
+723,Brande,Russam,64,brussamk2@unicef.org,Philippines,6525,red,40.89,996.8,8/15/2019,bronze,low-value,active,633.91,228,61399.85,2/24/2019,5/2/2016,email marketing,5
+724,Patty,Grimston,33,pgrimstonk3@techcrunch.com,China,,red,41.96,8592.62,11/9/2021,silver,low-value,active,158.99,220,37262.05,3/25/2011,6/16/2012,,5
+725,Barn,Wickendon,30,bwickendonk4@hexun.com,United States,92165,blue,82.91,1736.16,8/24/2018,gold,high-value,active,296.32,514,5267.86,9/3/2011,5/18/2014,referral,5
+726,Shellysheldon,Forsyde,65,sforsydek5@hostgator.com,Portugal,4720-551,green,22.7,7184.06,3/27/2012,silver,mid-value,inactive,322.85,484,69031.29,10/7/2016,3/7/2015,social media,1
+727,Jamaal,Kernock,35,jkernockk6@networksolutions.com,Estonia,,blue,30.25,7264.26,2/24/2012,silver,low-value,inactive,254.55,902,25900.67,7/21/2016,10/14/2018,,1
+728,Mellie,Tebbutt,45,mtebbuttk7@dagondesign.com,China,,green,62.43,1524.91,7/29/2015,,high-value,active,521.77,320,98447.45,5/27/2016,11/2/2015,referral,3
+729,Kate,Clohissy,55,kclohissyk8@earthlink.net,Bolivia,,blue,99.69,2027.79,7/6/2022,silver,low-value,inactive,128.9,801,33494.5,4/28/2017,11/24/2018,social media,1
+730,Brandie,Darrington,44,bdarringtonk9@istockphoto.com,Colombia,252608,blue,74.67,5923.86,11/12/2020,platinum,mid-value,inactive,160.53,852,66645.88,5/9/2012,10/7/2018,,4
+731,Zara,Fayerman,70,zfayermanka@whitehouse.gov,Bulgaria,8521,green,18.49,8109.26,10/17/2014,bronze,mid-value,active,130.05,527,58005.68,11/21/2010,10/6/2012,social media,4
+732,Vivi,Solomonides,29,vsolomonideskb@ustream.tv,Indonesia,,blue,81.92,8978.96,2/13/2018,silver,low-value,active,797.61,611,71435.53,10/18/2017,7/4/2019,,3
+733,Ilysa,Branca,80,ibrancakc@issuu.com,French Polynesia,,blue,60.03,5199.28,2/15/2013,bronze,low-value,active,447.19,628,17865.46,7/15/2017,8/7/2013,referral,2
+734,Brier,Demare,18,bdemarekd@va.gov,Brazil,28600-000,green,10.97,3240.28,1/6/2015,platinum,low-value,inactive,518.19,495,69348.76,2/1/2015,1/16/2019,referral,4
+735,Jessi,Stimpson,38,jstimpsonke@google.com.br,Denmark,1757,red,39.92,2260.02,2/20/2019,bronze,mid-value,inactive,955.66,489,76249.19,10/7/2013,3/29/2018,social media,4
+736,Pegeen,Littrell,20,plittrellkf@admin.ch,South Africa,9850,green,27.91,8136.72,6/21/2018,silver,high-value,inactive,822.25,759,49021.96,3/28/2016,5/8/2013,social media,1
+737,Dian,Formigli,48,dformiglikg@tripadvisor.com,Russia,456862,,61.66,426.51,8/8/2015,bronze,high-value,active,626.05,110,81425.67,11/17/2022,12/27/2011,email marketing,1
+738,Lolita,Tineman,47,ltinemankh@reuters.com,Indonesia,,blue,82.02,9115.56,7/31/2014,silver,mid-value,inactive,182.27,244,86681.53,4/10/2015,7/28/2018,,4
+739,Katinka,Fihelly,72,kfihellyki@ameblo.jp,Greece,,blue,27.25,489.38,3/16/2021,platinum,high-value,inactive,976.52,704,62313.31,6/5/2018,10/11/2012,,5
+740,Thorny,Lanon,47,tlanonkj@cdbaby.com,Brazil,26950-000,green,35.34,6375.09,12/18/2022,bronze,low-value,active,245.57,427,71106.16,4/15/2021,5/17/2017,referral,2
+741,Tymon,Odegaard,40,todegaardkk@slashdot.org,Argentina,5113,blue,58.24,6624.19,11/21/2019,silver,low-value,inactive,909.37,142,94690.14,5/23/2017,3/24/2014,social media,2
+742,Teriann,Beaze,34,tbeazekl@blogspot.com,Indonesia,,blue,4.93,8113.35,9/13/2013,,mid-value,active,639.29,32,69658.71,7/15/2011,7/3/2018,referral,2
+743,Isidoro,Wooles,79,iwooleskm@nytimes.com,Brazil,95330-000,red,34.62,6899.17,12/2/2015,gold,high-value,active,778.14,984,82660.51,10/15/2017,12/5/2020,social media,4
+744,Arte,Lickess,53,alickesskn@rakuten.co.jp,Zambia,,green,72.93,9173.72,9/2/2011,bronze,mid-value,inactive,137.16,702,50570.12,12/26/2010,5/27/2013,email marketing,1
+745,Kylynn,MacTrustrie,41,kmactrustrieko@epa.gov,Philippines,4342,green,38.29,3656.97,6/27/2021,bronze,high-value,inactive,812.85,351,32902.24,1/30/2015,3/21/2018,referral,4
+746,Cal,Weathey,51,cweatheykp@blogs.com,Poland,76-020,green,41.15,9636.13,5/23/2011,gold,high-value,active,411.44,935,87998.62,7/28/2017,6/13/2020,,5
+747,Gerhardine,Brounfield,39,gbrounfieldkq@symantec.com,Comoros,,red,44.31,9991.87,6/27/2015,platinum,mid-value,inactive,456.33,94,84389.9,4/15/2012,5/14/2011,social media,5
+748,Minette,Cicconetti,50,mcicconettikr@intel.com,China,,green,94.29,3230.95,10/24/2014,gold,high-value,active,518.73,46,94922.84,8/7/2021,3/7/2014,email marketing,2
+749,Olivia,Hackworth,56,ohackworthks@dot.gov,China,,red,14.55,8838.11,4/29/2018,silver,mid-value,active,298.4,501,96033.4,2/14/2018,12/19/2015,social media,4
+750,Felix,Cominoli,31,fcominolikt@techcrunch.com,Indonesia,,red,3.59,2167.45,11/10/2019,gold,high-value,inactive,283.61,84,1229.24,1/16/2013,7/3/2021,email marketing,3
+751,Oran,Nussen,59,onussenku@photobucket.com,Indonesia,,blue,77.35,1152.05,9/12/2015,bronze,mid-value,active,35.79,213,37510.22,12/20/2013,11/7/2019,referral,2
+752,Bronnie,Kilgrew,37,bkilgrewkv@netvibes.com,Panama,,blue,83.89,1418.06,11/1/2021,gold,mid-value,inactive,640.94,394,35221.16,9/18/2022,12/12/2017,referral,1
+753,Rriocard,Guiot,74,rguiotkw@cbslocal.com,Malaysia,30902,red,94,1512.65,1/8/2019,gold,mid-value,inactive,553.95,480,75074.39,11/8/2013,2/26/2012,email marketing,5
+754,Nariko,Springford,36,nspringfordkx@linkedin.com,Russia,430910,blue,24.63,6391.73,2/8/2019,gold,low-value,active,420.45,180,96059.5,11/13/2010,9/7/2022,referral,3
+755,Harlen,O'Dyvoy,32,hodyvoyky@edublogs.org,China,,,45.09,842.09,6/9/2017,platinum,mid-value,active,91.61,771,93950.02,6/17/2010,6/28/2014,social media,1
+756,Claudelle,Wagenen,22,cwagenenkz@adobe.com,China,,blue,5.13,6363.88,9/21/2019,platinum,high-value,inactive,532.35,296,58416.92,1/6/2017,12/6/2020,referral,5
+757,Ashly,Becker,30,abeckerl0@umich.edu,Ukraine,,green,14.23,9435,12/21/2022,silver,high-value,active,395.67,815,34970.73,8/11/2022,8/8/2022,social media,3
+758,Sonny,Vardy,67,svardyl1@soup.io,Syria,,blue,16.16,7026.13,5/10/2013,gold,low-value,active,952.33,607,70026.12,6/30/2016,12/27/2020,,4
+759,Janek,Garnett,25,jgarnettl2@businesswire.com,Brazil,92500-000,,94.27,8197.22,10/4/2021,platinum,low-value,active,951.87,18,33711.51,7/7/2022,3/24/2011,email marketing,4
+760,Deidre,Culp,76,dculpl3@google.com.au,Nepal,,,60.03,113.87,12/16/2010,platinum,mid-value,active,823.03,542,55835.14,9/10/2011,8/18/2013,referral,4
+761,Inglebert,Qualtrough,24,iqualtroughl4@about.com,Russia,612955,green,48.46,8539.28,6/21/2016,platinum,low-value,inactive,808.53,2,48553.51,3/19/2013,6/24/2010,email marketing,2
+762,Dacey,Philot,34,dphilotl5@networkadvertising.org,Bosnia and Herzegovina,,red,97.52,5199.06,12/18/2010,bronze,low-value,active,250.39,659,85787.01,8/13/2015,6/15/2010,referral,4
+763,Riane,Andres,83,randresl6@ameblo.jp,China,,green,33.28,4394.65,5/3/2016,silver,high-value,inactive,240.35,746,694.13,7/19/2021,11/20/2022,social media,5
+764,Ame,Arbuckle,39,aarbucklel7@gravatar.com,China,,blue,63.78,7131.73,7/2/2020,gold,high-value,inactive,811.07,875,24971.42,4/1/2017,5/10/2010,social media,5
+765,Julie,Portsmouth,45,jportsmouthl8@barnesandnoble.com,Italy,10141,red,74.78,9628.63,1/16/2015,platinum,mid-value,active,418.22,342,2336.87,11/12/2012,1/17/2015,referral,3
+766,Ameline,Sampey,65,asampeyl9@cdc.gov,China,,blue,97.06,8416.89,1/24/2015,gold,mid-value,active,193.53,91,93182.81,9/11/2017,11/6/2015,referral,2
+767,Dacy,Swatten,26,dswattenla@jiathis.com,Tajikistan,,blue,47.6,7937.91,7/26/2011,silver,low-value,inactive,780.76,572,10470.44,1/26/2014,5/1/2011,referral,3
+768,Max,Trudgion,45,mtrudgionlb@craigslist.org,China,,red,36.27,7231.92,1/18/2016,platinum,low-value,active,915.9,376,29699.37,1/27/2010,4/24/2018,,3
+769,Darrelle,Yarmouth,42,dyarmouthlc@latimes.com,Spain,29015,blue,58.03,6155.27,7/1/2014,bronze,low-value,active,37.25,267,54001.39,7/19/2010,10/9/2013,social media,1
+770,Chris,Zuppa,47,czuppald@google.ru,Greece,,red,43.32,6713.78,1/19/2014,silver,high-value,active,83.73,204,65137.87,10/30/2016,11/25/2022,email marketing,4
+771,Gregoire,Causby,62,gcausbyle@1688.com,Malaysia,25610,blue,60.59,1081.79,7/18/2017,platinum,high-value,inactive,891.93,240,59745.82,11/28/2021,12/23/2021,social media,3
+772,Pincus,Peers,71,ppeerslf@infoseek.co.jp,China,,red,3.67,1220.15,8/10/2017,platinum,mid-value,inactive,605.86,327,28625.32,12/11/2014,2/2/2015,social media,4
+773,Sacha,Stearley,55,sstearleylg@answers.com,Sweden,411 21,blue,5.12,6078.09,2/5/2015,platinum,low-value,active,124.11,450,39160.3,11/28/2013,5/25/2014,,3
+774,Dunc,Baudains,61,dbaudainslh@chron.com,Philippines,9712,green,17.91,4811.5,3/23/2018,gold,high-value,active,447.6,592,53241.95,9/20/2010,11/28/2012,referral,2
+775,Dalila,Point,40,dpointli@ted.com,Poland,56-122,red,17,268.45,8/20/2012,gold,mid-value,active,,937,45697.24,6/27/2017,4/11/2011,email marketing,5
+776,Johnath,Jurewicz,21,jjurewiczlj@techcrunch.com,Czech Republic,589 01,blue,75.28,5627.71,12/7/2011,silver,low-value,inactive,352.54,75,18804.02,1/28/2016,10/6/2011,email marketing,4
+777,Haze,Ladbrook,85,hladbrooklk@weather.com,Paraguay,,green,15.59,9024.52,7/8/2013,silver,low-value,inactive,262.26,843,44853.03,10/22/2020,6/23/2014,social media,3
+778,Fae,Gianiello,38,fgianielloll@t.co,China,,green,35.12,7027.93,3/6/2021,platinum,high-value,inactive,,87,58551.31,5/16/2020,8/20/2011,email marketing,1
+779,Sapphira,Camelia,35,scamelialm@godaddy.com,Slovenia,1357,green,3.18,4437.19,4/22/2015,gold,low-value,active,751,587,16483.72,2/21/2014,1/30/2012,email marketing,2
+780,Nert,Staries,30,nstariesln@homestead.com,Uganda,,red,8.97,1108.69,7/12/2017,gold,mid-value,inactive,853.84,540,23888.26,1/22/2013,9/22/2010,referral,5
+781,Nanete,Archibould,70,narchibouldlo@xrea.com,Pakistan,87301,blue,29.74,353.26,12/25/2014,bronze,low-value,inactive,473.01,473,22940.37,10/17/2010,7/23/2012,email marketing,3
+782,Valdemar,Crosetti,61,vcrosettilp@mayoclinic.com,Palestinian Territory,,red,6.53,1744.09,3/3/2022,,low-value,active,,427,40283.04,1/29/2022,1/15/2012,email marketing,4
+783,Hort,Huertas,58,hhuertaslq@csmonitor.com,China,,blue,31.62,1008.48,4/1/2012,silver,high-value,active,299.78,7,47342.53,10/29/2017,2/26/2011,social media,5
+784,Brittni,Langford,64,blangfordlr@spotify.com,Colombia,680568,red,84.09,9087.37,11/29/2019,bronze,mid-value,active,,749,43156.48,2/16/2017,10/19/2018,,3
+785,Milton,Menaul,59,mmenaulls@irs.gov,Argentina,5355,red,55.14,8760.08,10/11/2014,platinum,low-value,inactive,797.94,451,15079.85,2/24/2012,10/26/2016,email marketing,4
+786,Madge,Trench,18,mtrenchlt@acquirethisname.com,Brazil,37470-000,red,91.77,8271.49,1/20/2011,gold,low-value,inactive,775.08,68,47723.37,4/11/2010,2/18/2022,email marketing,2
+787,Kermy,Kisby,40,kkisbylu@dedecms.com,Russia,301440,green,24.22,2483.25,12/16/2010,silver,high-value,inactive,426.17,11,9103.2,3/2/2017,11/19/2020,email marketing,3
+788,Randell,Shafto,23,rshaftolv@posterous.com,Chad,,green,56.75,477.65,2/17/2014,silver,high-value,active,767.14,195,79957.78,3/24/2022,3/30/2010,email marketing,4
+789,Liuka,Yanov,75,lyanovlw@tuttocitta.it,Sweden,117 37,green,54.38,202.17,11/11/2011,silver,low-value,active,838.41,753,74942.1,5/24/2013,7/30/2014,referral,2
+790,Gwenore,Lesslie,64,glesslielx@apache.org,Albania,,red,60.62,104.89,6/14/2020,platinum,mid-value,inactive,287.37,463,90406.13,2/16/2019,1/3/2018,social media,4
+791,Mindy,Paulucci,56,mpauluccily@about.com,Serbia,,green,64.83,4720.94,2/26/2012,,mid-value,inactive,389.33,409,27035.37,4/30/2015,11/24/2021,,4
+792,Rivalee,Sutherel,71,rsutherellz@samsung.com,Greece,,red,64.52,2734.19,7/31/2017,bronze,high-value,inactive,422.73,612,13549.35,11/30/2016,6/9/2014,referral,3
+793,Witty,Wilsey,50,wwilseym0@symantec.com,Indonesia,,green,71.12,2880.51,3/23/2019,gold,low-value,active,648.66,760,69358.67,8/11/2019,8/12/2010,social media,1
+794,Rodi,Spurnier,65,rspurnierm1@icio.us,Croatia,31214,red,47.12,3673.49,6/1/2018,gold,mid-value,active,864.5,349,75128.99,11/1/2017,3/26/2021,email marketing,4
+795,Ezechiel,Barrett,23,ebarrettm2@answers.com,Colombia,761517,green,33.45,7072.87,7/16/2020,bronze,high-value,active,166.27,573,96944.65,4/25/2013,7/23/2020,email marketing,3
+796,Lebbie,Freddi,37,lfreddim3@networksolutions.com,Philippines,9302,blue,73.75,6715.61,11/10/2017,bronze,high-value,active,724.97,956,25387.62,2/15/2013,10/9/2020,referral,3
+797,Cherianne,Hassin,73,chassinm4@drupal.org,United Kingdom,SN13,red,60.9,8714.66,11/29/2016,silver,mid-value,active,559.09,647,32542.08,3/13/2016,8/28/2018,social media,2
+798,Nehemiah,Corrao,57,ncorraom5@omniture.com,Philippines,7214,green,38.25,9802.39,9/10/2019,silver,high-value,inactive,,565,50843.3,2/25/2019,8/6/2010,email marketing,2
+799,Lana,Buck,37,lbuckm6@pinterest.com,France,62025 CEDEX,green,38.03,5218.12,8/10/2016,bronze,mid-value,active,254.63,259,68434.41,1/27/2019,12/15/2016,email marketing,1
+800,Gypsy,Covotto,49,gcovottom7@odnoklassniki.ru,Argentina,3116,blue,25.44,1304.33,1/23/2017,,low-value,active,381.11,653,42726.97,5/24/2013,7/8/2022,email marketing,1
+801,Ellen,Itschakov,54,eitschakovm8@smh.com.au,Ukraine,,green,87.21,8017.57,9/3/2013,,high-value,active,277.75,952,22970.16,3/12/2019,9/18/2017,social media,3
+802,Abdel,Bumphries,40,abumphriesm9@imgur.com,China,,red,78.2,9612.14,8/1/2012,silver,high-value,active,852.07,670,70706.76,2/16/2017,10/26/2016,social media,5
+803,Cherrita,Bagguley,82,cbagguleyma@dagondesign.com,Haiti,,red,62.29,6002.26,7/5/2012,gold,high-value,inactive,341.22,59,80008.92,11/9/2010,3/19/2015,,1
+804,Ibby,Gerant,58,igerantmb@jugem.jp,Colombia,232008,red,87.05,3338.96,4/18/2019,platinum,mid-value,inactive,567.09,557,65825.89,11/24/2017,11/13/2016,social media,4
+805,Barnebas,Robert,50,brobertmc@adobe.com,China,,blue,60.37,6148.13,11/14/2015,bronze,mid-value,inactive,961.72,546,10211.24,7/7/2017,9/11/2011,social media,5
+806,Vilma,Thecham,42,vthechammd@vimeo.com,Sweden,163 53,green,0.72,400.5,5/6/2017,silver,mid-value,active,,606,96778.72,1/15/2020,8/13/2022,social media,3
+807,Clerkclaude,Hiland,24,chilandme@engadget.com,China,,red,76.14,3557.09,7/29/2020,gold,mid-value,active,398.48,508,21406.92,9/19/2020,12/20/2010,social media,1
+808,Mattie,Segge,47,mseggemf@globo.com,Chad,,green,43.99,1935.13,5/26/2014,bronze,high-value,active,27.6,865,86851.21,7/8/2018,4/14/2021,referral,1
+809,Dean,Miskelly,61,dmiskellymg@mayoclinic.com,Mexico,45306,green,8.35,9801.62,4/1/2015,silver,mid-value,active,935,365,20074.71,10/3/2017,9/29/2018,social media,5
+810,Lenka,Peaden,24,lpeadenmh@walmart.com,China,,blue,68.51,6199.62,1/31/2013,bronze,low-value,inactive,604.18,729,99151.72,10/29/2013,7/15/2022,referral,5
+811,Port,Aucutt,37,paucuttmi@drupal.org,Indonesia,,green,24.42,6273.62,3/30/2021,silver,mid-value,inactive,235.63,854,47616.6,8/11/2013,1/4/2014,referral,5
+812,Robert,Brea,24,rbreamj@ted.com,New Zealand,4894,blue,3.52,9301.93,3/23/2011,gold,low-value,active,602.71,319,39490.47,8/28/2020,7/23/2014,social media,5
+813,Correy,Botwood,74,cbotwoodmk@hostgator.com,Indonesia,,green,84.08,8609.24,9/19/2020,bronze,mid-value,inactive,76.23,136,95648.7,4/26/2017,6/18/2010,social media,4
+814,Emile,Chasteney,78,echasteneyml@chicagotribune.com,Bulgaria,6435,blue,35.48,4533.94,5/30/2011,gold,mid-value,inactive,13.41,459,63254.28,6/4/2016,2/25/2014,referral,3
+815,Morganica,Costanza,29,mcostanzamm@sourceforge.net,China,,green,50.79,9787.41,7/27/2010,platinum,mid-value,inactive,496.94,140,89527.58,10/14/2019,8/23/2022,,3
+816,Ethelin,Sully,51,esullymn@macromedia.com,Portugal,4520-104,red,66.22,2365.81,6/11/2010,gold,mid-value,inactive,629.24,345,94585.62,6/19/2011,2/4/2018,referral,2
+817,Erin,Strettell,52,estrettellmo@nytimes.com,Indonesia,,red,10.39,255.54,5/28/2021,bronze,mid-value,active,876.37,571,92087.62,4/23/2022,11/8/2017,email marketing,4
+818,Delmore,Comiskey,25,dcomiskeymp@icio.us,Russia,618235,blue,53.56,4986.99,6/15/2014,gold,low-value,inactive,642.79,705,3346.6,3/30/2016,1/27/2010,,4
+819,Rhoda,Wybrew,69,rwybrewmq@google.com,United States,30351,green,9.34,1086.3,4/8/2022,bronze,low-value,active,978.47,706,91234.15,9/10/2021,9/18/2017,referral,4
+820,Clark,Chatfield,43,cchatfieldmr@woothemes.com,Venezuela,,blue,3.57,5100.17,2/4/2010,silver,high-value,active,967.99,54,90554.77,4/25/2012,3/28/2016,social media,3
+821,Darbie,Toye,29,dtoyems@amazon.com,United States,34108,red,66.06,5104.19,2/14/2013,silver,low-value,inactive,615.2,634,20584.19,7/30/2011,7/6/2021,social media,2
+822,Fedora,McGuiness,51,fmcguinessmt@ihg.com,China,,green,0.02,818.91,8/21/2020,silver,high-value,active,416.12,475,11452.38,9/15/2012,9/12/2013,email marketing,3
+823,Juliet,Beckley,68,jbeckleymu@ted.com,Philippines,6114,red,46.18,3130.41,12/8/2012,bronze,high-value,inactive,,292,86638.61,11/27/2012,5/10/2011,email marketing,2
+824,Kris,Norwood,37,knorwoodmv@comcast.net,Portugal,2655-121,red,73.64,9319.43,4/1/2013,platinum,mid-value,active,853.96,539,40269.67,5/3/2020,10/7/2019,email marketing,3
+825,Roselin,Torre,32,rtorremw@quantcast.com,China,,blue,93.08,5722.03,6/11/2013,platinum,low-value,active,152.2,367,18372.41,3/20/2018,6/23/2014,referral,1
+826,Tremayne,Brabin,62,tbrabinmx@paypal.com,China,,green,74.75,8344.42,2/25/2021,platinum,mid-value,active,197.37,889,50200.48,12/18/2012,3/9/2011,referral,3
+827,Bonnie,Chirm,79,bchirmmy@sciencedaily.com,Philippines,7305,red,47.31,7676.67,2/21/2019,gold,high-value,inactive,79.7,456,12612.91,2/16/2016,12/17/2013,,4
+828,Kiah,Bagby,53,kbagbymz@reuters.com,France,33070 CEDEX,blue,68.44,1676.94,7/7/2015,bronze,mid-value,inactive,781.43,413,83304.78,5/1/2012,12/31/2015,email marketing,1
+829,Burt,Ezele,33,bezelen0@scribd.com,Russia,640961,green,18.35,5692.36,7/3/2017,bronze,high-value,inactive,180.01,504,57677.62,8/19/2019,10/30/2017,social media,5
+830,Latisha,Pherps,40,lpherpsn1@army.mil,Indonesia,,blue,20.03,8011.1,12/8/2018,bronze,low-value,active,215.37,208,23720.46,7/25/2011,6/30/2015,email marketing,2
+831,Billie,Coppard,76,bcoppardn2@reuters.com,Venezuela,,green,39.6,4195.67,8/31/2010,gold,high-value,inactive,261.23,858,63939.35,6/12/2010,3/15/2018,email marketing,3
+832,Tann,Gurge,30,tgurgen3@tripadvisor.com,Poland,46-300,green,67.51,919.15,11/17/2016,bronze,mid-value,active,223.68,98,25689.88,5/21/2022,12/11/2012,email marketing,5
+833,Robina,Pavlov,47,rpavlovn4@sogou.com,Russia,353567,green,61.69,7158.41,11/22/2011,bronze,mid-value,active,,261,6053.77,6/19/2011,3/4/2011,,2
+834,Faulkner,Haddon,47,fhaddonn5@nba.com,Greece,,red,60.06,2848.16,1/15/2015,gold,mid-value,inactive,182.87,679,75122.03,6/30/2011,11/16/2013,email marketing,5
+835,Corrianne,Cromack,73,ccromackn6@icio.us,Norway,4396,blue,38.46,267.41,2/6/2018,gold,low-value,inactive,581.73,709,33725.22,6/11/2014,7/12/2014,social media,4
+836,Sonnie,Cosley,20,scosleyn7@ibm.com,South Africa,1984,blue,38.65,5908.3,7/2/2013,bronze,low-value,active,242.5,95,53010.12,10/11/2014,10/4/2011,referral,5
+837,Kaia,Wasling,77,kwaslingn8@flavors.me,Iran,,red,12.43,9406.96,4/4/2018,platinum,mid-value,active,2.85,239,83803.24,4/3/2020,3/27/2011,referral,2
+838,Baldwin,Pepperell,55,bpepperelln9@bluehost.com,Armenia,,,61.91,869.54,7/8/2015,gold,high-value,active,358.73,841,27494.16,12/9/2018,11/30/2021,social media,2
+839,Egbert,Havik,46,ehavikna@harvard.edu,United States,48670,red,25.15,2257.38,6/27/2013,bronze,low-value,inactive,258.75,830,62307.56,3/7/2011,5/13/2022,,1
+840,Dirk,Lyttle,60,dlyttlenb@hostgator.com,China,,red,34.59,7443.32,11/14/2018,gold,low-value,active,361.83,867,73804.91,8/11/2014,4/11/2013,,3
+841,Lark,Babbidge,41,lbabbidgenc@quantcast.com,Venezuela,,blue,36.37,2720.86,2/28/2018,bronze,low-value,inactive,192.34,408,92940.29,1/23/2017,1/17/2014,social media,3
+842,Vincent,Jehan,26,vjehannd@usda.gov,Peru,,blue,87.58,4669.88,12/24/2016,silver,high-value,active,991.51,809,96449.85,7/21/2018,4/18/2011,email marketing,2
+843,Hyacinthia,McTiernan,77,hmctiernanne@360.cn,Afghanistan,,green,89.66,1353.52,7/10/2016,silver,low-value,inactive,306.83,302,26379.78,7/10/2018,11/24/2015,,2
+844,Rachael,Stairmand,28,rstairmandnf@scribd.com,Russia,442710,green,71.29,1479.2,5/20/2020,,mid-value,inactive,685.86,531,41588.28,1/27/2022,3/3/2010,referral,2
+845,Alyse,McQuin,32,amcquinng@army.mil,Canada,S7W,green,93.1,5995.03,12/14/2016,silver,low-value,inactive,196.19,28,85328.77,3/25/2016,4/25/2017,social media,5
+846,Raychel,Matthisson,64,rmatthissonnh@tumblr.com,Kazakhstan,,red,35.75,9115.91,10/10/2018,silver,mid-value,inactive,88.56,633,38662.39,4/11/2010,11/21/2015,email marketing,4
+847,Lanie,Cowden,81,lcowdenni@amazon.de,Mexico,39965,,75.71,1470.9,10/31/2021,gold,low-value,inactive,671.27,95,12596.47,10/18/2021,9/28/2020,social media,1
+848,Shannen,Kenewel,69,skenewelnj@liveinternet.ru,Russia,453839,red,93.46,1706.64,8/28/2013,gold,mid-value,active,639.85,190,42102.26,3/16/2022,1/8/2017,social media,5
+849,Ainslee,Bayless,69,abaylessnk@sourceforge.net,Poland,48-250,red,36.21,7532.51,8/28/2013,gold,low-value,inactive,927.18,771,87007.98,12/5/2020,6/12/2022,email marketing,4
+850,Chris,Blindmann,33,cblindmannnl@liveinternet.ru,Russia,238402,green,28.71,2485.26,3/23/2015,platinum,mid-value,active,995.9,524,85299.71,4/3/2016,2/19/2010,social media,4
+851,Brigit,Belbin,25,bbelbinnm@arizona.edu,Brazil,56700-000,red,23.94,2150.96,4/14/2013,platinum,high-value,inactive,557.65,27,50798.39,12/11/2019,10/13/2012,social media,1
+852,Sigismond,Arrowsmith,48,sarrowsmithnn@sina.com.cn,China,,blue,56.64,9475.93,6/19/2010,gold,high-value,active,615.49,53,41122.42,8/29/2011,7/2/2021,email marketing,5
+853,Kendre,Mendenhall,85,kmendenhallno@marketwatch.com,Indonesia,,green,33.67,8969.9,9/12/2013,silver,low-value,active,984.41,312,67302.91,8/11/2013,2/9/2022,social media,3
+854,Marita,Jerke,18,mjerkenp@clickbank.net,Pakistan,76130,green,47.22,3568.83,7/8/2019,platinum,low-value,inactive,413.57,386,14830.57,5/18/2012,5/13/2013,email marketing,4
+855,Merill,Lowne,57,mlownenq@springer.com,Chad,,blue,97.71,8014.79,10/13/2018,bronze,low-value,active,138.69,949,42370.81,10/26/2017,9/10/2011,social media,4
+856,Sheryl,Basill,29,sbasillnr@naver.com,Poland,11-030,blue,12.22,5494.64,4/14/2017,platinum,mid-value,inactive,177.6,319,92316.02,5/9/2018,1/17/2010,,1
+857,Clayborne,McClintock,70,cmcclintockns@desdev.cn,Portugal,3630-139,red,84.91,6292.97,9/4/2017,platinum,high-value,inactive,112.11,324,70722.25,7/10/2022,7/7/2021,referral,3
+858,Auberon,Meach,45,ameachnt@prweb.com,Finland,81720,blue,21.8,991.85,8/3/2016,silver,low-value,active,546.64,247,40346.13,10/19/2017,2/27/2015,social media,2
+859,Johann,Stefanovic,77,jstefanovicnu@altervista.org,China,,blue,11.51,9736.36,9/20/2022,silver,mid-value,inactive,395.64,729,11634.6,1/7/2013,6/12/2015,email marketing,5
+860,Lorilyn,Teodoro,22,lteodoronv@mail.ru,Gabon,,green,61.49,170.15,6/15/2015,platinum,low-value,active,981.68,150,19119.84,1/23/2012,1/16/2021,social media,1
+861,Morty,Guiness,19,mguinessnw@meetup.com,Egypt,,red,66.92,9472.85,6/25/2014,bronze,mid-value,active,706.44,555,22121.38,7/18/2017,3/23/2016,email marketing,5
+862,Carlie,Aldwich,63,caldwichnx@over-blog.com,Croatia,10020,blue,44.27,2338.46,11/19/2011,,mid-value,inactive,274.95,385,41427.97,6/18/2012,12/3/2020,referral,3
+863,Hetti,Handmore,33,hhandmoreny@sciencedaily.com,Indonesia,,blue,41.67,2438.33,9/10/2022,platinum,mid-value,active,642.27,154,17612.79,11/12/2014,3/10/2013,referral,3
+864,Danni,Mullis,59,dmullisnz@cdc.gov,France,75567 CEDEX 12,red,94.06,3921.51,8/4/2020,platinum,high-value,active,338.06,630,10589.28,10/21/2022,7/18/2012,,1
+865,Constance,Dartnall,44,cdartnallo0@pen.io,Slovakia,820 01,green,13.28,8263.87,12/21/2015,bronze,high-value,inactive,840.53,604,72003.16,6/19/2019,1/22/2017,social media,1
+866,Kial,Fredi,53,kfredio1@kickstarter.com,Philippines,1703,red,62.26,9664.52,5/31/2010,bronze,high-value,active,740.53,137,89868.61,3/5/2020,11/27/2010,email marketing,1
+867,Eachelle,Duckhouse,68,educkhouseo2@privacy.gov.au,Indonesia,,blue,24.99,9530.9,8/24/2022,silver,low-value,inactive,298.97,49,16232.02,9/23/2018,4/30/2011,email marketing,5
+868,Astra,Burgoyne,85,aburgoyneo3@reddit.com,China,,,45.42,2487.64,10/13/2013,bronze,mid-value,active,488.88,499,99862.49,5/18/2015,11/24/2017,email marketing,2
+869,Berri,Ralph,39,bralpho4@cornell.edu,Canada,V7Y,green,56.29,7355.23,12/18/2015,gold,high-value,active,202.11,787,83476.85,3/10/2011,10/8/2015,social media,5
+870,Shaun,Coetzee,30,scoetzeeo5@mozilla.org,Czech Republic,593 01,green,4.51,583.05,6/29/2020,bronze,mid-value,inactive,603.44,637,31199.18,7/5/2021,5/6/2013,email marketing,1
+871,Poppy,Lemon,66,plemono6@cdc.gov,Indonesia,,green,96.46,7660.55,1/4/2012,silver,mid-value,active,623.4,786,90323.75,11/11/2020,12/28/2017,social media,1
+872,Darrick,Esselen,32,desseleno7@nationalgeographic.com,China,,red,6.56,8094.49,12/30/2021,gold,mid-value,inactive,,520,29329.89,7/18/2011,6/19/2011,,5
+873,Darnell,Thoumas,23,dthoumaso8@dailymail.co.uk,Indonesia,,green,90.55,2405.5,7/9/2013,gold,mid-value,active,449.31,176,30005.36,7/18/2015,9/4/2014,referral,5
+874,Arabella,Cossam,58,acossamo9@360.cn,Spain,30204,blue,83.99,8136.42,1/6/2013,gold,high-value,active,685.29,374,75770.54,5/19/2011,7/9/2022,,1
+875,Normand,Managh,41,nmanaghoa@smugmug.com,China,,red,31.7,7320.6,1/7/2017,platinum,low-value,inactive,22.98,48,57139.54,10/2/2022,4/29/2011,email marketing,5
+876,Chane,Tivolier,35,ctivolierob@fema.gov,Morocco,,,26.88,1645.93,1/13/2013,platinum,mid-value,inactive,359.65,499,2141.37,6/2/2018,6/25/2018,social media,4
+877,Shayne,Auten,73,sautenoc@marketwatch.com,Serbia,,blue,14.76,7595.7,7/16/2017,bronze,low-value,active,27.69,696,43310.09,6/12/2013,5/30/2019,email marketing,1
+878,Dacey,Kenwood,64,dkenwoodod@imageshack.us,Japan,731-1515,red,60.22,3864.31,6/1/2018,bronze,high-value,inactive,928.14,18,53274.69,4/18/2019,12/13/2022,referral,1
+879,Bonnie,Vause,63,bvauseoe@parallels.com,Indonesia,,red,39.12,526.55,10/18/2022,gold,high-value,active,135.6,657,15469.29,3/4/2019,12/7/2011,referral,4
+880,Janith,Frankom,40,jfrankomof@furl.net,China,,green,38.04,843.67,3/27/2012,bronze,high-value,inactive,173.84,945,33773.13,9/27/2018,10/24/2015,,1
+881,Daryl,Girardey,26,dgirardeyog@mlb.com,Philippines,3600,green,58.88,9973.86,11/9/2012,,high-value,active,435.49,869,97559.27,3/27/2017,9/7/2021,social media,1
+882,Erek,Shimman,53,eshimmanoh@nba.com,Tunisia,,blue,53.75,1436.64,7/1/2018,platinum,mid-value,inactive,206.28,233,26463.58,10/18/2020,8/1/2012,social media,1
+883,Janene,Sunderland,47,jsunderlandoi@taobao.com,China,,green,15.75,9488.37,4/25/2010,gold,mid-value,inactive,225.31,683,76353.59,5/20/2022,6/20/2014,,3
+884,Atalanta,Barbier,23,abarbieroj@springer.com,Morocco,,green,20.4,4808.35,3/28/2014,platinum,high-value,inactive,945.81,546,14117.43,7/19/2018,7/4/2010,social media,2
+885,Franny,Boothroyd,84,fboothroydok@soup.io,Philippines,3605,green,74.91,8889.26,2/24/2014,,low-value,active,,912,73826.24,6/1/2013,2/14/2012,referral,5
+886,Vivie,Rosenfield,79,vrosenfieldol@gnu.org,Russia,623287,red,77.77,2963.9,7/7/2015,silver,mid-value,active,413.56,957,90300.72,6/25/2018,12/23/2018,social media,5
+887,Adrien,Clery,85,acleryom@mit.edu,China,,blue,91.38,9361.17,5/21/2012,silver,high-value,inactive,789,178,18531.29,5/14/2012,6/27/2018,,5
+888,Nissa,Arro,61,narroon@mac.com,Indonesia,,,78.66,6600.63,8/7/2020,platinum,high-value,active,745.61,165,70603.1,9/21/2019,8/22/2010,social media,5
+889,Codee,Oldall,44,coldalloo@taobao.com,Indonesia,,blue,65.83,6290.59,1/14/2014,silver,high-value,inactive,,227,99500.28,7/14/2019,11/15/2012,email marketing,4
+890,Romona,Pigeram,29,rpigeramop@liveinternet.ru,Egypt,,blue,98.77,7940.62,6/2/2012,bronze,mid-value,inactive,,765,71005.19,5/7/2012,2/1/2017,referral,5
+891,Andonis,Shercliff,45,ashercliffoq@t-online.de,China,,red,85.14,5858.93,7/15/2010,gold,high-value,inactive,,746,16042.73,8/11/2013,5/19/2018,social media,3
+892,Iosep,Drieu,50,idrieuor@yale.edu,Russia,652685,blue,9.15,8255.53,1/3/2011,silver,high-value,active,195.23,107,90322.43,8/7/2014,10/16/2018,,5
+893,Stefanie,Johnes,79,sjohnesos@seesaa.net,China,,red,39.61,2362.1,11/13/2020,bronze,high-value,inactive,100.96,485,77762.49,9/25/2017,9/19/2017,referral,4
+894,Sonnie,Walsh,53,swalshot@imdb.com,Russia,184021,green,93.45,4898.68,10/7/2014,platinum,low-value,inactive,,386,94984.97,8/5/2022,1/17/2014,,2
+895,Connor,O'Hagirtie,69,cohagirtieou@lulu.com,Colombia,111711,blue,43.3,8363.25,3/29/2022,,high-value,active,817.18,575,25048.26,6/14/2010,10/26/2011,email marketing,2
+896,Gusty,Gallegos,42,ggallegosov@forbes.com,China,,red,4.75,7310.76,11/16/2016,gold,high-value,active,689.53,124,89378.68,9/4/2018,3/15/2012,referral,5
+897,Gallard,Poundesford,30,gpoundesfordow@ihg.com,Brazil,73700-000,green,71.29,3035.76,9/15/2013,silver,high-value,active,709.19,724,75577.49,7/31/2020,3/21/2019,social media,2
+898,Jody,Gosse,46,jgosseox@un.org,China,,red,39.67,5881.96,6/28/2021,platinum,low-value,inactive,35.24,720,10397.05,7/30/2022,12/4/2017,,3
+899,Zorine,Dorricott,51,zdorricottoy@tinypic.com,Afghanistan,,blue,92.64,336.83,8/8/2022,platinum,mid-value,active,265.29,403,83619.57,9/24/2010,6/11/2013,social media,3
+900,Kahaleel,Millea,47,kmilleaoz@arizona.edu,Poland,59-225,blue,45.33,6291.42,6/21/2015,bronze,mid-value,inactive,742.69,900,20735.61,11/25/2018,12/25/2021,social media,2
+901,Margo,Harbisher,31,mharbisherp0@epa.gov,Indonesia,,green,71.95,4527.29,10/12/2019,bronze,high-value,inactive,12.87,753,1655.3,7/3/2015,4/19/2022,,5
+902,Piggy,Archambault,65,parchambaultp1@accuweather.com,Japan,839-1344,red,43.29,1776.43,10/18/2016,silver,low-value,inactive,405.86,123,14322.7,2/19/2016,7/18/2016,referral,3
+903,Goldia,McCard,49,gmccardp2@tinypic.com,Brazil,88750-000,blue,48.6,4746.77,9/14/2011,bronze,low-value,inactive,25.54,74,32576.87,5/12/2022,5/6/2018,referral,3
+904,Perry,Spinnace,42,pspinnacep3@miitbeian.gov.cn,Indonesia,,green,90.74,4071.45,8/27/2013,gold,mid-value,active,429.15,40,20219.09,7/2/2019,7/1/2021,referral,3
+905,Thekla,MacKill,62,tmackillp4@scribd.com,Sweden,791 91,green,79.49,3353.17,3/18/2015,,low-value,active,738.89,213,39766.32,11/4/2021,1/15/2017,referral,5
+906,Kristyn,Jeacock,51,kjeacockp5@webnode.com,Serbia,,green,48.97,977.51,7/8/2018,silver,low-value,active,61.36,398,74022.85,10/18/2011,10/2/2022,referral,4
+907,Juliana,Gregore,27,jgregorep6@a8.net,Philippines,4221,green,7.78,9550.95,3/5/2012,silver,high-value,active,48.42,302,38127.05,1/16/2020,11/22/2016,email marketing,5
+908,Keefe,Pickburn,81,kpickburnp7@myspace.com,Philippines,5001,red,66.87,859.78,5/1/2014,silver,mid-value,inactive,784.41,83,26736.97,3/24/2017,11/25/2022,email marketing,5
+909,Noellyn,Clell,63,nclellp8@marketwatch.com,Albania,,,43.2,3736.69,6/19/2012,bronze,mid-value,active,806.62,554,96680.87,10/19/2010,6/29/2017,referral,5
+910,Jabez,Oxenden,75,joxendenp9@sakura.ne.jp,Russia,397551,red,22.7,1007.11,7/19/2015,bronze,high-value,active,449.34,86,35770.26,3/22/2022,3/1/2022,referral,2
+911,Tadio,Formilli,41,tformillipa@latimes.com,Philippines,1114,red,58.97,5398.53,1/26/2018,silver,high-value,inactive,759.76,958,42111.57,4/6/2013,7/13/2011,referral,2
+912,Xenos,Simonot,78,xsimonotpb@odnoklassniki.ru,China,,green,95.46,7778.52,10/23/2018,silver,high-value,inactive,217.27,251,84519.54,1/16/2022,8/1/2016,email marketing,5
+913,Rollie,Pegden,28,rpegdenpc@census.gov,Greece,,red,94.83,711.67,4/5/2012,platinum,mid-value,inactive,554.47,886,16359.9,2/24/2018,2/4/2016,,5
+914,Albie,Ethington,18,aethingtonpd@jalbum.net,Sweden,461 91,red,64.76,7389.81,3/21/2017,bronze,high-value,inactive,436.04,598,70244.45,4/22/2011,12/5/2020,referral,5
+915,Jonathon,Klimek,35,jklimekpe@state.gov,Philippines,5418,blue,98.52,9518.45,3/17/2017,bronze,low-value,active,348.32,629,2407.77,11/10/2015,10/2/2014,,1
+916,Shadow,Karpenya,50,skarpenyapf@ameblo.jp,Norway,4846,red,70.61,1851.25,9/26/2013,bronze,low-value,active,169.19,230,24580.47,3/7/2016,12/29/2011,referral,2
+917,Floyd,Steven,85,fstevenpg@google.ca,Norway,3917,red,89.43,2848.14,1/27/2020,gold,low-value,inactive,49.11,253,4792.13,7/23/2018,4/14/2011,email marketing,2
+918,Silva,Kupec,68,skupecph@scientificamerican.com,Portugal,3830-295,blue,87.76,6789.55,11/1/2011,gold,high-value,inactive,,702,32126.65,4/8/2017,7/5/2018,social media,5
+919,Mikkel,Merriment,56,mmerrimentpi@ucsd.edu,Philippines,5029,red,84.41,9553.73,6/5/2010,platinum,mid-value,inactive,893.46,925,99337.36,2/12/2014,10/25/2012,referral,3
+920,Aleksandr,Gunstone,75,agunstonepj@sogou.com,Indonesia,,green,15.68,5766.9,11/7/2010,silver,mid-value,inactive,194.68,696,43414.12,7/22/2013,3/25/2017,referral,5
+921,Perrine,Garaghan,62,pgaraghanpk@ftc.gov,Peru,,blue,76.19,1723.59,4/4/2013,,mid-value,inactive,150.97,791,71281.57,5/19/2016,10/26/2016,social media,2
+922,Waverly,Canape,63,wcanapepl@mapquest.com,United States,33411,green,39.9,2921.69,11/13/2020,gold,low-value,inactive,335.17,386,12634.45,6/15/2011,5/13/2020,social media,5
+923,Sol,Ballaam,42,sballaampm@economist.com,Palestinian Territory,,red,68.96,8595.93,11/12/2016,bronze,high-value,inactive,,784,9601.33,7/21/2020,10/7/2018,email marketing,1
+924,Harman,Bendix,66,hbendixpn@chron.com,Russia,165391,blue,18.88,4749.66,6/20/2014,silver,low-value,active,211.35,226,17539.82,3/4/2011,12/1/2018,social media,5
+925,Shelagh,Gutridge,62,sgutridgepo@pagesperso-orange.fr,Portugal,4980-782,blue,44.33,1914.74,1/22/2022,platinum,mid-value,inactive,847.36,742,72400.85,11/8/2015,5/17/2014,referral,5
+926,Padgett,Minshull,40,pminshullpp@kickstarter.com,Cyprus,,red,84.42,7693.38,2/18/2013,,high-value,active,991.03,40,499.46,7/26/2018,1/9/2019,social media,2
+927,Benoit,Fallen,19,bfallenpq@theguardian.com,Brazil,65620-000,green,17.63,3910.61,10/1/2019,,mid-value,inactive,737.31,624,25534.63,12/25/2013,10/13/2010,referral,3
+928,Vita,McMurthy,68,vmcmurthypr@pinterest.com,China,,red,17.79,2007.97,12/13/2010,platinum,mid-value,active,920.59,484,71909.8,9/3/2017,11/27/2020,email marketing,4
+929,Dodi,Maggill'Andreis,84,dmaggillandreisps@blinklist.com,United States,19714,red,93.88,7729.93,9/17/2011,bronze,high-value,inactive,137.15,73,99448.53,5/8/2013,11/9/2022,email marketing,2
+930,Hunt,Hackney,77,hhackneypt@umn.edu,Colombia,684009,green,5.87,7422.18,2/6/2018,gold,high-value,inactive,602.99,178,87325.74,11/18/2014,12/27/2022,social media,5
+931,Shena,McKerley,76,smckerleypu@yolasite.com,China,,red,70.69,39.17,12/13/2011,bronze,mid-value,active,732.7,611,89255.91,4/20/2012,5/30/2022,referral,3
+932,Osbourn,Curzey,65,ocurzeypv@biglobe.ne.jp,Russia,155625,blue,7.74,3695.94,8/30/2020,bronze,low-value,inactive,617.89,234,96007.34,4/21/2018,8/15/2017,social media,4
+933,Sean,Gough,81,sgoughpw@va.gov,Morocco,,blue,66.09,9192.07,2/28/2016,bronze,mid-value,active,936.37,635,15584.53,8/30/2014,11/2/2021,email marketing,5
+934,Rachael,Gadaud,44,rgadaudpx@nih.gov,Madagascar,,red,0.98,9219.07,6/26/2015,gold,low-value,inactive,733.61,987,30341.8,4/3/2019,7/15/2018,email marketing,2
+935,Devi,Stearne,59,dstearnepy@comsenz.com,Bulgaria,5885,red,1.86,4395.2,5/22/2017,,high-value,active,,998,98417.85,1/11/2017,8/26/2010,social media,2
+936,Andree,Auchterlony,60,aauchterlonypz@state.tx.us,Serbia,,blue,10.22,3066.18,1/20/2018,gold,mid-value,active,109.02,904,89466.81,4/18/2011,11/10/2015,email marketing,3
+937,Laurens,MacMeanma,62,lmacmeanmaq0@youku.com,Portugal,2740-010,green,21.52,5376.76,5/18/2017,bronze,mid-value,inactive,351.59,264,83226.51,9/13/2019,11/13/2011,,5
+938,Olive,Fleetham,43,ofleethamq1@free.fr,Laos,,blue,8.36,4012.54,4/22/2019,gold,low-value,inactive,690.82,651,4340.32,5/17/2010,3/28/2022,social media,4
+939,Luise,Varker,81,lvarkerq2@pbs.org,Russia,671633,red,28.16,5763.88,3/11/2017,bronze,high-value,active,175.23,61,16600.67,12/15/2021,2/4/2011,social media,3
+940,Hanni,Skade,45,hskadeq3@sakura.ne.jp,Indonesia,,blue,22.56,6599.92,7/27/2020,platinum,high-value,inactive,430.41,230,8038.44,12/19/2014,6/16/2014,referral,2
+941,Brad,Ruzek,35,bruzekq4@jimdo.com,China,,blue,82.72,1621.27,9/9/2017,platinum,high-value,active,781.43,49,17185.57,8/26/2021,9/8/2015,social media,4
+942,Arv,Giacomucci,38,agiacomucciq5@google.fr,Ukraine,,green,18.67,2628.44,2/25/2013,silver,low-value,active,114.41,368,78528.03,12/1/2021,2/27/2020,social media,4
+943,Adore,Piecha,57,apiechaq6@jigsy.com,Norway,1616,green,55.74,980.36,10/30/2015,,low-value,inactive,270.86,499,78364.72,11/9/2015,3/13/2019,,2
+944,Shem,Rudram,68,srudramq7@csmonitor.com,China,,red,48.5,8005.66,1/29/2021,bronze,high-value,active,205.21,138,56535.52,10/21/2012,2/1/2021,,3
+945,Ilyssa,Whalley,38,iwhalleyq8@artisteer.com,Indonesia,,red,41.07,6075.96,12/20/2017,gold,high-value,inactive,230.19,969,76084.95,12/8/2022,6/10/2015,email marketing,3
+946,Janessa,Jedrys,47,jjedrysq9@mozilla.com,Kyrgyzstan,,green,51.91,1355.78,7/21/2010,bronze,mid-value,active,237.72,895,47188.45,7/1/2012,12/6/2018,,2
+947,Nathalia,Clementet,39,nclementetqa@bbc.co.uk,Russia,182520,,84.4,6982.19,11/14/2012,silver,high-value,active,69.04,347,99048.19,3/8/2022,10/28/2020,referral,1
+948,Lita,Paoletto,37,lpaolettoqb@sogou.com,China,,green,13.54,6867.16,1/7/2015,silver,mid-value,active,106.06,78,48589.89,11/15/2017,10/3/2015,referral,4
+949,Kira,Kirtley,39,kkirtleyqc@tripadvisor.com,Kyrgyzstan,,blue,46.31,7265.66,9/22/2010,gold,high-value,inactive,907.57,586,83252.9,7/7/2022,2/9/2012,,2
+950,Sabrina,Royl,33,sroylqd@csmonitor.com,Mexico,55635,blue,42.5,2327.72,3/20/2013,platinum,high-value,inactive,89.06,435,20023.86,12/24/2018,11/15/2012,referral,3
+951,Thebault,Ginnelly,71,tginnellyqe@sina.com.cn,China,,blue,85.24,5016.7,11/19/2017,platinum,low-value,inactive,891.58,46,24576.45,1/24/2013,6/27/2019,referral,1
+952,Ivy,Eisikowitch,21,ieisikowitchqf@csmonitor.com,Brazil,37110-000,green,94.69,9735.46,7/24/2018,,high-value,inactive,547.51,585,97450.71,7/28/2019,8/26/2013,social media,4
+953,Brandy,Massel,38,bmasselqg@state.gov,South Africa,1444,red,10.74,3095.08,10/25/2021,gold,low-value,active,471.96,690,85581.85,11/5/2011,10/9/2011,social media,1
+954,Oliver,Broxton,26,obroxtonqh@ow.ly,Finland,73601,red,25.21,1132.08,7/11/2013,,low-value,active,,635,25491.12,8/20/2020,7/30/2016,social media,3
+955,Ev,Grece,44,egreceqi@ustream.tv,Brazil,18550-000,red,49.5,4749.18,4/13/2021,silver,high-value,active,43.33,750,60578.58,4/12/2020,7/13/2013,,5
+956,Christina,Hartzog,30,chartzogqj@google.fr,Jamaica,,red,9.84,6186.41,1/31/2021,silver,high-value,inactive,464.27,408,97250.55,6/16/2018,10/26/2020,email marketing,1
+957,Britt,Swiffin,30,bswiffinqk@independent.co.uk,Philippines,1275,green,37.21,3961.65,6/24/2016,gold,mid-value,active,830.46,685,92015.63,12/13/2012,2/13/2022,email marketing,3
+958,Waly,Quirke,35,wquirkeql@twitpic.com,Russia,186352,green,2.57,7671.71,9/2/2015,platinum,low-value,active,406.66,344,37722.77,5/8/2014,9/25/2018,email marketing,2
+959,Gareth,Stithe,69,gstitheqm@hud.gov,China,,blue,20.06,6740.21,9/16/2010,platinum,low-value,active,827.55,69,28995.63,5/26/2017,11/6/2017,social media,2
+960,Willyt,Varnals,34,wvarnalsqn@ucoz.ru,Colombia,521508,blue,63.98,9696.95,12/9/2020,silver,high-value,active,834.91,599,31794.56,11/16/2013,5/19/2017,,4
+961,Jillian,Perring,74,jperringqo@alexa.com,China,,green,51.17,5753.78,1/8/2012,bronze,low-value,active,814.63,238,95771.55,7/21/2019,6/15/2018,referral,2
+962,Meryl,Fold,44,mfoldqp@domainmarket.com,France,75693 CEDEX 14,green,90.73,149.33,3/23/2012,gold,high-value,inactive,924.74,162,51866.99,12/6/2018,12/31/2018,email marketing,1
+963,Lurline,Mil,64,lmilqq@msn.com,China,,green,85.47,8280.66,3/3/2011,bronze,low-value,active,129.12,870,34810.91,12/19/2020,3/24/2016,referral,3
+964,Boothe,Stanner,27,bstannerqr@edublogs.org,Russia,141880,,75.28,715.73,1/9/2018,gold,mid-value,active,861.11,33,67323.64,1/11/2021,8/25/2012,social media,4
+965,Odey,O'Sheerin,64,oosheerinqs@gmpg.org,Japan,999-6732,green,93.59,384.04,12/4/2013,gold,high-value,inactive,13.39,387,90132.2,2/7/2018,11/17/2013,social media,4
+966,Tyrus,Beldom,85,tbeldomqt@wisc.edu,Peru,,green,90.75,7804.41,5/19/2018,gold,mid-value,active,286.69,925,56870.82,8/28/2014,1/11/2015,social media,4
+967,Inna,Farmery,20,ifarmeryqu@qq.com,Indonesia,,blue,18.3,7992.45,9/24/2014,silver,low-value,inactive,385.27,231,97229.82,3/17/2022,5/25/2012,,5
+968,Fernando,McBryde,50,fmcbrydeqv@nps.gov,Brazil,15700-000,red,25.48,509.73,4/20/2013,silver,mid-value,active,435.31,999,22047.21,2/10/2011,3/18/2014,referral,3
+969,Georg,Dunsmuir,44,gdunsmuirqw@imgur.com,Egypt,,red,96.39,2238.66,3/19/2016,,high-value,inactive,342.11,556,9471.6,9/23/2020,10/15/2014,social media,2
+970,Cindi,Beaston,53,cbeastonqx@canalblog.com,Russia,368380,green,76.95,2826.88,4/29/2012,platinum,high-value,inactive,741.96,856,99641.41,10/7/2016,5/24/2022,email marketing,3
+971,Cy,Jordanson,19,cjordansonqy@ning.com,Pakistan,53401,blue,33.86,6213.86,11/24/2021,gold,mid-value,active,260.53,406,25051.29,7/2/2014,12/1/2018,email marketing,3
+972,Wenona,Crumley,34,wcrumleyqz@huffingtonpost.com,Argentina,8412,blue,64.04,1857.65,4/8/2021,platinum,low-value,active,519.03,366,63680.33,10/26/2011,6/30/2013,,3
+973,Cole,Shemilt,48,cshemiltr0@tiny.cc,Philippines,2718,green,82.56,2869.13,9/22/2015,silver,high-value,inactive,322.06,420,56184.23,11/15/2015,8/23/2015,,5
+974,Tedra,Karlicek,50,tkarlicekr1@prlog.org,Czech Republic,588 51,blue,78.1,9781.08,8/10/2011,platinum,high-value,active,309.48,746,30670.01,6/20/2016,3/9/2021,referral,2
+975,Orrin,Adshead,25,oadsheadr2@berkeley.edu,Comoros,,red,71.56,4436.08,1/19/2015,platinum,mid-value,inactive,787.06,323,41159.57,5/2/2011,6/27/2012,referral,2
+976,Francois,Belli,53,fbellir3@soundcloud.com,China,,green,40.15,3111.25,4/8/2022,silver,low-value,active,716.92,258,933.67,12/23/2012,6/21/2012,referral,1
+977,Marcelia,Callum,55,mcallumr4@soundcloud.com,Israel,,red,37.47,9159.79,12/10/2016,silver,low-value,inactive,336.24,595,81008.44,2/22/2012,6/2/2018,,3
+978,Irvine,Sambedge,51,isambedger5@mac.com,Greece,,red,78.79,6652.64,2/26/2013,gold,mid-value,inactive,8.87,439,44630.78,8/5/2016,11/1/2017,social media,1
+979,Tyrone,Deverson,59,tdeversonr6@sourceforge.net,China,,red,92.5,7296.16,9/12/2022,platinum,high-value,inactive,383.96,484,35651.57,9/15/2010,12/31/2012,referral,4
+980,Asa,Bencher,48,abencherr7@ning.com,Ukraine,,red,11.34,3352.53,5/2/2020,gold,low-value,inactive,116.03,513,38589.18,5/28/2012,10/2/2013,email marketing,2
+981,Aretha,Pine,38,apiner8@rambler.ru,Ukraine,,red,51.58,9023.85,5/21/2013,platinum,high-value,inactive,937.73,627,71288.71,4/6/2011,6/17/2010,social media,5
+982,Merwin,Coger,79,mcogerr9@cmu.edu,Philippines,6204,green,91.13,2796.52,12/8/2021,bronze,mid-value,active,29.77,692,1481.36,2/2/2013,3/9/2020,social media,4
+983,Roldan,Blune,56,rblunera@ted.com,China,,red,23.66,3339.51,11/9/2017,silver,low-value,inactive,,379,56216.72,4/27/2018,5/5/2018,social media,2
+984,Nadeen,Gaber,71,ngaberrb@squarespace.com,Lithuania,30001,red,22.34,3121.51,9/7/2017,bronze,high-value,inactive,151.6,433,57288.29,11/8/2016,9/26/2011,referral,3
+985,Fanya,Warrell,39,fwarrellrc@usa.gov,Myanmar,,green,67.39,633.23,10/29/2016,bronze,mid-value,active,734.8,870,5218.58,6/3/2017,10/18/2017,,1
+986,Freddie,Wheowall,76,fwheowallrd@so-net.ne.jp,Morocco,,red,28.42,7463.98,12/18/2016,bronze,low-value,inactive,,629,35401.59,5/14/2012,10/28/2015,referral,2
+987,Kala,Winship,43,kwinshipre@wiley.com,Italy,152,blue,86.81,8113.72,2/24/2014,silver,high-value,active,816.88,649,63920.39,12/2/2013,10/18/2017,social media,1
+988,Geri,Donohoe,47,gdonohoerf@wunderground.com,China,,red,73.35,2645.96,6/18/2017,bronze,low-value,inactive,762.66,3,97954.94,5/21/2011,7/5/2016,social media,2
+989,Candide,Tettersell,49,ctettersellrg@wp.com,China,,,79.85,4136.5,9/26/2017,gold,mid-value,active,719.71,90,9339.8,8/30/2013,5/15/2011,social media,2
+990,Beverley,Talby,38,btalbyrh@cmu.edu,Russia,347350,green,44.77,2588.18,7/13/2021,bronze,high-value,active,592.33,424,48259.82,12/7/2019,2/7/2019,referral,5
+991,Filippo,Duckham,36,fduckhamri@phpbb.com,Kosovo,,blue,28.13,7104.86,8/16/2021,platinum,high-value,inactive,297.19,290,10079.52,9/2/2022,7/19/2015,social media,3
+992,Goldina,Huyghe,84,ghuygherj@virginia.edu,North Korea,,,98.22,2680.42,10/2/2019,silver,mid-value,inactive,349.69,854,82082.58,2/5/2013,7/9/2016,referral,4
+993,Bettina,Dowley,84,bdowleyrk@bizjournals.com,Russia,397355,red,44.29,9312.82,8/6/2010,platinum,low-value,inactive,263.46,562,68244.45,8/20/2010,12/27/2021,email marketing,1
+994,Nancy,Moseley,43,nmoseleyrl@imgur.com,Brazil,88780-000,green,72.27,616.93,9/13/2021,,high-value,active,11.96,572,85574.68,2/21/2013,1/1/2021,social media,2
+995,Manya,Baughn,83,mbaughnrm@epa.gov,Greece,,red,97.95,9335.92,2/26/2021,gold,mid-value,active,86.98,513,49361.65,4/18/2011,11/29/2015,,3
+996,Lexine,Potbury,53,lpotburyrn@creativecommons.org,Portugal,4780-320,green,8.15,2243.43,3/5/2013,gold,high-value,inactive,791.12,216,44532.61,2/11/2018,3/18/2015,email marketing,3
+997,Charil,Calender,71,ccalenderro@craigslist.org,China,,green,65.66,6823.33,3/23/2020,platinum,low-value,inactive,703.62,692,50983.59,6/18/2013,2/24/2013,email marketing,5
+998,Lucian,Huxster,38,lhuxsterrp@yellowpages.com,Ghana,,blue,21.22,308.05,9/19/2021,gold,low-value,active,956.97,764,69504.03,1/19/2012,1/26/2020,social media,4
+999,Johnathon,Tooley,43,jtooleyrq@bluehost.com,China,,green,84.12,8255.05,4/28/2013,platinum,mid-value,active,959.25,251,5801.2,5/24/2017,8/29/2011,referral,2
+1000,Benjamin,Abbs,41,babbsrr@dell.com,Turkey,45600,green,64.33,110.38,10/20/2016,silver,low-value,active,445.6,248,46348.12,5/20/2021,9/5/2010,referral,4
