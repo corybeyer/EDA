@@ -1,0 +1,33 @@
+name: Convert Jupyter Notebook to Python Script
+
+on:
+  push:
+    paths:
+      - 'path/to/your/notebook.ipynb'  # Replace with the actual path to your notebook file
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Jupyter
+      run: pip install nbconvert
+
+    - name: Convert Notebook to Python Script
+      run: jupyter nbconvert --to script https://github.com/corybeyer/EDA/blob/main/EDA.ipynb  # Replace with the actual path to your notebook file
+
+    - name: Commit and Push Changes
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add -A
+        git commit -m "Automatically convert Jupyter Notebook to Python script"
+        git push
