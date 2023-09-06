@@ -73,8 +73,8 @@ class Data_Explorer:
         ratio_ones_to_all = ones/total_rows
         
         data = {
-        "Ratio of 1s to 0s": ratio_ones_to_zeros,
-        "Ratio of 1s to all entries": ratio_ones_to_all
+        "Type": ["Ratio of 1s to 0s","Ratio of 1s to all entries"],
+        "Values" [ratio_ones_to_zeros, ratio_ones_to_all]
         }
         
         return pd.DataFrame(data)    
