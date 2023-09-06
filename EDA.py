@@ -245,7 +245,7 @@ class Data_Explorer:
             if not isinstance(variables, list):
                 raise ValueError("The variables input must be a list if provided.")
             else:
-                num_rows = len(self.categorical_names.drop(variables))
+                num_rows = len(self.categorical_names.drop(~variables))
                 fig, axe = plt.subplots(nrows=num_rows, figsize=(10, 7 * num_rows))
                 for i, column in enumerate(self.categorical_names.drop(variables)):
                     sns.countplot(data=self.categorical_features, x=column, hue = self.target, ax=axe[i])
