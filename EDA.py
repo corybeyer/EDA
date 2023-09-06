@@ -215,19 +215,3 @@ class Data_Explorer:
                 fig, axe = plt.subplots(nrows=num_rows, figsize=(10, 7 * num_rows))
                 for i, column in enumerate(self.categorical_names.drop(variables)):
                     sns.countplot(data=self.categorical_features, x=column, hue = self.target, ax=axe[i])
-
-
-
-# %%
-file = r"C:\Users\coryb\OneDrive\Python Scripts\EDA\MOCK_DATA.csv"
-data = pd.read_csv(file, 
-                   parse_dates= ['last_purchase_date','customer_acquisition_date','customer_churn_date']
-)
-
-df = pd.DataFrame(data)
-
-dict_map = {'low-value':0, "mid-value":0, "high-value":1}
-df['customer_segment'] = df['customer_segment'].map(dict_map)
-
-eda = Data_Explorer(df,target='customer_segment')
-# %%
