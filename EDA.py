@@ -74,7 +74,7 @@ class Data_Explorer:
         
         data = {
         "Type": ["Ratio of 1s to 0s","Ratio of 1s to all entries"],
-        "Values" [ratio_ones_to_zeros, ratio_ones_to_all]
+        "Values": [ratio_ones_to_zeros, ratio_ones_to_all]
         }
         
         return pd.DataFrame(data)    
