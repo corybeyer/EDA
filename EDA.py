@@ -63,7 +63,7 @@ class Data_Explorer:
         
         fig, axes = plt.subplots(nrows=len(self.boolean_names), figsize=(10, 7 * len(self.boolean_names)))
         for i, column in enumerate(self.boolean_names):
-            sns.countplot(data=df, x=column, ax=axes[i], order=df[column].value_counts().index)
+            sns.countplot(data=self.df, x=column, ax=axes[i], order=self.df[column].value_counts().index)
             axes[i].set_title(f'Count Plot - {column}')
             axes[i].set_ylabel('Unique Count')
             
