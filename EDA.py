@@ -41,7 +41,8 @@ class Data_Explorer:
     def target_nulls(self):
         null_percentages = round(self.target.isnull().sum()/len(self.df) * 100,3)
         column = ["Percent Null"]
-        temp_df = pd.DataFrame(null_percentages, columns = column)
+        ## error required next line needed [null_percentages] instead of null_percentages w/o bracekts becuase it prevoiusly returned 0.00 and not a series
+        temp_df = pd.DataFrame([null_percentages], columns = column)
         return temp_df
     
     def target_plot(self):
