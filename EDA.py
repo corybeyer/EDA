@@ -38,6 +38,12 @@ class Data_Explorer:
         self.dates_names = self.df.select_dtypes('datetime').columns
         self.dates_features = self.df[self.dates_names]
 
+    def target_nulls(self):
+        null_percentages = round(self.target.isnull().sum()/len(self.df) * 100,3)
+        column = ["Percent Null"]
+        temp_df = pd.DataFrame(null_percentages, columns = column)
+        return temp_df
+    
     def target_plot(self):
         if self.target.dtype == 'O':
             fig, axe = plt.subplots()
@@ -197,6 +203,9 @@ class Data_Explorer:
                 plt.tight_layout()
     def numeric_describe(self):
         return self.numeric_features.describe().T
+
+    def target_describe(self):
+        return self.target.describe().T
     
     def categorical_describe(self):
         return self.categorical_features.describe().T
