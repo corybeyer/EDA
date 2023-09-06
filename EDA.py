@@ -55,6 +55,30 @@ class Data_Explorer:
             axe.set_title(f'Histogram Plot - {self.target.name}')
             sns.histplot(x = self.target, ax = axe)
 
+    def target_class_balance_binary(self):
+        total_rows = len(self.df)
+        counts = self.target.value_counts()
+
+        data_check = set(counts.index)
+        if data_check != {0,1}:
+            return "This is not binary data"
+        
+        ones = counts.get(1,0)
+        zeros = counts.get(0,0)
+        if zeros != 0:
+            ratio_ones_to_zeros = ones/zeros
+        else:
+            ratio_ones_to_zeros = "Undefined, division by zero error"
+
+        ratio_ones_to_all = ones/total_rows
+        
+        data = {
+        "Ratio of 1s to 0s": ratio_ones_to_zeros,
+        "Ratio of 1s to all entries": ratio_ones_to_all
+        }
+        
+        return pd.DataFrame(data)    
+    
     def boolean_nulls(self):
         if self.boolean_names.empty:
             return "No boolean columns selected."
