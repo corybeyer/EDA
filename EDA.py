@@ -250,7 +250,7 @@ class Data_Explorer:
                 for i, column in enumerate(self.categorical_names.drop(variables)):
                     sns.countplot(data=self.categorical_features, x=column, hue = self.target, ax=axe[i])
     
-    def numerical_to_target( variables = None):
+    def numerical_to_target(self,  variables = None):
         if variables is None:
             dfm = np.log(self.numeric_features.copy())
             dfm['Target'] = self.target
