@@ -226,6 +226,7 @@ class Data_Explorer:
                 # Adjust the layout to prevent overlap
                 plt.subplots_adjust(hspace=0.5)
                 plt.tight_layout()
+    
     def numeric_describe(self):
         return self.numeric_features.describe().T
 
@@ -274,13 +275,13 @@ class Data_Explorer:
                 dfm['Target'] = self.target
                 dfm = dfm.melt(id_vars = 'Target', var_name = 'Distribution')
                 sns.displot(kind = 'kde',
-                            data = dfm,
-                            col = 'Distribution',
-                            col_wrap = 1,
-                            x = 'value',
-                            hue = 'Target',
-                            fill = True,
-                            height = 8,
-                            aspect = 1.5,
-                            facet_kws = {'sharey': False, 'sharex': False}
-                           )
+                        data = dfm,
+                        col = 'Distribution',
+                        col_wrap = 1,
+                        x = 'value',
+                        hue = 'Target',
+                        fill = True,
+                        height = 8,
+                        aspect = 1.5,
+                        facet_kws = {'sharey': False, 'sharex': False}
+                       )
