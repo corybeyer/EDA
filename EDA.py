@@ -284,3 +284,26 @@ class Data_Explorer:
                         aspect = 1.5,
                         facet_kws = {'sharey': False, 'sharex': False}
                        )
+
+def numerical_to_target2(variables=None, kind='kde', col_wrap=3, height=8, aspect=1.5):
+    if variables is None:
+        dfm = np.log(self.numeric_features.copy())
+    else:
+        if not isinstance(variables, list):
+            raise ValueError("The variables input must be a list if provided.")
+        dfm = np.log(self.numeric_features.loc[:, ~self.numeric_features.columns.isin(variables)].copy())
+        
+    dfm['Target'] = self.target
+    dfm = dfm.melt(id_vars='Target', var_name='Distribution')
+    
+    sns.displot(kind=kind,
+                data=dfm,
+                col='Distribution',
+                col_wrap=col_wrap,
+                x='value',
+                hue='Target',
+                fill=True,
+                height=height,
+                aspect=aspect,
+                facet_kws={'sharey': False, 'sharex': False}
+                )
