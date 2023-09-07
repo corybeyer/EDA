@@ -249,3 +249,38 @@ class Data_Explorer:
                 fig, axe = plt.subplots(nrows=num_rows, figsize=(10, 7 * num_rows))
                 for i, column in enumerate(self.categorical_names.drop(variables)):
                     sns.countplot(data=self.categorical_features, x=column, hue = self.target, ax=axe[i])
+    
+    def numerical_to_target( variables = None):
+        if variables is None:
+            dfm = np.log(self.numeric_features.copy())
+            dfm['Target'] = self.target
+            dfm = dfm.melt(id_vars = 'Target', var_name = 'Distribution')
+            sns.displot(kind = 'kde',
+                        data = dfm,
+                        col = 'Distribution',
+                        col_wrap = 3,
+                        x = 'value',
+                        hue = 'Target',
+                        height = 8,
+                        aspect = 1.5,
+                        fill = True,
+                        facet_kws = {'sharey': False, 'sharex': False}
+                    )
+        else:
+            if not isinstance(variables, list):
+                raise ValueError("The variables input must be a list if provided.")
+            else:
+                dfm = np.log(self.numeric_features.loc[:, ~ self.numeric_features.columns.isin(variables)].copy())
+                dfm['Target'] = self.target
+                dfm = dfm.melt(id_vars = 'Target', var_name = 'Distribution')
+                sns.displot(kind = 'kde',
+                            data = dfm,
+                            col = 'Distribution',
+                            col_wrap = 1,
+                            x = 'value',
+                            hue = 'Target',
+                            fill = True,
+                            height = 8,
+                            aspect = 1.5,
+                            facet_kws = {'sharey': False, 'sharex': False}
+                           )
