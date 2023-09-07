@@ -284,7 +284,7 @@ class Data_Explorer:
                         aspect = 1.5,
                         facet_kws = {'sharey': False, 'sharex': False}
                        )
-    def numerical_to_target123(variables=None):
+    def numerical_to_target123( self, variables=None):
         # Create a copy of the DataFrame
         dfm = np.log(self.numeric_features.copy())
         
