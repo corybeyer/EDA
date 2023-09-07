@@ -58,11 +58,10 @@ class Data_Explorer:
     def target_class_balance_binary(self):
         total_rows = len(self.df)
         counts = self.target.value_counts()
-
         data_check = set(counts.index)
+        # checking for binary data
         if data_check != {0,1}:
             return "This is not binary data"
-        
         ones = counts.get(1,0)
         zeros = counts.get(0,0)
         if zeros != 0:
