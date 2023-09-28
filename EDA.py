@@ -29,7 +29,11 @@ darker_palette = [darken_color(color) for color in original_palette]
 # Set the darker palette
 sns.set_palette(darker_palette)
 
-# In[1]:
+def custom_log(x, small_value=1e-10):
+    if x <= 0:
+        x = small_value
+    return math.log(x)   
+
 class Data_Explorer:
     def __init__(self, df, target):
         self.df = df.drop(columns = target).copy()
@@ -52,11 +56,6 @@ class Data_Explorer:
 
         self.dates_names = self.df.select_dtypes('datetime').columns
         self.dates_features = self.df[self.dates_names]
-    
-    def custom_log(x, small_value=1e-10):
-        if x <= 0:
-            x = small_value
-        return math.log(x)    
 
     def target_nulls(self):
         null_percentages = round(self.target.isnull().sum()/len(self.df) * 100,3)
@@ -73,6 +72,7 @@ class Data_Explorer:
         else:
             fig, axe = plt.subplots()
             axe.set_title(f'Histogram Plot - {self.target.name}')
+            
             sns.histplot(x = self.target.apply(lambda x: custom_log(x))), ax = axe)
 
     def target_class_balance_binary(self):
