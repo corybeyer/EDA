@@ -11,8 +11,23 @@ import math
 import warnings
 warnings.filterwarnings("ignore")
 
+from matplotlib.colors import to_rgb, to_hex
 sns.set_style("darkgrid")
 sns.set_palette("PRGn")
+
+def darken_color(color, factor=0.8):
+    rgb = to_rgb(color)
+    darker_rgb = [x * factor for x in rgb]
+    return to_hex(darker_rgb)
+
+# Create the original palette
+original_palette = sns.color_palette("PRGn")
+
+# Darken the colors in the palette
+darker_palette = [darken_color(color) for color in original_palette]
+
+# Set the darker palette
+sns.set_palette(darker_palette)
 
 # In[1]:
 class Data_Explorer:
@@ -37,6 +52,11 @@ class Data_Explorer:
 
         self.dates_names = self.df.select_dtypes('datetime').columns
         self.dates_features = self.df[self.dates_names]
+    
+    def custom_log(x, small_value=1e-10):
+        if x <= 0:
+            x = small_value
+        return math.log(x)    
 
     def target_nulls(self):
         null_percentages = round(self.target.isnull().sum()/len(self.df) * 100,3)
@@ -53,7 +73,7 @@ class Data_Explorer:
         else:
             fig, axe = plt.subplots()
             axe.set_title(f'Histogram Plot - {self.target.name}')
-            sns.histplot(x = self.target, ax = axe)
+            sns.histplot(x = self.target.apply(lambda x: custom_log(x))), ax = axe)
 
     def target_class_balance_binary(self):
         total_rows = len(self.df)
@@ -250,59 +270,25 @@ class Data_Explorer:
                 for i, column in enumerate(self.categorical_names.drop(variables)):
                     sns.countplot(data=self.categorical_features, x=column, hue = self.target, ax=axe[i])
     
-    def numerical_to_target(self,  variables = None):
-        if variables is None:
-            dfm = np.log(self.numeric_features.copy())
-            dfm['Target'] = self.target
-            dfm = dfm.melt(id_vars = 'Target', var_name = 'Distribution')
-            sns.displot(kind = 'kde',
-                        data = dfm,
-                        col = 'Distribution',
-                        col_wrap = 3,
-                        x = 'value',
-                        hue = 'Target',
-                        height = 8,
-                        aspect = 1.5,
-                        fill = True,
-                        facet_kws = {'sharey': False, 'sharex': False}
-                    )
-        else:
-            if not isinstance(variables, list):
-                raise ValueError("The variables input must be a list if provided.")
-            else:
-                dfm = np.log(self.numeric_features.loc[:, ~ self.numeric_features.columns.isin(variables)].copy())
-                dfm['Target'] = self.target
-                dfm = dfm.melt(id_vars = 'Target', var_name = 'Distribution')
-                sns.displot(kind = 'kde',
-                        data = dfm,
-                        col = 'Distribution',
-                        col_wrap = 1,
-                        x = 'value',
-                        hue = 'Target',
-                        fill = True,
-                        height = 8,
-                        aspect = 1.5,
-                        facet_kws = {'sharey': False, 'sharex': False}
-                       )
-    def numerical_to_target123( self, variables=None):
+    def numerical_to_target( self, variables=None):
         # Create a copy of the DataFrame
-        dfm = np.log(self.numeric_features.copy())
+        df_ = self.numeric_features.copy().applymap(lambda x: custom_log(x))
         
         # Drop specified columns if variables is not None
         if variables is not None:
             if not isinstance(variables, list):
                 raise ValueError("The variables input must be a list if provided.")
-            dfm.drop(columns=variables, inplace=True)
+            df_.drop(columns=variables, inplace=True)
         
         # Add the target column
-        dfm['Target'] = self.target
+        df_['Target'] = self.target
         
         # Melt the DataFrame for plotting
-        dfm = dfm.melt(id_vars='Target', var_name='Distribution')
+        dfm = df_.melt(id_vars='Target', var_name='Distribution')
         
         # Create the plot
         sns.displot(kind='kde',
-                    data=dfm,
+                    data=df_,
                     col='Distribution',
                     col_wrap=3,
                     x='value',
@@ -312,4 +298,6 @@ class Data_Explorer:
                     aspect=1.5,
                     facet_kws={'sharey': False, 'sharex': False}
                     )
+
+        sns.pairplot(df_, hue = 'Target', diag_kind = 'kde', markers=["o", "s"])
 
