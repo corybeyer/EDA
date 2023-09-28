@@ -67,9 +67,8 @@ class Data_Explorer:
             sns.countplot(x = self.target, ax = axe)
         else:
             fig, axe = plt.subplots()
-            axe.set_title(f'Histogram Plot - {self.target.name}')
-            
-            sns.histplot(x = self.target.apply(lambda x: self.custom_log(x))), ax = axe)
+            axe.set_title(f'Histogram Plot - {self.target.name}')    
+            sns.histplot(x = self.target.apply(lambda x: self.custom_log(x)), ax = axe)
 
     def target_class_balance_binary(self):
         total_rows = len(self.df)
