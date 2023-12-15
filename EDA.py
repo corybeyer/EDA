@@ -609,18 +609,3 @@ class DataExplorer:
             except ValueError as e:
                 print(f"An error occurred while processing column {col}: {e}")
                 continue
-        # Create the plot
-        sns.displot(kind='kde',
-                    data=df_,
-                    col='Distribution',
-                    col_wrap=3,
-                    x='value',
-                    hue='Target',
-                    fill=True,
-                    height=8,
-                    aspect=1.5,
-                    facet_kws={'sharey': False, 'sharex': False}
-                    )
-
-        sns.pairplot(df_, hue = 'Target', diag_kind = 'kde', markers=["o", "s"])
-
